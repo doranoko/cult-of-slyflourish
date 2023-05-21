@@ -3348,19 +3348,19 @@ Roll a d6 to determine the effect of the monument.
 
 Helpful monuments provide this benefit to your character. Harmful monuments provide this benefit to monsters. For neutral monuments, your character can roll a DC 12 Intelligence (Arcana or Religion) check. On a success, your character gains the benefit. On a failure, the monster gains the benefit.
 
-### Treasure
+### 宝物
 
-When you defeat a monster or enter a chamber with unguarded treasure, roll on the following list:
+モンスターを倒したり、見張りのない宝物のある部屋に入った場合、以下のリストでサイコロを振ってください。
 
-### 1d8 Treasures
+### 1d8 宝物
 
-1.  No treasure
-2.  No treasure
+1.  宝物なし
+2.  宝物なし
 3.  3d12 gp
 4.  3d12 gp
-5.  _Potion of healing_
-6.  _Potion of healing_
-7.  Consumable item
-8.  Permanent item
+5.  _ポーション・オヴ・ヒーリング_
+6.  _ポーション・オヴ・ヒーリング_
+7.  消耗型アイテム
+8.  永続型アイテム
 
-For consumable and permanent items, roll on the tables in the "[Treasure Generator](#treasuregenerator)" section or a random treasure table of your choice. You can replace any consumable magic item with a _potion of healing_. You can replace any permanent magic item with a _+1 weapon_ of your choice.
+消耗型と永続型アイテムについては、「[宝物生成器](#treasuregenerator)」セクションの表か、あなたの好みのランダムな宝物表でサイコロを振ってください。消耗型の魔法のアイテムはすべて _ポーション・オヴ・ヒーリング_ に置き換えることができます。永続型の魔法のアイテムは、選んだ _+1の武器_ に置き換えることができます。
