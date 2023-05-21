@@ -3,9 +3,9 @@
 [Sly Flourish](https://slyflourish.com/)のMichael E. Sheaさんが[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)で公開された[The Lazy GM's Resource Document](https://slyflourish.com/lazy_gm_resource_document.html)を日本語化するプロジェクトです。
 
 
-- The Lazy GM's Resource Document.md
+- [The Lazy GM's Resource Document.md](The%20Lazy%20GM's%20Resource%20Document.md)
   - オリジナルのHTMLをマークダウン形式に変換したもの
-- The Lazy GM's Resource Document-jp.md
+- [The Lazy GM's Resource Document-jp.md](The%20Lazy%20GM's%20Resource%20Document-jp.md)
   - 英語のマークダウンを日本語に翻訳したもの(WIP)
 
 ## メンバー
