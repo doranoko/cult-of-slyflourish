@@ -3285,12 +3285,12 @@ Dungeon Level
 10.  Ancient red dragon
 
 <a id="lazysolo5e"></a>
-Lazy Solo 5e
+怠惰なソロ5e
 ------------
 
-These rules let you play a solo game of 5e using lists in this document. With these guidelines, a single character explores a dungeon to complete quests. Let your imagination take over as you fill in the story and details of the quest, location, and adventure.
+このルールは、このドキュメントのリストを使用して、5eのソロゲームをプレイすることを可能にします。これらのガイドラインを使用すると、1人のキャラクターがクエストを完了するためにダンジョンを探索します。クエスト、場所、冒険のストーリーと詳細を埋める際に、想像力を発揮してください。
 
-This scenario begins at 1st level, and your character gains a level after each successful quest.
+このシナリオは1レベルから始まり、成功したクエストごとにキャラクターは1レベル上昇します。
 
 ### Building the Quest
 
