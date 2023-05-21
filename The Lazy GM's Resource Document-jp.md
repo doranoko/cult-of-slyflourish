@@ -1,9 +1,9 @@
 The Lazy GM's Resource Document
 ===============================
 
-Michael E. Shea, [SlyFlourish.com](https://slyflourish.com).
+マイケル・E・シア(Michael E. Shea), [SlyFlourish.com](https://slyflourish.com).
 
-Updated 8 May 2023
+2023年5月8日更新
 
 This document includes resources and guidelines for preparing and running 5e and other fantasy roleplaying games taken from several books written by Michael E. Shea and available at [SlyFlourish.com](https://slyflourish.com). Much of this material is useful for any fantasy RPG but some is specific to the 5th edition of the world's most popular roleplaying game.
 
