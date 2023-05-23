@@ -1433,345 +1433,55 @@ Any quests the characters are asked to fulfill might be distilled down to one of
 
 The location of the quest might also contain specific monuments or items tied to the adventure's goals.
 
-d20
-
-Location
-
-Monument
-
-Item
-
-1
-
-Tower
-
-Sarcophagus
-
-Coin
-
-2
-
-Crypts
-
-Obelisk
-
-Figurine
-
-3
-
-Keep
-
-Orb
-
-Gemstone
-
-4
-
-Cairn
-
-Bone pile
-
-Amulet
-
-5
-
-Giant statue
-
-Skull
-
-Earring
-
-6
-
-Caves
-
-Megalith
-
-Bell
-
-7
-
-Sewers
-
-Pillars
-
-Bone
-
-8
-
-Temple
-
-Throne
-
-Bowl
-
-9
-
-Mines
-
-Statues
-
-Candle
-
-10
-
-Mansion
-
-Well
-
-Ring
-
-11
-
-Academy
-
-Orrery
-
-Circlet
-
-12
-
-Dungeon
-
-Effigy
-
-Bracelet
-
-13
-
-Barrow
-
-Arcane circle
-
-Dagger
-
-14
-
-Vault
-
-Spire
-
-Goblet
-
-15
-
-Tomb
-
-Altar
-
-Key
-
-16
-
-Warren
-
-Pit
-
-Lamp
-
-17
-
-Ship
-
-Fountain
-
-Brooch
-
-18
-
-Sanctum
-
-Archway
-
-Skull
-
-19
-
-Cove
-
-Cage
-
-Mask
-
-20
-
-Castle
-
-Brazier
-
-Necklace
+d20 | Location | Monument | Item
+-- | -- | -- | --
+1 | Tower | Sarcophagus | Coin
+2 | Crypts | Obelisk | Figurine
+3 | Keep | Orb | Gemstone
+4 | Cairn | Bone pile | Amulet
+5 | Giant statue | Skull | Earring
+6 | Caves | Megalith | Bell
+7 | Sewers | Pillars | Bone
+8 | Temple | Throne | Bowl
+9 | Mines | Statues | Candle
+10 | Mansion | Well | Ring
+11 | Academy | Orrery | Circlet
+12 | Dungeon | Effigy | Bracelet
+13 | Barrow | Arcane circle | Dagger
+14 | Vault | Spire | Goblet
+15 | Tomb | Altar | Key
+16 | Warren | Pit | Lamp
+17 | Ship | Fountain | Brooch
+18 | Sanctum | Archway | Skull
+19 | Cove | Cage | Mask
+20 | Castle | Brazier | Necklace
 
 ### Condition, Description, and Origin
 
 Locations, monuments, or items can be flavored by determining their condition, description, and origin.
 
-d20
-
-Condition
-
-Description
-
-Origin
-
-1
-
-Smoky
-
-Ruined
-
-Human
-
-2
-
-Acidic
-
-Decrepit
-
-Elven
-
-3
-
-Bloodied
-
-Obsidian
-
-Dwarven
-
-4
-
-Burning
-
-Haunted
-
-Halfling
-
-5
-
-Frozen
-
-Unholy
-
-Gnomish
-
-6
-
-Poisonous
-
-Sunken
-
-Tiefling
-
-7
-
-Necrotic
-
-Forgotten
-
-Dragonborn
-
-8
-
-Thunderous
-
-Macabre
-
-Orc
-
-9
-
-Ringing
-
-Ancient
-
-Goblinoid
-
-10
-
-Lightning
-
-Festering
-
-Undead
-
-11
-
-Radiant
-
-Monstrous
-
-Celestial
-
-12
-
-Shadowed
-
-Golden
-
-Fey
-
-13
-
-Oozing
-
-Spired
-
-Elemental
-
-14
-
-Ethereal
-
-Towering
-
-Giant
-
-15
-
-Whispering
-
-Forsaken
-
-Fiendish
-
-16
-
-Windswept
-
-Gloomy
-
-Unseelie
-
-17
-
-Drenched
-
-Horrific
-
-Aberrant
-
-18
-
-Diseased
-
-Colossal
-
-Shadow
-
-19
-
-Crystalline
-
-Overgrown
-
-Ethereal
-
-20
-
-Silvered
-
-Shattered
-
-Abyssal
+d20 | Condition | Description | Origin
+-- | -- | -- | --
+1 | Smoky | Ruined | Human
+2 | Acidic | Decrepit | Elven
+3 | Bloodied | Obsidian | Dwarven
+4 | Burning | Haunted | Halfling
+5 | Frozen | Unholy | Gnomish
+6 | Poisonous | Sunken | Tiefling
+7 | Necrotic | Forgotten | Dragonborn
+8 | Thunderous | Macabre | Orc
+9 | Ringing | Ancient | Goblinoid
+10 | Lightning | Festering | Undead
+11 | Radiant | Monstrous | Celestial
+12 | Shadowed | Golden | Fey
+13 | Oozing | Spired | Elemental
+14 | Ethereal | Towering | Giant
+15 | Whispering | Forsaken | Fiendish
+16 | Windswept | Gloomy | Unseelie
+17 | Drenched | Horrific | Aberrant
+18 | Diseased | Colossal | Shadow
+19 | Crystalline | Overgrown | Ethereal
+20 | Silvered | Shattered | Abyssal
 
 ### Chambers
 
@@ -2057,25 +1767,12 @@ Piles of coins, shining gems, and powerful relics hidden away in the depths of t
 
 Use the following gold parcels to quickly reward adventuring groups based on the characters' average level. Reward four such parcels each level, or add parcels together to create larger rewards.
 
-Level
-
-Gold per Parcel
-
-1st - 4th
-
-100 gp (3d6 × 10 gp)
-
-5th - 10th
-
-1,300 gp (3d8 × 100 gp)
-
-11th - 16th
-
-7,000 gp (2d6 × 1,000 gp)
-
-17th - 20th
-
-70,000 gp (2d6 × 10,000 gp)
+Level | Gold per Parcel
+-- | --
+1st - 4th | 100 gp (3d6 × 10 gp)
+5th - 10th | 1,300 gp (3d8 × 100 gp)
+11th - 16th | 7,000 gp (2d6 × 1,000 gp)
+17th - 20th | 70,000 gp (2d6 × 10,000 gp)
 
 This earned wealth can take the form of coins, gemstones, jewelry, and art objects as desired. You can also adjust the numbers slightly to keep hoards from looking too uniform. For example, you might turn two 1,300 gp parcels into 1,145 gp and 1,422 gp.
 
@@ -2226,71 +1923,20 @@ To generate a simple trap, just roll on the Type list and the Trigger table. For
 
 ### Damage Severity by Level
 
-Character Level
-
-Setback
-
-Dangerous
-
-Deadly
-
-1st - 4th
-
-5 (1d10)
-
-11 (2d10)
-
-22 (4d10)
-
-5th - 10th
-
-11 (2d10)
-
-22 (4d10)
-
-55 (10d10)
-
-11-16th
-
-22 (4d10)
-
-55 (10d10)
-
-99 (18d10)
-
-17th - 20th
-
-55 (10d10)
-
-99 (18d10)
-
-132 (24d10)
+Character Level | Setback | Dangerous | Deadly
+-- | -- | -- | --
+1st - 4th | 5 (1d10) | 11 (2d10) | 22 (4d10)
+5th - 10th | 11 (2d10) | 22 (4d10) | 55 (10d10)
+11-16th | 22 (4d10) | 55 (10d10) | 99 (18d10)
+17th - 20th | 55 (10d10) | 99 (18d10) | 132 (24d10)
 
 ### Trap Save DCs and Attack Bonuses
 
-Trap Danger
-
-Save DC
-
-Attack Bonus
-
-Setback
-
-10 - 11
-
-+3 to +5
-
-Dangerous
-
-12 - 15
-
-+6 to +8
-
-Deadly
-
-16 - 20
-
-+9 to +12
+Trap Danger | Save DC | Attack Bonus
+-- | -- | --
+Setback | 10 - 11 | +3 to +5
+Dangerous | 12 - 15 | +6 to +8
+Deadly | 16 - 20 | +9 to +12
 
 <a id="randommonuments"></a>
 Random Monuments
@@ -2622,45 +2268,12 @@ Also included is a table noting the four types of _healing potions_ and how many
 
 ### Potions of Healing
 
-d20
-
-Potion of
-
-Rarity
-
-HP Regained
-
-1 - 12
-
-Healing
-
-Common
-
-2d4 + 2
-
-13 - 16
-
-Greater healing
-
-Uncommon
-
-4d4 + 4
-
-17 - 19
-
-Superior healing
-
-Rare
-
-8d4 + 8
-
-20
-
-Supreme healing
-
-Very rare
-
-10d4 + 20
+| d20 | Potion of | Rarity | HP Regained |
+| -- | -- | -- | -- |
+| 1 - 12 | Healing | Common | 2d4 + 2 |
+| 13 - 16 | Greater healing | Uncommon | 4d4 + 4 |
+| 17 - 19 | Superior healing | Rare | 8d4 + 8 |
+| 20 | Supreme healing | Very rare | 10d4 + 20 |
 
 <a id="randomtownevents"></a>
 Random Town Events
