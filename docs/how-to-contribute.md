@@ -80,6 +80,11 @@ mayosuke/cult-of-slyflourishリポジトリのトップ画面右上にある「F
 
 [The Lazy GM's Resource Document-jp.md](The%20Lazy%20GM's%20Resource%20Document-jp.md)を開いて編集内容が反映されたことを確認して、一連の編集作業は完了です。
 
+編集の履歴をここから辿ることもできます。
+![](images/check_history.png)
+
+![](images/merged_history.png)
+
 
 ## 参考
 
