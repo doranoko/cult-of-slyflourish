@@ -3333,20 +3333,20 @@ Roll for a random monster on the Monster table in the "[Random Dungeon Monsters]
 
 Assume the monster starts 25 feet away from you. Roll for initiative, with the monster using a static initiative score of 10 + the monster's Dexterity bonus. Adjudicate combat as you desire, assuming the monster acts as they would given their fiction.
 
-### Monuments
+### モニュメント
 
-Each monster encounter includes a helpful, neutral, or harmful monument. Generate monuments using the Locations, Monuments, and Items table, and the Condition, Description, and Origin table in the "[Core Adventure Generators](#coreadventuregenerators)" section.
+各モンスターとの遭遇には、助けになる、中立な、または有害なモニュメントが含まれます。モニュメントは、「ロケーション、モニュメント、アイテム」テーブルと「コアアドベンチャージェネレーター」セクションの「条件、説明、起源」テーブルを使用して生成します。
 
-Roll a d6 to determine the effect of the monument.
+モニュメントの効果を決定するために、1d6を振ってください。
 
-1.  +1 to AC
-2.  +1 to attacks and save DCs
-3.  +1 AC and saving throws
-4.  +1 temp hit point per character level (minimum 5)
-5.  +1d6 damage per five character levels
-6.  Advantage on attack rolls
+1. ACが+1
+2. 攻撃ロールとセーヴ難易度が+1
+3. ACとセーヴ難易度が+1
+4. 1キャラクターレベルごとに一時ヒットポイントが+1（最低5）
+5. 5キャラクターレベルごとに1d6の追加ダメージ
+6. 攻撃ロールで有利
 
-Helpful monuments provide this benefit to your character. Harmful monuments provide this benefit to monsters. For neutral monuments, your character can roll a DC 12 Intelligence (Arcana or Religion) check. On a success, your character gains the benefit. On a failure, the monster gains the benefit.
+助けになるモニュメントは、キャラクターにこの利益をもたらします。有害なモニュメントは、モンスターにこの利益をもたらします。中立のモニュメントの場合、キャラクターはDC12の知力（魔法学または宗教）判定を行うことができます。成功するとキャラクターが利益を得ます。失敗するとモンスターが利益を得ます。
 
 ### 宝物
 
