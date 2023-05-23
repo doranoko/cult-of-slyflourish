@@ -3,6 +3,7 @@
 ## 1. 準備
 
 1. GitHubアカウントをつくる
+    - 参考：[GitHubにサインアップ(Sign up) - 新規ユーザ登録 - Qiita](https://qiita.com/mfunaki/items/e01762475967d4e05a1f)
 1. 作成したアカウントでGitHubにログインする
 
 
