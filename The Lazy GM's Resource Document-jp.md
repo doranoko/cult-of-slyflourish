@@ -46,7 +46,7 @@ Table of Contents
 *   [Random Items](#randomitems)
 *   [Random Town Events](#randomtownevents)
 *   [Random Dungeon Monsters](#randomdungeonmonsters)
-*   [Lazy Solo 5e](#lazysolo5e)
+*   [怠惰なソロ5e](#lazysolo5e)
 
 <a id="eightsteps"></a>
 The Eight Steps of Lazy RPG Prep
@@ -3010,46 +3010,46 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 
 このシナリオは1レベルから始まり、成功したクエストごとにキャラクターは1レベル上昇します。
 
-### Building the Quest
+### クエストの構築
 
-First, build a quest-giving NPC by rolling for behavior and ancestry in the "[Core Adventure Generators](#coreadventuregenerators)" section of this document. Choose a name and any other details from the "[NPC Generator](#npcgenerator)" section.
+まず、本書の「[コア・アドベンチャー・ジェネレーター](#coreadventuregenerators)」のセクションで、行動と祖先をロールして、クエストを与えるNPCを構築します。名前とその他の詳細は「[NPCジェネレーター](#npcgenerator)」のセクションから選びます。
 
-Next, roll on the Quests in "[Core Adventure Generators](#coreadventuregenerators)". Determine the location by rolling on the Condition, Description, Origin, and Location table.
+次に、「[コア・アドベンチャー・ジェネレーター](#coreadventuregenerators)」のクエスト表でロールします。条件、説明、由来、場所の表もロールしてクエストの場所を決定します。
 
-Choose a map for the location from your favorite online source of maps or any other maps you have on hand. Choose a map that fits the location. Maps with fifteen or more rooms work best for adventures created with these guidelines.
+オンラインで見つけた気に入った地図や手持ちの地図の中から、その場所に合った地図を選びます。このガイドラインで作成したアドベンチャーには、15部屋以上の地図が最適です。
 
-You can then fill in additional quest details from the other tables in "[Core Adventure Generators](#coreadventuregenerators)". Examples include required keys, monuments, villains, lieutenants, and other quest goals.
+「[コア・アドベンチャー・ジェネレーター](#coreadventuregenerators)」の他のテーブルから、クエストの詳細を追加することもできます。例えば、必要な鍵、モニュメント、悪役、副官、その他のクエスト目標などです。
 
-Choose a starting room on the map that makes sense.
+最後にマップ上でクエストのはじまりにふさわしいと思われるスタート地点を選択します。
 
-### Exploring the Dungeon
+### ダンジョンを探索する
 
-Each time you enter a chamber, roll to determine what you find there.
+部屋に入るたびにダイスを振って、そこに何があるのか決定します。
 
-Each time your roll comes up 4, 5, 6, or 7, indicated by "QP" below, your quest progresses one step. You might acquire a needed key or face a villain's lieutenant. You decide what type of progress you make.
+出目が(QPと示されている)4、5、6、7になるたびに、クエストは1段階進展します。必要な鍵を手に入れたり、悪役の副官と対決したりすることもあります。どのような進展になるかは、あなたが決めます。
 
-On your fourth roll of quest progress, you reach the final challenge of the quest. If you succeed, you have completed the quest and gain a new level.
+4回目のクエスト進展で、あなたはそのクエストの最終関門に到達します。成功すると、クエストを完了し、新たなレベルを獲得することができます。
 
-1.  Trap or hazard
-2.  Trap or hazard
-3.  Monster and harmful monument
-4.  Monster and harmful monument (QP)
-5.  Monster and neutral monument (QP)
-6.  Monster and neutral monument (QP)
-7.  Monster and helpful monument (QP)
-8.  Monster and helpful monument
-9.  Healing font (restore 2d6 hit points).
-10.  Unguarded treasure
+1.  罠または危険
+2.  罠または危険
+3.  モンスターと有害なモニュメント
+4.  モンスターと有害なモニュメント(QP)
+5.  モンスターと中立のモニュメント(QP)
+6.  モンスターと中立のモニュメント(QP)
+7.  モンスターと有益なモニュメント(QP)
+8.  モンスターと有益なモニュメント
+9.  ヒーリングフォント（2d6ヒットポイント回復）。
+10.  無防備な宝物
 
-### Traps and Hazards
+### 罠と危険
 
-Roll for the trap type on the Traps and Hazards table in the "[Core Adventure Generators](#coreadventuregenerators)" section. Then make a DC 12 Wisdom (Perception) check to locate the trap or hazard. Roll the most applicable ability check or saving throw vs DC 12 to avoid the trap or hazard. Failure on either roll results in 1d6 damage per character level of a type appropriate for the trap.
+「[コア・アドベンチャー・ジェネレーター](#coreadventuregenerators)」のセクションにある「罠と危険」の表で、罠の種類をロールする。その後、罠や危険を見つけるためにDC12の判断力（知覚）判定を行う。その罠や危険を回避するためには、DC12で最も適切と思われる能力値判定かセービング・スローを行う。どちらかのロールに失敗した場合、その罠に適した種類のダメージをキャラクターレベルにつき1d6与える。
 
-### Monster Encounter
+### モンスターとの遭遇
 
-Roll for a random monster on the Monster table in the "[Random Dungeon Monsters](#randomdungeonmonsters)" section, selecting a dungeon level equal to your character level.
+「[ランダムダンジョンモンスター](#randomdungeonmonsters)」の項にあるモンスター表で、あなたのキャラクターレベルと同じダンジョンレベルを選択して、ランダムなモンスターをロールして決めます。
 
-Assume the monster starts 25 feet away from you. Roll for initiative, with the monster using a static initiative score of 10 + the monster's Dexterity bonus. Adjudicate combat as you desire, assuming the monster acts as they would given their fiction.
+そのモンスターはあなたから25フィート離れたところからスタートすると仮定します。キャラクターのイニシアティブは通常どおりロールし、モンスターには10＋モンスターの敏捷力ボーナスの静的イニシアティブ値を使用する。モンスターはモンスター自身の特徴・ゲームの場面・状況にふさわしい行動をすると仮定して、最終的にはあなたが望むように戦闘を裁定すること。
 
 ### モニュメント
 
