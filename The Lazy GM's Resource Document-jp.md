@@ -927,79 +927,79 @@ At 11th level and higher, an encounter might be deadly if the total of all the m
 This sets up encounters of a much greater challenge than the baseline benchmark, but it might work more accurately for higher-powered characters.
 
 <a id="totmguidelines1"></a>
-Theater of the Mind Guidelines (Extended)
+脳内劇場ガイドライン（拡張版）
 -----------------------------------------
 
-The following guidelines can help Gamemasters run combat in the "theater of the mind," without the need for a gridded battle map or miniatures. This style of combat takes the emphasis away from tactical features such as distance, range, and the specific size of areas of effect. Instead, it focuses on the in-game action, the intent of the characters, and what happens in the story.
+以下のガイドラインは、ゲームマスターが戦闘マップやミニチュアを使わずに、「脳内劇場」での戦闘を行うのに役立ちます。この戦闘スタイルでは、距離や射程、効果範囲の大きさといった戦術的な特徴に重点を置く代わりに、ゲーム内のアクション、キャラクターの意図、そしてストーリーで起こることを重視します。
 
-This style of combat works just like any other scene in your game. On each player's turn, you describe the current situation, the players describe their intent, and you adjudicate what happens as a result.
+この戦闘スタイルは、ゲーム内の他のシーンと同じように機能します。各プレイヤーの手番で、あなたは現在の状況を説明し、プレイヤーはその意図を説明し、あなたはその結果起こることを裁定します。
 
-Theater-of-the-mind combat requires that the players trust you as the Gamemaster, knowing that you'll describe the situation and adjudicate the results of the characters' actions fairly. As the GM, you'll earn this trust by favoring the players whenever possible, and by focusing on sharing an action-packed story.
+脳内劇場スタイルの戦闘では、ゲームマスターであるあなたが状況を適切に説明し、キャラクターの行動の結果を公正に裁定してくれる、というプレイヤーからあなたへの信頼が重要です。GMとして、可能な限りプレイヤーがやりたいことを尊重し、アクション満載のストーリーを共有することに集中することで、この信頼を得ることができます。
 
-Running theater-of-the-mind combat removes agency from the players. It takes away their ability to control every aspect of how their characters move and what they do. As the GM, you can mitigate this by asking each player for their intent each turn, then helping them meet that intent. For example, a player who says "I move close to the orcs" potentially leaves too many possibilities open. So encourage the player to focus their intent more – perhaps along the lines of, "I want to position myself so that at least two orcs are within the reach of my glaive."
+脳内劇場スタイルの戦闘を行うと、(グリッドマップを使用した戦闘を行う際にあるような)主体性をプレイヤーから奪うことになります。自分のキャラクターがどのように動き、何をするのか、あらゆる面をコントロールする能力を奪ってしまうのです。GMとしては、各プレイヤーにターンごとに意図を尋ね、その意図に沿うようにサポートすることで、これを軽減することができます。例えば、「オークの近くに移動する」と言ったプレイヤーは、可能性を広げすぎてしまう可能性があります。そこで、「少なくとも2体のオークがグレイブの届く範囲に位置するようにしたい」というように、より意図を絞るように促します。
 
-When playing in the theater of the mind, both you and the players must worry less about the mechanical details of the game. Instead, everyone will focus on the action and the story.
+脳内劇場スタイルでプレイする場合、あなたもプレイヤーも、ゲームのルール的な詳細についてはあまり気にしないようにしなければなりません。その代わりに、全員がアクションとストーリーに集中することになります。
 
-### Summary Guidelines for the GM
+### GMのための要約ガイドライン
 
-*   Each turn, describe the situation surrounding the characters.
-*   Ask for the players' intent and help them achieve it.
-*   Be generous. Give players the benefit of the doubt.
-*   Use ability checks to let the characters try crazy ideas.
-*   Ask the players to describe interesting physical characteristics of the monsters, and use these to identify monsters during combat.
-*   Bring characters into the story by asking them to describe their killing blows.
-*   When needed, use sketches, abstract maps, or miniatures to show complicated locations and relative positions.
+* 手番ごとに、キャラクターを取り巻く状況を説明する。
+* プレイヤーの意図を汲み取り、それを達成する手助けをする。
+* 寛大であれ。プレイヤーにとって有利にすべきか不利にすべきか判断に迷うような状況では、プレイヤーに有利な状況を与える。
+* 能力値判定を使って、キャラクターに突拍子もないアイデアを試させる。
+* プレイヤーにモンスターの興味深い身体的特徴を描写するよう求め、戦闘中にモンスターを識別するためにそれらを使用します。
+* キャラクターを物語に引き込むために、彼らの止めの一撃を描写するよう尋ねる。
+* 必要に応じて、スケッチや抽象的な地図、ミニチュアなどを使って、複雑な場所や相対的な位置関係を示す。
 
-### Summary Guidelines for Players
+### プレイヤーのための要約ガイドライン
 
-*   Describe your intent. What you want to accomplish?
-*   Use the features of the area to your advantage.
-*   Don't worry about specific distances. Just describe what you want to do.
-*   Try awesome ideas based on the details of the location.
-*   Describe your character's actions within the story.
+* あなたの意図を記述してください。何を成し遂げたいのか？
+* 現在のシーンの舞台である土地・場所の特徴をうまく利用しましょう。
+* 具体的な距離については気にせず、ただ何をしたいかを述べてください。
+* 場所の詳細に基づいて、素晴らしいアイデアを試してみてください。
+* ストーリーの中での行動として、あなたのキャラクターの行動を描写してください。
 
-### Movement, Distance, and Range
+### 移動、距離、範囲
 
-At the beginning of combat, you describe the situation, features, distances, and arrangements of the creatures in the area. Assuming a moderately sized combat area, any creature can generally move within 5 feet of any other creature, and every creature is within range of every other creature making ranged attacks. You'll make it clear whenever this isn't true, such as when an enemy is farther away or behind a front line of protective allies.
+戦闘開始時に、あなたはその場にいるクリーチャーの状況、特徴、距離、配置を説明します。適度な大きさの戦闘区域を想定すると、どのクリーチャーも他のどのクリーチャーからも5フィート以内に移動でき、どのクリーチャーも範囲攻撃を行う他のどのクリーチャーからも射程内にあるのが一般的です。敵が遠くにいるときや、味方を守る前線の後ろにいるときなど、戦闘区域が前述のような一般的な状況でないときはいつでもそのことをはっきりと説明します。。
 
-Characters with fast movement might have opportunities to move places other characters can't.
+移動の速いキャラクターは、他のキャラクターが移動できない場所に移動する機会があるかもしれません。
 
-### Positioning, Opportunity Attacks, and Cover
+### 位置取り、機会攻撃、遮蔽
 
-On each player's turn, they describe how they intend to position themselves. Examples of movement in the theater of the mind might include moving next to an ally, moving next to two enemies, or staying out of reach while attacking with a polearm.
+各プレイヤーの手番では、プレイヤーはどのような位置取りをするつもりかを説明します。脳内劇場での移動の例としては、味方の隣に移動する、敵2人の隣に移動する、ポールアームで攻撃している間は相手の間合いの外にいる、などが考えられます。
 
-If a creature is within an enemy's reach, it will likely provoke an opportunity attack if it tries to move away from that enemy. Creatures able to disengage can do so and avoid opportunity attacks.
+クリーチャーが敵の間合い内にいる場合、その敵から離れようとすると機会攻撃を誘発する可能性が高いです。離脱できるクリーチャーはそうすることで、機会攻撃を回避することができます。
 
-As you describe the features of the area, make a note of which ones can provide cover to the characters or their enemies, and how much cover.
+その戦闘区域の特徴を説明しながら、キャラクターや敵に遮蔽を与えることができるものと、その遮蔽の度合いをメモしておくこと。
 
-### Areas of Effect
+### 効果範囲
 
-The following guidelines offer a rough baseline for determining the number of targets that fall within an area of effect. The circumstances of a battle can increase or decrease this number. For example, for larger monsters or monsters that are more spread out, an area of effect might target only half the normal number of creatures. For smaller monsters or monsters that are packed close together, an area of effect might include up to double the normal number of targets.
+以下のガイドラインは、効果範囲に含まれるターゲットの数を決定するための大まかな基準です。戦闘の状況によって、この数値は増減します。例えば、より大型のモンスターや、より広範囲に散らばっているモンスターの場合、効果範囲は通常の半分の数しか対象にならないかもしれません。小型のモンスターや密集しているモンスターは、効果範囲に通常の2倍の数が含まれるかもしれません。
 
-*   **Tiny Area:** 1 or 2 creatures (_cloud of daggers_)
-*   **Small Area:** 2 creatures (_burning hands_, _thunderwave_)
-*   **Large Area:** 4 creatures (_cone of cold_, _fireball_)
-*   **Huge Area:** Everyone (_circle of death_, _earthquake_)
-*   **Short Line:** 2 creatures (_wall of fire_)
-*   **Long Line:** 3 creatures (_blade barrier_, _lightning bolt_)
+* **非常に小さな領域:** 1～2体のクリーチャー(_クラウド・オヴ・ダガーズ_)
+* **小さな領域:** 2体のクリーチャー(_バーニング・ハンズ_、_サンダーウェイヴ_)
+* **大きな領域:** クリーチャー4体(_コーン・オヴ・コールド_, _ファイアーボール_)
+* **巨大な領域:** 全員(_サークル・オヴ・デス_、_アースクエイク_)
+* **短い直線:** 2体のクリーチャー(_ウォール・オヴ・ファイアー_)
+* **長い直線:** 3体(_ブレード・バリアー_、_ライトニング・ボルト_)
 
-Abilities like the evoker's Sculpt Spells feature can increase the number of affected enemies, usually by one or two. Likewise, an area of effect that targets both the characters and their enemies might affect more total targets – including an effect created by a character or monster willing to put allies in harm's way. If a spellcaster character wishes to place allies within an area of effect, you and the players should negotiate this before the spell is cast.
+力術士ウィザードの呪文効果範囲操作のような能力は、影響を受ける敵の数を、通常は1～2体増やすことができます。同様に、味方を危険にさらすことを厭わないキャラクターやモンスターが作り出す効果範囲は、より多くの総対象に影響を与えられるかもしれません。スペルキャスターのキャラクターが効果範囲内に味方を配置したい場合は、誰が（何が）呪文の効果を受ける対象となるのか、呪文が唱えられる前にあなたとプレイヤーで話し合って合意しておく必要があります。
 
-### Locations, Features, Environment, and Terrain
+### 場所、特徴、環境、地形
 
-When first describing the combat encounter, describe notable locations, objects, environmental features, and terrain features. Write these down and keep them in front of the players if it helps them visualize the battlefield. Let the players know that they can interact with these environmental features, through such actions as swinging from magical chandeliers, climbing up obsidian cliffs to advantageous positions, or hiding behind ruined statues. If any feature or effect creates difficult terrain, let the players know how this might affect them, such as requiring that they use the Dash action to get out of the area.
+戦闘遭遇を最初に説明するとき、注目すべき場所、物体、環境の特徴、および地形の特徴を説明します。戦場をイメージしやすくするために、これらを書き出し、プレイヤーの前に置いておきます。プレイヤーには、魔法のシャンデリアからぶら下がったり、黒曜石の崖を登って有利な位置に行ったり、廃墟の彫像の後ろに隠れたりといった行動を通じて、これらの環境的特徴と相互作用できることを知らせます。移動困難な地形がある場合は、早足アクションでその場から離れる必要があるなど、プレイヤーにどのような影響を与えるかを伝えておきます。
 
-### Randomly Selected Targets
+### 無作為なターゲット選択
 
-Avoid biases – whether perceived or actual – by randomly selecting targets when it isn't clear which character a monster would attack. Rolling randomly for targets in the open can help build trust between you and the players, letting them know that the GM isn't picking on anyone. Monsters aren't idiots, though. If it's clear that a monster would attack a particular character, such as a wizard concentrating on a dangerous spell, the monster will do so. When this happens, just describe why the monster chose that particular character, so the players understand.
+モンスターがどのキャラクターを攻撃するのかが明確でない場合、ランダムにターゲットを選択することで、認知されているかどうかにかかわらず、偏りを避けることができます。オープンな場でランダムにターゲットを選ぶことで、GMが誰かを選んでいるわけではないことをプレイヤーに伝え、プレイヤーとの信頼関係を築くことができます。とはいえ、モンスターはバカではありません。例えば、危険な呪文に精神集中しているウィザードのように、モンスターが特定のキャラクターを攻撃することが明らかな場合、モンスターはそうします。そのときは、モンスターがそのキャラクターを選んだ理由を説明すれば、プレイヤーは理解してくれます。
 
-### Physical Traits and Identifying Enemies
+### 身体的特徴と敵の識別
 
-Ask each player to describe the physical traits of a monster their character is attacking. This helps identify the monster, opens up all the players' imaginations to the battle, and helps everyone know which monster is which using in-story descriptions. Write these physical traits down on a 3×5 index card or on a dry-erase flip mat so everyone can see which monsters are in play.
+各プレイヤーに、自分のキャラクターが攻撃しているモンスターの身体的特徴を説明するよう求めましょう。これは、モンスターを識別するのに役立ち、プレイヤー全員の想像力を戦いに向けさせ、参加者がストーリー上の描写として個々のモンスターを区別する助けになります。この身体的特徴を3×5のインデックスカードやフリップマットに書いておけば、どのモンスターが登場しているのかが一目瞭然になります。
 
-### Going Big with Descriptions
+### 大胆に描写をする
 
-Theater-of-the-mind combat can go stale if you don't continually reinforce the story of what's happening. Go big with your descriptions of the location and the action. Ask players to describe their attacks and killing blows. Between turns, describe the current situation using in-story language. These descriptions are vital to keeping the scene interesting.
+脳内劇場スタイルの戦闘は、何が起こっているのかというストーリーを絶えず強化しなければ、陳腐化してしまうことがあります。場所やアクションの描写を大胆にしてみましょう。プレイヤーに攻撃や止めの一撃を描写させましょう。ターンとターンの間に、ストーリー上の言葉を用いて現在の状況を説明しましょう。これらの描写は、シーンを面白く保つために欠かせないものです。
 
 <a id="totm2"></a>
 Theater of the Mind Guidelines (Abbreviated)
