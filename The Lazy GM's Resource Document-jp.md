@@ -15,7 +15,7 @@ The publication and release of this document is made possible by [patrons of Sly
 
 This document is a single self-contained HTML file. To save an offline local copy, "save as" either the page source or HTML in your browser. Use tools such as [Calibre](https://calibre-ebook.com) and [Pandoc](https://pandoc.org) to convert this document to markdown, PDF, ePub or another format of your choice. Use [Send to Kindle](https://www.amazon.com/sendtokindle) to send a version to your Kindle.
 
-Table of Contents
+目次
 -----------------
 
 *   [The Eight Steps of Lazy RPG Prep](#eightsteps)
@@ -32,7 +32,7 @@ Table of Contents
 *   [Quick Tricks for Lazier 5e Games](#quicktricks)
 *   [5e Quick Encounter Building](#quickencounterbuilding)
 *   [Lazy Combat Encounter Building for 5e](#lazycombatencounterbuilding)
-*   [Theater of the Mind Guidelines (Extended)](#totmguidelines1)
+*   [脳内劇場ガイドライン（拡張版）](#totmguidelines1)
 *   [Theater of the Mind Guidelines (Abbreviated)](#totm2)
 *   [Zone-Based Combat](#zonebasedcombat)
 *   [Monster Difficulty Dials](#monsterdifficultydials)
