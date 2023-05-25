@@ -18,7 +18,7 @@ This document is a single self-contained HTML file. To save an offline local cop
 目次
 -----------------
 
-*   [The Eight Steps of Lazy RPG Prep](#eightsteps)
+*   [ラジーにRPGを準備するための８つのステップ](#eightsteps)
 *   [The Lazy RPG Preparation Process](#prepprocess)
 *   [Example Strong Starts](#strongstarts)
 *   [Creating Secrets and Clues](#creatingsecrets)
@@ -49,71 +49,71 @@ This document is a single self-contained HTML file. To save an offline local cop
 *   [怠惰なソロ5e](#lazysolo5e)
 
 <a id="eightsteps"></a>
-The Eight Steps of Lazy RPG Prep
+ラジーにRPGを準備するための８つのステップ
 --------------------------------
 
-For a typical game session, the Lazy RPG Prep checklist looks like this:
+典型的なゲーム・セッションの場合、ラジーにRPGを準備するためのチェックリストは次のようになります
 
-*   Review the characters
-*   Create a strong start
-*   Outline potential scenes
-*   Define secrets and clues
-*   Develop fantastic locations
-*   Outline important NPCs
-*   Choose relevant monsters
-*   Select magic item rewards
+*   キャラクターを見直す
+*   強力なスタートを作る
+*   想定されるシーンの要約を作る
+*   秘密と手がかりを定義する
+*   魅力的なロケーションを開発する
+*   重要なＮＰＣの概要を作る
+*   関連するモンスターを選ぶ
+*   マジックアイテムの報酬を選択する
 
-Here's a brief summary of each of the steps.
+それぞれのステップを簡単に説明します。
 
-### Review the Characters
+### キャラクターを見直す
 
-Before we do anything else, it helps to spend a few minutes reviewing the player characters. What are their names? What do they want? What plays into their backgrounds? What do the players of these characters enjoy at the table?
+他のことをする前に、数分かけてプレイヤーキャラクターを見直すとよいでしょう。彼らの名前は？彼らの望みは何ですか？彼らの背景には何があるのか？そのキャラクターを演じるプレイヤーは、テーブルで何を楽しんでいるのか？
 
-You might not even write anything down during this step, but reviewing the characters helps wire them into your mind – and ensures that the rest of your preparation fits around them.
+このステップでは何も書かないかもしれませんが、キャラクターを見直すことで、頭の中にキャラクターを定着させ、他の準備をキャラクターを中心に行うようにします。
 
-### Create a Strong Start
+### 強力なスタートを作る
 
-How a game starts is likely the most important piece of preparation we can do. Setting the stage for the session determines a great deal about how the rest of the game will go. When you define where a game session starts, you figure out what's going on, what the initial focus of the session is, and how you can get close to the action. When in doubt, start with a fight. Example strong starts can be found later in this document.
+ゲームの開始方法は、おそらく私たちができる準備の中で最も重要な部分です。セッションの舞台を設定することで、その後のゲームの進行が大きく左右されます。ゲームセッションの開始場所を決めると、何が起こっているのか、セッションの最初の焦点は何か、そしてどうすればアクションに近づけるのかがわかります。迷ったら、戦いから始めましょう。強力なスタートの例は、この文書の後半で見ることができます。
 
-### Outline Potential Scenes
+### 想定されるシーンの要約を作る
 
-With a strong start in hand, we can then outline a short list of potential scenes that might unfold. This step exists mostly to make you feel as though you have a handle on the game before you start. However, as GMs, all of us must always be ready to throw our potential scenes away when the game goes in a different direction – as it often does. Usually, it's enough to come up with only a few words per scene, and to expect one or two scenes per hour of play. At other times, you might skip this step completely if you don't think you need it.
+強力なスタートを手に入れたら、次に、展開しそうなシーンの短いリストを概説することができます。このステップは、ゲームを始める前に、ゲームを把握したかのような気分にさせるために存在します。しかし、GMである私たちは、ゲームが違う方向に進んだら、せっかく考えたシーンを捨ててしまう覚悟を常に持っていなければなりません。それはよくあることです。通常は、1シーンあたり２、３行程度で十分であり、1時間のプレイで1～2シーンを想定しておくとよいでしょう。また、必要ないと思えば、このステップを完全に省略することもできます。
 
-### Define Secrets and Clues
+### 秘密と手がかりを定義する
 
-The next step is second only in importance to the strong start, and is one of the most powerful tools available to GMs. Secrets and clues are single short sentences that describe a clue, a piece of the story, or a piece of the world that the characters can discover during the game. You don't know exactly _how_ the characters will discover these clues. As such, you'll want to **keep these secrets and clues abstract from their place of discovery** so that you can drop them into the game wherever it makes sense. This lets the game flow freely, while still allowing you to reveal important pieces of the story at any point where the characters might discover them. During this step, you might write down ten such secrets or clues. Example secrets and clues are offered later in this document.
+次のステップは、強力なスタートに次いで重要であり、GMが利用できる最も強力なツールの1つである。秘密と手がかりとは、ゲーム中にキャラクターが発見できる手がかり、ストーリーの一部、世界の一部などを説明する1つの短い文章です。キャラクターがどのようにこれらの手がかりを発見するかは、正確にはわかりません。そのため、**秘密や手がかりを発見した場所から抽象的にしておき**、ゲーム中のどこにでも落とし込めるようにします。そうすることで、ゲームの流れが自由になり、かつ、キャラクターが発見しそうなタイミングでストーリーの重要な部分を明らかにすることができます。このステップでは、このような秘密や手がかりを10個ほど書き出すとよいでしょう。秘密と手がかりの例は、この文書の後半で紹介します。
 
-### Develop Fantastic Locations
+### 魅力的なロケーションを開発する
 
-Building evocative locations isn't easily improvised. As such, it's worth spending time writing out a handful of fantastic locations that the characters might discover and explore during the game. Each location can be thought of as a set, a room, or a backdrop for a single scene in your adventure.
+魅力的なロケーションを作るのは、簡単なことではありません。そのため、ゲーム中にキャラクターが発見し、探索する可能性のある幻想的な場所をいくつか書き出すことに時間を費やす価値があります。それぞれの場所はあなたのアドベンチャーの１シーンのセット、部屋、または背景と考えることができます。
 
-Describe each location with a short evocative title such as "The Sunspire." Then write down three fantastic aspects for it, along the lines of: "Blazing beam of light shining to the heavens," "Moat of molten rock," or "Huge elven glyphs carved into ancient stone." Ultimately, whole dungeons can be built from a series of connected fantastic locations, with each location representing a large area or chamber. A specific location might not come up during the game for which you prepare it, but it will be ready for a later session as the characters explore.
+それぞれの場所を、"サンスパイア "などの短いタイトルで表現してください。そして、その場所について、以下のような3つのファンタスティックな側面を書き出してください： 「天空に輝く光線」「溶岩の堀」「古代の石に刻まれた巨大なエルフのグリフ」。最終的にダンジョン全体は、幻想的なロケーションをいくつも繋げて作ることができ、それぞれのロケーションは大きなエリアや部屋を表しています。特定の場所は、準備したゲーム中には出てこないかもしれませんが、後日、キャラクターが探索する際に用意することができます。
 
-### Outline Important NPCs
+### 重要なＮＰＣの概要を作る
 
-During our preparation, we'll outline those NPCs (nonplayer characters) most critical to the adventure, focusing on a name and a connection to the adventure, then wrapping the NPC in a character archetype from popular fiction. Many other NPCs – maybe even most of them – can be improvised right at the table.
+準備の段階で、アドベンチャーに最も重要なNPC（ノンプレイヤー・キャラクター）の概要を説明します。名前とアドベンチャーとの関連に焦点を当て、そのＮＰＣを名の知られた派閥やグループの典型的なモデルに当てはめていきます。その他のＮＰＣの多くは、テーブルで即興的に作成することができます。
 
-### Choose Relevant Monsters
+### 関連するモンスターを選ぶ
 
-What monsters are the characters most likely to face? What monsters make sense for a specific location and situation? We're using the term "monster" loosely here, so as to include enemy NPCs as well as truly monstrous foes. Whatever type of enemy you need, reading through books of monsters can give you the fuel to choose the right creatures for the right situation.
+キャラクターが最も直面しそうなモンスターは何か？特定の場所や状況で意味のあるモンスターとは？ここでは敵のＮＰＣから本当に怪物的なものまでを「モンスター」と称しています。どのような敵であっても、モンスターに関する資料を読むことで、状況に応じて適切なクリーチャーを選択するためのインスピレーションを得ることができます。
 
-Additionally, understanding the loose relationship between monster challenge rating and character level can help you understand how a battle might go. Most of the time, you can just list a number of monsters and improvise encounters based on what's happening in the adventure. For boss battles, you might have to do more work. See [Lazy Combat Encounter Building](#lazycombatencounterbuilding) for more information.
+また、モンスターの挑戦度とキャラクターのレベルの緩やかな関係を理解することで、戦闘がどのように進むかを理解することができます。ほとんどの場合、モンスターをリストアップし、アドベンチャーの中で起こっていることに基づいて、即興で遭遇を演出することができます。ボス戦の場合は、もっと手間をかける必要があるかもしれません。詳しくは [Lazy Combat Encounter Building](#lazycombatencounterbuilding) を参照して下さい。
 
-### Select Magic Item Rewards
+### マジックアイテムの報酬を選択する
 
-Players love magic items, and it's worthwhile to spend time preparing items they'll find interesting. This step also helps to directly impact the characters – by dropping an interesting part of the story literally into their hands. You can use a mixture of techniques to reward magic items, from selecting items randomly to selecting specific items based on the themes of the characters and the desires of the players. Magic items are also a great mechanism for delivering secrets and clues.
+プレイヤーはマジックアイテムが大好きなので、彼らが興味を持つようなアイテムを用意することに時間をかけるのは有意義です。またこのステップでは、キャラクターに対して、物語の面白い部分を（文字通り）直接キャラクターの手に落とし込むことができます。マジックアイテムの報酬は、ランダムに選ぶ方法から、キャラクターのテーマやプレイヤーの希望に応じて特定のアイテムを選ぶ方法まで、さまざまな手法を用いることができます。マジックアイテムは、秘密や手がかりを届けるための素晴らしいメカニズムでもあります。
 
-### The Lazy RPG Prep Checklist and Online Play
+### 「ラジーなRPGの準備のためのチェックリスト」とオンラインプレイ
 
-These steps and processes work just as well whether you interact with your players online or around the table. However you play, the Lazy RPG Prep checklist still works.
+これらの手順とプロセスは、オンラインでプレイする場合でも、テーブルを囲んでプレイする場合でも同じように機能します。どのようにプレイするにしても、「レイジーなRPGの準備」チェックリストはそのまま機能するのです。
 
-### The 5-Minute Reduced Checklist
+### 5分でできる短縮チェックリスト
 
-If you have very little time, reduce the checklist to the most important things you can prepare before it's time to run the game. Here are three example steps.
+時間がない場合は、ゲームの前に準備できる最も重要な要素にリストを絞り込んでください。ここでは、3つのステップの例を挙げます。
 
-*   Create a strong start
-*   Define secrets and clues
-*   Develop fantastic locations
+*   強力なスタートを作る
+*   秘密と手がかりを定義する
+*   魅力的なロケーションを開発する
 
 <a id="prepprocess"></a>
 The Lazy RPG Preparation Process
