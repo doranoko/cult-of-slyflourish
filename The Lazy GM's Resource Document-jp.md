@@ -33,7 +33,7 @@ This document is a single self-contained HTML file. To save an offline local cop
 *   [5e Quick Encounter Building](#quickencounterbuilding)
 *   [Lazy Combat Encounter Building for 5e](#lazycombatencounterbuilding)
 *   [脳内劇場ガイドライン（拡張版）](#totmguidelines1)
-*   [Theater of the Mind Guidelines (Abbreviated)](#totm2)
+*   [脳内劇場ガイドライン（省略版）](#totm2)
 *   [Zone-Based Combat](#zonebasedcombat)
 *   [Monster Difficulty Dials](#monsterdifficultydials)
 *   [Running Hordes](#runninghordes)
@@ -1002,56 +1002,62 @@ This sets up encounters of a much greater challenge than the baseline benchmark,
 脳内劇場スタイルの戦闘は、何が起こっているのかというストーリーを絶えず強化しなければ、陳腐化してしまうことがあります。場所やアクションの描写を大胆にしてみましょう。プレイヤーに攻撃や止めの一撃を描写させましょう。ターンとターンの間に、ストーリー上の言葉を用いて現在の状況を説明しましょう。これらの描写は、シーンを面白く保つために欠かせないものです。
 
 <a id="totm2"></a>
-Theater of the Mind Guidelines (Abbreviated)
+脳内劇場ガイドライン（省略版）
 --------------------------------------------
 
-This section offers abbreviated guidelines for running "theater of the mind" combat – no maps or miniatures, making use only of narrative and your players' imaginations. Share these guidelines with your players so that everyone has a common understanding of how this style of playing out combat works at the table.
+このセクションでは、マップやミニチュアを使わず、物語とプレイヤーの想像力だけで「脳内劇場」スタイルの戦闘を行うための略式のガイドラインを提供します。このガイドラインをプレイヤーと共有することで、このスタイルの戦闘がテーブルでどのように機能するかについて、全員が共通認識を持つことができます。
 
-### Core Principles
+### 基本原則
 
-Round-by-round combat played in the theater-of-the-mind style is built around three core principles:
+脳内劇場方式で行われるラウンドごとの戦闘は、3つの基本原則を軸に構築される：
 
-*   The GM describes the situation.
-*   Players describe their characters' intent.
-*   The GM helps the players achieve that intent and adjudicates how the situation unfolds as a result.
+* GMは状況を説明する。
+* プレイヤーは自分のキャラクターの意図を説明する。
+* GMはプレイヤーが意図することを達成するのを助け、その結果どのように状況が展開するかを裁定する。
 
-### Common Understandings
+### 共通理解
 
 A GM running a theater-of-the-mind game should keep the following points in mind:
+心の劇場ゲームを運営するGMは、以下の点に留意する必要があります：
 
 *   Build theater-of-the-mind combat around the following ideals: The GM and the players are working together to share a story of high action and adventure. They are not opponents.
 *   The GM and players do not hide their intentions during combat.
 *   Players and GMs assume that the characters and their enemies all move cautiously, avoiding opportunity attacks whenever possible.
 *   The GM identifies when a character is taking a risk, such as provoking an opportunity attack, before the player chooses the character's action.
+* 劇場型戦闘は、以下の理想を中心に構築する： GMとプレイヤーは、高度なアクションと冒険の物語を共有するために協力し合っている。GMとプレイヤーは対立する相手ではない。
+* GMとプレイヤーは、戦闘中に自分の意思を隠さない。
+* プレイヤーもGMも、キャラクターとその敵はすべて慎重に動き、可能な限り機会攻撃を避けると仮定する。
+* GMは、プレイヤーがキャラクターの行動を選択する前に、キャラクターが機会攻撃を誘発するようなリスクを負っているときを特定する。
 
-### Player Advice
 
-Players in a theater-of-the-mind game should keep the following points in mind:
+### プレイヤーへのアドバイス
 
-*   Describe your intent. Tell the GM what you want your character to do in the story that the combat encounter is building. Avoid a back-and-forth series of tactical questions.
-*   Tell the GM what special features your character has that you want to highlight. If you have crunchy tactical abilities you want to use, describe how you want them to work for the situation. For example: "I want to stay close to the cleric so I can use my Protection Fighting Style, but I'll keep 10 feet away from the orcs so I can use my Polearm Mastery feat to hit them on their way in."
-*   Describe specifically what you want to do. "I want to stay within the paladin's aura but still attack the hobgoblin ravager."
-*   Look for fun ways to use the environment described by the GM.
-*   Worry less about the mechanical details of the game and more on the high action and adventure of the story. One good way to do that is to imagine combat as a high-action battle in one of your favorite movies.
+脳内劇場スタイルでプレイするゲームにおいて、プレイヤーは以下の点に留意してください：
 
-### GM Advice
+* あなたの意図を説明すること。戦闘によって構築されるストーリーの中で、あなたのキャラクターが何をしたいのかをGMに伝えること。戦術的な質問の応酬は避けること。
+* あなたのキャラクターが持つ、強調したい特別な特徴をGMに伝えてください。もし、あなたが大量の計算が必要になるような戦術的能力を持っていてそれを使いたいならば、その状況に対してどのように機能させたいかを描写してください。例えば、以下のような感じです：「護衛の戦闘スタイルを使えるようにクレリックの側にいたいが、オークからは10フィート離れて、《長柄の使い手》の特技を使って、彼らが近づいて来たところを叩けるようにする」
+* あなたがしたいことを具体的に描写してください。"パラディンのオーラ内に留まりつつ、ホブゴブリンの略奪者を攻撃したい。"
+* GMが説明した環境を利用する楽しい方法を探してください。
+* ゲームのルール的な詳細についてはあまり気にせず、ストーリーにおける激しいアクションとアドベンチャーをもっと気にする。そのための良い方法の1つは、戦闘をあなたの好きな映画の中の激しいアクションの戦闘シーンのように想像することです。
 
-A GM running a theater-of-the-mind game should keep the following points in mind:
+### GMへのアドバイス
 
-*   Work with the players, not against them. Err in favor of the characters as you help the players achieve their intent.
-*   Each turn, describe the situation surrounding the acting character.
-*   Adjudicate the number of targets in an area attack based on the situation, the assumed positions of the combatants, and the size of the area.
-*   Use evocative in-world narration to describe the characters, the monsters, the action, and the high adventure of the story as it plays out.
-*   Make bargains and deals with the players. "You can hit three orcs with _fireball_, or you can hit five orcs if one of your companions is willing to be hit as well."
-*   Describe the distances between combatants in feet to help players recognize what they can and can't do. Default to 25 feet if you don't really know.
-*   Run simpler encounters with useful environmental features, such as flipped tables, cracked stalagmites, cliff edges, bottomless pits, roaring fires, and hanging chandeliers.
-*   Ask the players to identify monsters by describing interesting physical characteristics.
-*   Give the players opportunities to show off their characters' skills and abilities.
-*   Some players can't visualize combat scenes in their head, a condition known as aphantasia. For these players, consider providing a quick sketch or other visual.
+脳内劇場スタイルでプレイするゲームを運営するGMは、以下の点に留意してください：
 
-### One Tool of Many
+* プレイヤーに対抗するのではなく、プレイヤーと共に行動する。プレイヤーがやりたいことを達成できるように、キャラクターを有利にわざとミスするようにしましょう。
+* 各ターンに行動するキャラクターを取り巻く状況を説明する。
+* 状況、戦闘参加者の想定される位置取り、エリアの広さなどから、範囲攻撃の対象者の数を判断する。
+* キャラクター、モンスター、アクション、そして大冒険をゲーム世界内の言葉で魅力的に表現して物語を進行してください。
+* プレイヤーと交渉や取引をする。「3体のオークを _ファイアーボール_ で攻撃できるけど、もし仲間の1人が巻き込まれてもいいなら、5体のオークを攻撃できるよ」
+* 戦闘参加者間の距離をフィートで記述し、プレイヤーが何ができて何ができないかを認識できるようにする。距離がよくわからない場合は、25フィート（約1.5メートル）をデフォルトとしてください。
+* 単純な戦闘遭遇を実行する際に、ひっくり返ったテーブル、割れた石筍、崖っぷち、底なし沼、燃え盛る火、吊るされたシャンデリアなど、有用な環境的特徴を付け加えてみる。
+* プレイヤーにモンスターの興味深い身体的特徴を説明させることでモンスターを識別する。
+* プレイヤーに自分のキャラクターのスキルや能力をアピールする機会を与えましょう。
+* 戦闘シーンを頭に思い浮かべることができないプレイヤーもいますが、これは「アファンタジア」と呼ばれる状態です。このようなプレイヤーには、簡単なスケッチや他のビジュアルを提供することを検討します。
 
-Add theater of the mind to your collection of ways to run combat, including abstract maps, zone-based combat (described later in this document), gridded combat, or 3D terrain. Choose the right style of combat for the pace and complexity of the scene. Keep each approach as a tool in your GM's toolbox to help you share exciting tales of action and high adventure.
+### 多くのツールのうちの1つ
+
+抽象マップ、ゾーンベースの戦闘（後述）、グリッドベースの戦闘、3Dのテレインなど、戦闘を実行する方法のコレクションに「脳内劇場」を追加する。シーンのペースや複雑さに応じて、適切な戦闘スタイルを選択する。各アプローチは、あなたのGMの道具箱の中の道具として、アクションや大冒険のエキサイティングな物語をプレイヤーと共有するのに役立つように保管してください。
 
 <a id="zonebasedcombat"></a>
 Zone-Based Combat
