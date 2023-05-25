@@ -2394,7 +2394,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 
 ### Monster List 5 (CR 3–4)
 
-1.  Doppelganger
+1.  ドッペルゲンガー
 2.  Giant scorpion
 3.  Green hag
 4.  Hell hound
