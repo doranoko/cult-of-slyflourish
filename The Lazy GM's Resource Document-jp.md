@@ -1017,18 +1017,12 @@ This sets up encounters of a much greater challenge than the baseline benchmark,
 
 ### 共通理解
 
-A GM running a theater-of-the-mind game should keep the following points in mind:
-心の劇場ゲームを運営するGMは、以下の点に留意する必要があります：
+脳内劇場スタイルでゲームを運営するGMは、以下の点に留意する必要があります：
 
-*   Build theater-of-the-mind combat around the following ideals: The GM and the players are working together to share a story of high action and adventure. They are not opponents.
-*   The GM and players do not hide their intentions during combat.
-*   Players and GMs assume that the characters and their enemies all move cautiously, avoiding opportunity attacks whenever possible.
-*   The GM identifies when a character is taking a risk, such as provoking an opportunity attack, before the player chooses the character's action.
-* 劇場型戦闘は、以下の理想を中心に構築する： GMとプレイヤーは、高度なアクションと冒険の物語を共有するために協力し合っている。GMとプレイヤーは対立する相手ではない。
-* GMとプレイヤーは、戦闘中に自分の意思を隠さない。
-* プレイヤーもGMも、キャラクターとその敵はすべて慎重に動き、可能な限り機会攻撃を避けると仮定する。
-* GMは、プレイヤーがキャラクターの行動を選択する前に、キャラクターが機会攻撃を誘発するようなリスクを負っているときを特定する。
-
+* 脳内劇場型戦闘は、以下の理想を中心に構築する： GMとプレイヤーは、高度なアクションと冒険の物語を共有するために協力し合っている。GMとプレイヤーは対立する相手ではない。
+* GMとプレイヤーは、戦闘中に自分の意図を隠さない。
+* プレイヤーもGMも、キャラクターとその敵はすべて慎重に移動し、可能な限り機会攻撃を避けると仮定する。
+* キャラクターが機会攻撃を誘発しそうなどのリスクを負っているとき、GMはプレイヤーがキャラクターの行動を選択する前にそのことをプレイヤーに伝える。
 
 ### プレイヤーへのアドバイス
 
