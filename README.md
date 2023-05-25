@@ -12,6 +12,7 @@
 - mashさん
 - mayosuke
 - ひでさん
+- MightyGONさん
 
 ## 謝辞
 - HTMLのマークダウン形式への変換にはCode Beautifyさんの[HTML to Markdown](https://codebeautify.org/html-to-markdown)を利用させていただきました。ありがとうございます！
