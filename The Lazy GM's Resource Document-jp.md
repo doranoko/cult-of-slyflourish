@@ -316,56 +316,56 @@ Characters might learn these secrets from quest-giving NPCs, notes found on defe
 10.  What unusual creature was seen walking the wilds?
 
 <a id="buildingagroup"></a>
-Building an RPG Group
+RPGグループの構築
 ---------------------
 
-### Finding and Maintaining a Solid Group
+### 堅実なグループの発見と維持
 
-Finding and maintaining a solid group for roleplaying gaming remains the most difficult task for many GMs. This section offers suggestions for finding players that fit well with your group, and for keeping that group going for years to come.
+ロールプレイングゲームのための強固なグループを見つけ、維持することは、多くのGMにとって最も困難な課題である。このセクションでは、あなたのグループと相性の良いプレイヤーを見つけ、そのグループを末永く維持するための提案をします。
 
-### Finding Players
+### プレイヤーを見つける
 
-The first step to building an RPG group is finding players. Some of the most common ways to find players for a group include the following:
+RPGグループを作るための最初のステップは、プレイヤーを見つけることです。グループのプレイヤーを見つける最も一般的な方法には、以下のようなものがあります。
 
-*   Recruit friends and family
-*   Recruit coworkers
-*   Ask about putting a notice up at your local game store or library
-*   Join local organized play groups
-*   Seek LFG (Looking for Group) forums on Discord, Reddit, Meetup, Next Door, and other forums
+*   友人や家族を誘う
+*   同僚を誘う
+*   地元のゲームショップや図書館で告知してもらう
+*   地元の組織化されたプレイグループに参加する
+*   Discord、Reddit、Meetup、Next DoorなどのＬＦＧ（プレイヤー募集）フォーラムを探す
 
-### Selecting Players
+### プレイヤーを選ぶ
 
-Before you invite a player to your gaming group, ensure that they're the right fit for your game and the other players. Start by asking a prospective player questions about their commitment, play style, and reaction to your style of play. Example questions might include the following:
+ゲームグループにプレイヤーを招待する前に、そのプレイヤーがあなたのゲームや他のプレイヤーに適しているかどうかを確認しましょう。まず参加希望者に、自分のコミットメント、プレイスタイル、あなたのプレイスタイルに対する反応について質問してみましょう。質問の例としては、以下のようなものがあります。
 
-*   Do they live nearby, and can they commit to the game's schedule?
-*   Do they consider themselves a more story-focused or more tactics-focused player?
-*   Are they okay playing with theater-of-the-mind combat or playing on a battle grid?
-*   What do they enjoy most about RPGs?
-*   How do they weight their enjoyment of the following: NPC interaction, exploration, world lore, character background, character optimization, and tactical combat?
+*   近くに住んでいて、ゲームのスケジュールを守れるか？
+*   プレイスタイルはストーリー重視か、それとも戦術重視か
+*   マインドシアター形式の戦闘や、バトルグリッドでのプレイは平気か？
+*   ロールプレイングゲームの何が一番好きか？
+*   次のような楽しみをどのように評価していますか？NPCとの交流、探検、世界の伝承、キャラクターの背景、キャラクターの最適化、戦術的な戦闘
 
-Asking questions isn't about getting right or wrong answers. Rather, questions can help you identify players who will fit well into your game. They'll also help you determine if there are things a player desires that they're not going to find in your game.
+質問をすることは、正しい答えや間違った答えを得ることではありません。むしろ、質問をすることで、ゲームにうまく溶け込めるプレイヤーを見極めることができます。また、そのプレイヤーが望んでいることが、あなたのゲームでは見つからないかどうかを判断するのにも役立ちます。
 
-Take the time to meet one-on-one with a prospective player and talk to them about what they want from your game and what experiences they've had with other groups. Go with your gut judgment on whether each player you meet will be a good fit for your group.
+見込みプレイヤーと一対一で会う時間をとり、あなたのゲームに何を求めているか、他のグループでどんな経験をしたかを話してください。出会ったプレイヤーがあなたのグループに合うかどうかは、あなたの直感で判断してください。
 
-If they seem like a good fit, invite a player to a single-session game or a short series of games at a different time than your regularly scheduled session, ideally with one or more regular players from your group. See how they fit in during an actual game. If they don't fit, you don't have to invite them to another game. But if they do feel like a good fit, you can invite them to your regular game and see how things go.
+フィットしそうであれば、そのプレイヤーを1回だけのゲームや、定期的に開催されるセッションとは別の時間に行われる短い連続ゲームに招待し、理想的にはあなたのグループから1人以上の常連プレイヤーが参加するようにします。実際のゲーム中に、そのプレイヤーがどのようにフィットするかを確認します。合わない場合は、次のゲームに招待する必要はありません。しかし、もしその人たちが自分に合っていると感じたら、いつものゲームに招待して、様子を見ることができるのです。
 
-### Flexible Numbers of Players and On-Call Players
+### 柔軟な人数設定と待機者リスト
 
-Decide on the minimum and maximum number of players for any given session. A minimum of three and maximum of six is often ideal. While seeking players, you might find some who can't commit to a regularly scheduled game, but who can come from time to time. Put these players on an "on-call" list so that if you have an open chair, you can ask them if they're able to fill it. Putting prospective new players on an on-call list is also a good way to see if they're a good fit for the group before they become a regular player.
+セッションの最小人数と最大人数を決めます。最低3人、最高6人が理想的なことが多い。プレイヤーを募集しているうちに、定期的なゲームには参加できないが、時々なら来れるという人が出てくるかもしれない。このようなプレイヤーを待機者リストに入れておけば、椅子が空いたときに、その椅子を埋めることができるかどうかを尋ねることができます。また、新しいプレーヤー候補を待機者リストに載せておくと、レギュラープレーヤーになる前に、その人がグループに合うかどうかを確認するのに良い方法です。
 
-### Choose a Regular Schedule
+### 規則正しいスケジュールを選ぶ
 
-Rather than attempting to schedule games from session to session, find a set day and time to run your games and stick to it. Run games every week if possible. Otherwise, try every other week at the same day and time. Choose regular, shorter games rather than longer, more infrequent games to help with scheduling.
+セッションごとにゲームのスケジュールを組むのではなく、ゲームを実施する曜日と時間を決めて、それを守りましょう。可能であれば、毎週ゲームを実施する。そうでない場合は、隔週で同じ曜日と時間に実施するようにします。スケジュールを立てやすくするために、長くて頻度の少ないゲームよりも、定期的で短いゲームを選択しましょう。
 
-### The Game Must Go On
+### ゲーム・マスト・ゴー・オン（ゲームは続けなければならない）
 
-Run the game as regularly as you can. Don't cancel games if one or two players can't make it. If you're able to play with as few as three and have a regular group of six, it should take four players canceling before you have to call off a game. The more consistent the game, the more likely that the players will make it a part of their regular schedule.
+できる限り定期的にゲームを実施しましょう。1人または2人が参加できないからといって、ゲームをキャンセルしないでください。3人程度の人数でプレイでき、6人程度が常連であれば、4人程度のキャンセルでゲームを中止することができます。ゲームに一貫性があればあるほど、プレイヤーはそれを定期的なスケジュールの一部にする可能性が高くなります。
 
-If you find that certain players are regularly missing the game, ask if they would prefer to be on your on-call list, and then seek a new player with better availability.
+もし、特定のプレイヤーが定期的にゲームを欠席するようであれば、待機者リストに載せるかどうか尋ね、より都合の良い新しいプレイヤーを探しましょう。
 
-### Let Absent Characters Fade into the Background
+### 欠席したキャラクターは背景の中に消してしまう
 
-Don't worry about what happens to characters in-game when a player misses the session. If there is an easy way for the character to step out of the story, take it. Otherwise, just let the character fade into the background. Your players will understand why you're taking such liberties with the universe, and that in-world consistency isn't as important as making allowances for the realities of people's lives.
+プレイヤーがセッションを欠席したとき、ゲーム内のキャラクターがどうなるかは気にしなくてよい。もし、そのキャラクターがストーリーから外れるための簡単な方法があれば、それを使ってください。そうでない場合は、そのキャラクターを背景としてフェードアウトさせればよいのです。プレイヤーは、あなたがなぜその世界でそのように自由な扱いを行うのか、そしてゲーム世界での一貫性は、現実世界の人々の生活ほど重要ではないことを理解するでしょう。
 
 <a id="sessionzerochecklist"></a>
 Session Zero Checklist
