@@ -22,7 +22,7 @@ This document is a single self-contained HTML file. To save an offline local cop
 *   [The Lazy RPG Preparation Process](#prepprocess)
 *   [Example Strong Starts](#strongstarts)
 *   [Creating Secrets and Clues](#creatingsecrets)
-*   [Building an RPG Group](#buildingagroup)
+*   [RPGグループの構築](#buildingagroup)
 *   [Session Zero Checklist](#sessionzerochecklist)
 *   [Safety Tools](#safetytools)
 *   [Connecting Characters](#connectingcharacters)
