@@ -34,7 +34,7 @@ This document is a single self-contained HTML file. To save an offline local cop
 *   [Lazy Combat Encounter Building for 5e](#lazycombatencounterbuilding)
 *   [脳内劇場ガイドライン（拡張版）](#totmguidelines1)
 *   [脳内劇場ガイドライン（省略版）](#totm2)
-*   [Zone-Based Combat](#zonebasedcombat)
+*   [ゾーンに基づく戦闘](#zonebasedcombat)
 *   [Monster Difficulty Dials](#monsterdifficultydials)
 *   [Running Hordes](#runninghordes)
 *   [Stress Effects](#stresseffects)
@@ -1054,44 +1054,44 @@ This sets up encounters of a much greater challenge than the baseline benchmark,
 抽象マップ、ゾーンベースの戦闘（後述）、グリッドベースの戦闘、3Dのテレインなど、戦闘を実行する方法のコレクションに「脳内劇場」を追加する。シーンのペースや複雑さに応じて、適切な戦闘スタイルを選択する。各アプローチは、あなたのGMの道具箱の中の道具として、アクションや大冒険のエキサイティングな物語をプレイヤーと共有するのに役立つように保管してください。
 
 <a id="zonebasedcombat"></a>
-Zone-Based Combat
+ゾーンに基づく戦闘
 -----------------
 
-Zone-based combat can help GMs run fast, dynamic, and high-action combat without worrying about all the details of tactical combat played out on a grid. It supports multiple combat styles, including pure narrative theater-of-the-mind combat, quickly drawn abstract sketches, or miniatures used with detailed maps or 3D terrain. Using zone-based combat means you have to worry less about the details of a 5-foot-per-square grid and can focus more on big heroic action. Zone-based combat simply requires that the GM and the players work together with the shared goal of creating fantastic stories of high adventure.
+ゾーンに基づく戦闘は、GMがグリッド上で行われる戦術的な戦闘のすべての詳細を心配することなく、すばやく、ダイナミックで、激しいアクションの戦闘を実行するのに役立ちます。ゾーンに基づく戦闘は、純粋な物語による脳内劇場での戦闘、素早く描かれた抽象的なスケッチのマップ、詳細に描かれたマップや3Dテレインと一緒に使用するミニチュアなど、複数の戦闘スタイルに組み込むことができます。ゾーンに基づく戦闘を使用すると、1マス5フィートのグリッドの詳細を気にする必要がなくなり、より大胆でヒロイックなアクションに集中することができます。ゾーンに基づく戦闘を行う際に大事なのは、GMとプレイヤーが、大冒険のファンタスティックな物語を作るという共通の目標を持って協力するということです。
 
-### Zone Rules
+### ゾーンのルール
 
-The following guidelines establish the broad strokes of zone-based combat:
+ゾーンに基づく戦闘の大まかな流れは以下の通りです。
 
-*   Combat areas are made up of one or more zones, each of which is roughly 25 feet on a side but which can be any size.
-*   The GM defines zones using evocative descriptions, such as "a crumbling bridge over a bottomless gorge," "a blood-covered altar," or "a holy statue of light."
-*   The GM can write down or define these zones and their descriptions on paper, note cards, or erasable battle maps so the players can visualize the situation. Miniatures or tokens can mark out the positions of characters and monsters in zones.
-*   Players are encouraged to make use of features in a zone, whether by taking cover, climbing to an advantageous position, activating magical locations, and so forth.
-*   Most combat encounters occur in a single zone. Big battles might use two or more zones.
-*   On each of their turns, a character can move within a zone or can move from one zone to another. Characters with extra movement can move up to two zones away.
-*   Assume that all creatures in combat move cautiously, avoiding opportunity attacks when possible. The GM informs the players if a character risks an opportunity attack from their intended activity in the fight.
-*   Attacks with a range of 25 feet or greater can target creatures within a zone or one zone away.
-*   Attacks with a range of 50 feet or greater can also target creatures two or more zones away.
-*   If a character attacks with or is attacked by a melee attack with a 5-foot reach, that character will provoke opportunity attacks if they attempt to move away from their opponent. A character attacked by a melee attack with a 5-foot reach also has disadvantage on ranged attacks.
-*   Players can make best use of zone-based combat by describing their intent – for example, "I want to attack the orc chief with my glaive but stay out of his reach," or "I want to get between our wizard and the ogre."
-*   The GM then works with the players to help them achieve their intent.
+* 戦闘エリアは1つまたは複数のゾーンで構成され、それぞれのゾーンは1辺がおよそ25フィート（約8.5m）だが、各ゾーンはどんな大きさでも構わない。
+* GMは、"底なしの峡谷にかかる崩れかけた橋"、"血にまみれた祭壇"、"光の聖像 "など、プレイヤーの想像力を掻き立てる描写を用いてゾーンを定義する。
+* GMはこれらのゾーンとその説明を、紙やメモ用紙、消せるバトルマップなどに書き出し、プレイヤーが状況をイメージできるように定義することができます。ミニチュアやトークンを使って、キャラクターやモンスターの位置をゾーンでマークすることもできます。
+* プレイヤーは、身を隠す、有利な位置に登る、魔法の場所を起動するなど、ゾーン内の特徴を利用するよう奨励されます。
+* ほとんどの戦闘は1つのゾーンで行われます。大きな戦闘では2つ以上のゾーンを使用することもあります。
+* 各ターンにおいて、キャラクターはゾーン内を移動するか、あるゾーンから別のゾーンに移動することができます。追加の移動能力を持つキャラクターは、2ゾーン先まで移動することができます。
+* 戦闘中のすべてのクリーチャーは慎重に動き、可能な限り機会攻撃を避けると仮定します。GMは、キャラクターが戦闘中に行うとしている行動から機会攻撃を受ける危険性がある場合、行動を確定させる前にプレイヤーに通知します。
+* 25フィート以上の射程を持つ攻撃は、1ゾーン内または1ゾーン先のクリーチャーを対象とすることができます。
+* 射程距離50フィート以上の攻撃は、2つ以上のゾーンにいるクリーチャーも対象にできます。
+* 射程が5フィートの近接攻撃で攻撃したり攻撃されたりした場合、そのキャラクターが相手から離れようとすると機会攻撃を誘発します。射程5フィートの近接攻撃で攻撃されたキャラクターは、遠隔攻撃を行う場合不利になります。
+* 例えば、"オークの長をグレイブで攻撃したいが、彼の間合いの外にいたい"、"ウィザードとオーガの間に入りたい "など、プレイヤーは自分の意図を具体的に描写することでゾーンに基づく戦闘を最大限に活用することができます。
+* その後、GMはプレイヤーがやりたいことを達成できるように協力する。
 
-### Areas of Effect in Zones
+### ゾーンにおける効果範囲
 
-Many spells and features have areas of effect. GMs can use the following guidelines to adjudicate which targets are hit by such effects. These guidelines break out general descriptions of the size of an area of effect, how many creatures are typically affected in that area using zone-based combat, and examples of common spells and class features that use that size:
+多くの呪文や特技には効果範囲があります。GMは以下のガイドラインを使用して、そのような効果の対象となるクリーチャーを判断することができます。このガイドラインには効果範囲の領域の大きさ別で、ゾーンに基づく戦闘におけるその領域で一般的に影響を受けるクリーチャーの数とその大きさに該当する典型的な呪文やクラス特技の例を記載してあります。
 
-*   **Tiny Area:** One or two creatures in the same zone (_cloud of daggers_)
-*   **Small Area:** Two or three creatures in the same zone (_burning hands_, _thunderwave_)
-*   **Large Area:** Four to six creatures in the same zone (_cone of cold_, _fireball_)
-*   **Huge Area:** Twelve creatures across two zones (_circle of death_, Turn Undead)
-*   **Short Line:** Two or three creatures in the same zone (_wall of fire_)
-*   **Large Line:** Two to four creatures across two zones (_lightning bolt_)
+* **非常に小さな領域:** 同じゾーンにいる1～2体のクリーチャー(_クラウド・オヴ・ダガーズ_)
+* **小さな領域:** 同じゾーンにいる2~3体のクリーチャー(_バーニング・ハンズ_、_サンダーウェイヴ_)
+* **大きな領域:** 同じゾーンにいる4~6体のクリーチャー(_コーン・オヴ・コールド_, _ファイアーボール_)
+* **巨大な領域:** 2つの隣接するゾーンにいる12体のクリーチャー(_サークル・オヴ・デス_、_ターン・アンデッド_)
+* **短い直線:** 同じゾーンにいる2~3体のクリーチャー(_ウォール・オヴ・ファイアー_)
+* **長い直線:** 2つの隣接するゾーンにいる2~4体(_ライトニング・ボルト_)
 
-GMs can adjudicate and adjust these numbers based on the current situation. For example, an area containing a horde of monsters might double the potential number of monsters affected. Whatever the circumstances, though, a GM should always adjudicate in favor of the characters.
+GMは現在の状況に応じて、これらの数字を裁定・調整することができます。例えば、モンスターの大群がいるエリアでは、影響を受けるモンスターの潜在的な数が2倍になるかもしれません。しかし、どのような状況であれ、GMは常にキャラクターに有利な判定を下すべきです。
 
-### Handling Edge Cases
+### エッジケースの処理
 
-Zone-based combat doesn't account for a wide range of features that make use of specific distances. In those cases, it's up to the GM to work with a player's intent to help them make use of those features. In all cases, the GM should ask what the player wants to do, then help them figure out how to do it.
+ゾーン・ベースの戦闘は、特定の距離で有効になるような様々な能力を考慮していません。そのような場合、GMはプレイヤーの意図を汲んで、そのような能力を利用できるようにする必要があります。どのような場合でも、GMはプレイヤーが何をしたいかを尋ね、その方法を考える手助けをする必要があります。
 
 <a id="monsterdifficultydials"></a>
 Monster Difficulty Dials
