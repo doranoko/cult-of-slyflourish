@@ -1353,196 +1353,196 @@ d20 | 場所 | モニュメント | アイテム
 19 | 入り江 | 檻 | マスク
 20 | 城 | 火鉢 | ネックレス
 
-### Condition, Description, and Origin
+### 状態、説明、および起源
 
-Locations, monuments, or items can be flavored by determining their condition, description, and origin.
+場所、モニュメント、アイテムは、その状態、説明、起源を決定することによって味付けすることができます。
 
-d20 | Condition | Description | Origin
+d20 | 状態 | 説明 | 起源
 -- | -- | -- | --
-1 | Smoky | Ruined | Human
-2 | Acidic | Decrepit | Elven
-3 | Bloodied | Obsidian | Dwarven
-4 | Burning | Haunted | Halfling
-5 | Frozen | Unholy | Gnomish
-6 | Poisonous | Sunken | Tiefling
-7 | Necrotic | Forgotten | Dragonborn
-8 | Thunderous | Macabre | Orc
-9 | Ringing | Ancient | Goblinoid
-10 | Lightning | Festering | Undead
-11 | Radiant | Monstrous | Celestial
-12 | Shadowed | Golden | Fey
-13 | Oozing | Spired | Elemental
-14 | Ethereal | Towering | Giant
-15 | Whispering | Forsaken | Fiendish
-16 | Windswept | Gloomy | Unseelie
-17 | Drenched | Horrific | Aberrant
-18 | Diseased | Colossal | Shadow
-19 | Crystalline | Overgrown | Ethereal
-20 | Silvered | Shattered | Abyssal
+1 | 煙い | 破滅した | ヒューマン
+2 | 酸っぱい | 朽ち果てた | エルフ
+3 | 血まみれの | 黒曜石のような | ドワーフ
+4 | 燃えている | 憑依された | ハーフリング
+5 | 凍った | 不浄な | ノーム
+6 | 有毒 | 沈んだ | ティーフリング
+7 | 壊死性 | 忘れられた | ドラゴンボーン
+8 | 雷が鳴る | 不気味な | オーク
+9 | 鳴り響く | 古代の | ゴブリン
+10 | 雷 | 化膿した | アンデッド
+11 | 光り輝く | 怪物的な | セレスチャル
+12 | 影がかかった | 金色の | フェイ
+13 | にじみ出る | 尖った | エレメンタル
+14 | イセリアル | そびえ立つ | ジャイアント
+15 | ささやく | 見捨てられた | フィーンド
+16 | 吹き曝し | 暗い| Unseelie
+17 | びっしょり | 恐ろしい | 異形
+18 | 病気の | 巨大な | 影
+19 | 結晶質 | 生い茂った | イセリアル
+20 | 銀色 | 粉々になった | アビサル
 
-### Chambers
+### 部屋
 
-Use this list when you need to define the purpose of a chamber in a dungeon, keep, or similar site. Reflavor any chamber to suit the theme of the adventure.
+ダンジョン、砦、または同様の場所の部屋の目的を定義する必要がある場合は、このリストを使用してください。冒険のテーマに合わせて部屋を改造しましょう。
 
-### 1d20 Chambers
+### 1d20 部屋
 
-1.  Armory
-2.  Prison
-3.  Throne room
-4.  Crypt
-5.  Treasury
-6.  Barracks
-7.  Monstrous lair
-8.  Storeroom
-9.  Charnel pit
-10.  Museum
-11.  Torture chamber
-12.  Bedchamber
-13.  Gallery
-14.  Dining hall
-15.  Library
-16.  Pantry
-17.  Laboratory
-18.  Cesspit
-19.  Bone yard
-20.  Scrying chamber
+1.  武器庫
+2.  刑務所
+3.  謁見室
+4.  地下室
+5.  宝物庫
+6.  兵舎
+7.  巨大な隠れ家
+8.  物置
+9.  死体捨て場
+10.  美術室
+11.  拷問室
+12.  寝室
+13.  ギャラリー
+14.  食堂
+15.  図書室
+16.  食料貯蔵庫
+17.  研究所
+18.  汚水槽
+19.  墓場
+20.  占い部屋
 
-### Dungeon Discoveries
+### ダンジョンでの発見
 
-Add useful discoveries such as the following to your adventure, to create upward beats in the characters' story.
+次のような冒険に役立つ発見を加えて、キャラクターの物語を盛り上げます。
 
-### 1d20 Discoveries
+### 1d20 発見
 
-1.  Helpful NPC
-2.  Holy fountain
-3.  Inspiring statue
-4.  Revealing mosaic
-5.  Radiant shrine
-6.  Friendly spirit
-7.  Hidden campsite
-8.  Edible mushrooms
-9.  Explorer's pack
-10.  Spy hole
-11.  Adventurer's journal
-12.  Escape tunnel
-13.  Useful teleporter
-14.  Enlightening mural
-15.  Healing spring
-16.  Wounded enemy
-17.  Well-stocked armory
-18.  Friendly creature
-19.  Useful machinery
-20.  Historical library
+1.  役立つNPC
+2.  聖なる泉
+3.  感動的な彫像
+4.  露出したモザイク画
+5.  光り輝く神殿
+6.  友好的な精神
+7.  隠れた野営地
+8.  食用キノコ
+9.  探検家パック
+10.  のぞき穴
+11.  冒険者の日記
+12.  逃走用トンネル
+13.  便利なテレポーター
+14.  啓発的な壁画
+15.  癒しの泉
+16.  負傷した敵
+17.  充実した武器庫
+18.  友好的なクリーチャー
+19.  便利な機械
+20.  歴史図書館
 
-### Dungeon Monsters
+### ダンジョン内のモンスター
 
-You can add monsters and other foes to your adventure by consulting the following list. Roll a d8 for easy monsters, roll a d12 to expand the range into hard monsters, or roll a d20 to also include dangerous monsters. If you decide to use a monster as a boss monster, give it double hit points and let it take an extra action each turn.
+次のリストを参照して、モンスターやその他の敵を冒険に追加できます。簡単なモンスターにはd8、強いモンスターに範囲を拡大するにはd12、危険なモンスターも含めるにはd20をロールします。モンスターをボスモンスターとして使用する場合は、それに2倍のヒットポイントを与え、毎ターン追加のアクションを実行させます。
 
-For foes such as bandits and cultists, you can also roll for ancestry on the NPC creation lists if those foes having a common origin makes sense for your narrative.
+盗賊やカルト信者などの敵の場合、共通の起源を持つ敵があなたの物語にとって意味がある場合は、NPC作成リストに祖先を登録することもできます。
 
-### 1d20 Monsters
+### 1d20 モンスター
 
-1.  Giant rats
-2.  Bandits
-3.  Cultists
-4.  Acolytes
-5.  Stirges
-6.  Guards
-7.  Skeletons
-8.  Oozes
-9.  Shadows
-10.  Spies
-11.  Ghouls
-12.  Specters
-13.  Cult fanatics
-14.  Gelatinous cubes
-15.  Ogres
-16.  Wererats
-17.  Basilisks
-18.  Green hags
-19.  Hell hounds
-20.  Mummies
+1.  ジャイアント・ラット
+2.  山賊
+3.  カルト教団員
+4.  侍祭
+5.  スタージ
+6.  衛兵
+7.  スケルトン
+8.  ウーズ
+9.  シャドウ
+10.  密偵
+11.  グール
+12.  スペクター
+13.  カルトの狂信者
+14.  ゼラチナス・キューブ
+15.  オーガ
+16.  ワーラット
+17.  バジリスク
+18.  グリーン・ハグ
+19.  ヘル・ハウンド
+20.  マミー
 
-### Traps and Hazards
+### 罠と危険
 
-Add traps as they make sense for the adventure. At 1st through 4th level, traps often have a DC of 13, and deal 7 (2d6) damage for easy traps or 11 (2d10) damage for hard traps.
+冒険に必要なトラップを追加します。1レベルから4レベルまで、トラップの難易度は13であることが多く、簡単なトラップの場合は7(2d6)のダメージ、難しいトラップの場合は11(2d10)のダメージを与えます。
 
-### 1d20 Traps and Hazards
+### 1d20 罠と危険
 
-1.  Spiked pit
-2.  Lightning blasts
-3.  Poisoned darts
-4.  Swarms of insects
-5.  Explosive runes
-6.  Radiant pillars
-7.  Flame-jet idols
-8.  Force beams
-9.  Crippling caltrops
-10.  Acidic pools
-11.  Bear traps
-12.  Ghostly haunting
-13.  Poisoned gas
-14.  Magical instability
-15.  Barbed spears
-16.  Dense fog
-17.  Psychic feedback
-18.  Greasy floor
-19.  Thick webs
-20.  Freezing jets
+1.  スパイクの落とし穴
+2.  稲妻の爆発
+3.  毒矢
+4.  昆虫の群れ
+5.  爆発するルーン
+6.  光り輝く柱
+7.  火炎噴射の像
+8.  力場ビーム
+9.  不自由にさせるマキビシ
+10.  酸のプール
+11.  トラバサミ
+12.  恐ろしい考え
+13.  毒ガス
+14.  魔法不安定化
+15.  トゲ付き槍
+16.  濃霧
+17.  サイキックによる反応
+18.  油床
+19.  厚い蜘蛛の巣
+20.  凍結噴射
 
-### Treasure
+### 宝物
 
-This list lets you add treasure to the adventure as appropriate. Roll a d10 to determine monetary treasure, or a d20 for monetary and magical treasure.
+このリストを使用すると、必要に応じて冒険に宝物を追加できます。d10を出して金銭の宝を決定するか、d20を出して金銭と魔法の宝を決定します。
 
-### 1d20 Treasures
+### 1d20 宝物
 
-1.  Coins
-2.  Bag of gemstones
-3.  Platinum jewelry
-4.  Rune-scribed gem
-5.  Golden goblet
-6.  Ancient tome
-7.  Treasure map
-8.  Ancient relic
-9.  Fantastic art
-10.  Jeweled idol
-11.  Potion of healing
-12.  Other potion
-13.  Scroll or spell scroll
-14.  Bag of holding
-15.  Wondrous item
-16.  Wand or rod
-17.  Magic light weapon
-18.  Magic heavy weapon
-19.  Magic ranged weapon
-20.  Magic armor
+1.  硬貨
+2.  宝石の入った袋
+3.  プラチナのジュエリー
+4.  ルーンが刻まれた宝石
+5.  黄金の杯
+6.  古代の書物
+7.  宝の地図
+8.  古代の遺物
+9.  素晴らしい芸術
+10.  宝石で飾られた像
+11.  ポーション・オブ・ヒーリング
+12.  他のポーション
+13.  巻物・または呪文のスクロール
+14.  バッグ・オブ・ホールディング
+15.  素晴らしいアイテム
+16.  ワンドやロッド
+17.  魔法の軽武器
+18.  魔法の重武器
+19.  魔法の遠隔武器
+20.  魔法の鎧
 
-### Spells
+### 呪文
 
-Some commonly discovered relics might grant a single- use spell, while less common magic items might allow their wielder to cast a spell daily. Use the list of common spells below or choose specialized spells to create unique magic item rewards.
+よく発見される遺物の中には、使い捨ての呪文を使用するものもありますが、あまり一般的ではない魔法のアイテムでは、その使用者が毎日呪文を唱えることができる場合があります。以下の一般的な呪文のリストを使用するか、特殊な呪文を選択してユニークな魔法アイテムの報酬を作成します。
 
-### 1d20 Spells
+### 1d20 呪文
 
-1.  _Magic missile_
-2.  _Burning hands_
-3.  _Shield_
-4.  _Cure wounds_
-5.  _Guiding bolt_
-6.  _Invisibility_
-7.  _Scorching ray_
-8.  _Shatter_
-9.  _Aid_
-10.  _Misty step_
-11.  _Spiritual weapon_
-12.  _Lesser restoration_
-13.  _Daylight_
-14.  _Mass healing word_
-15.  _Revivify_
-16.  _Lightning bolt_
-17.  _Fireball_
-18.  _Dispel magic_
-19.  _Haste_
-20.  _Fly_
+1.  _マジック・ミサイル_
+2.  _バーニング・ハンズ_
+3.  _シールド_
+4.  _キュア・ウーンズ_
+5.  _ガイディング・ボルト_
+6.  _インビジビリティ_
+7.  _スコーチング・レイ_
+8.  _シャター_
+9.  _エイド_
+10.  _ミスティ・ステップ_
+11.  _スピリチュアル・ウェポン_
+12.  _レッサー・レストレーション_
+13.  _デイライト_
+14.  _マス・ヒーリング・ワード_
+15.  _リヴィヴィファイ_
+16.  _ライトニング・ボルト_
+17.  _ファイヤー・ボール_
+18.  _ディスペル・マジック_
+19.  _ヘイスト_
+20.  _フライ_
 
 <a id="npcgenerator"></a>
 NPC Generator
