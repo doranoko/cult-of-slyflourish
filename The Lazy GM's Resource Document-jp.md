@@ -19,7 +19,7 @@ This document is a single self-contained HTML file. To save an offline local cop
 -----------------
 
 *   [ラジーにRPGを準備するための８つのステップ](#eightsteps)
-*   [The Lazy RPG Preparation Process](#prepprocess)
+*   [ラジーなロールプレイングゲームの準備](#prepprocess)
 *   [Example Strong Starts](#strongstarts)
 *   [Creating Secrets and Clues](#creatingsecrets)
 *   [RPGグループの構築](#buildingagroup)
@@ -116,64 +116,64 @@ This document is a single self-contained HTML file. To save an offline local cop
 *   魅力的なロケーションを開発する
 
 <a id="prepprocess"></a>
-The Lazy RPG Preparation Process
+ラジーなロールプレイングゲームの準備
 --------------------------------
 
-### The Lazy RPG Prep Toolkit
+### ラジーＲＰＧな小物類
 
-*   Dice, pencils, and dry-erase markers
-*   GM's notebook
-*   Campaign worksheet
-*   Curated random name list
-*   3×5 index cards
-*   Numbered initiative cards
-*   GM screen or cheat sheet
-*   Dry-erase flip mat
-*   Published books and adventures
-*   Miniatures, maps, and terrain as needed
+*   サイコロ、鉛筆、ホワイトボードマーカー
+*   ゲームマスターノート
+*   キャンペーン・ワークシート
+*   厳選したランダムネームリスト
+*   3×5 インデックスカード
+*   番号付きイニシアティブカード
+*   GMスクリーンまたはチートシート
+*   フリップマット
+*   出版された本やアドベンチャー
+*   ミニチュア、地図、地形（必要に応じて）
 
-### Building a Lazy Campaign
+### ラジーにキャンペーンを作る
 
-*   Develop a spiral campaign with the characters at the center
-*   Build a campaign hook focusing on a single major goal
-*   State the six truths of your campaign
-*   Define three fronts incorporating goals and grim portents
-*   Run a session zero to help build the characters and tie them together
+*   キャラクターを中心としたスパイラルキャンペーンを展開する。
+*   1つの大きな目標に焦点を当てたキャンペーンフックを作る。
+*   キャンペーンの6つの真理を述べる。
+*   目標や厳しい前兆を盛り込んだ3つのフロントを定義する。
+*   キャラクターを作り上げ、結びつけるために、セッション・ゼロを実行する。
 
-### Running Your Game
+### ゲームを実行する
 
-*   Relax
-*   Focus on your strong start
-*   Listen to the players, and build off of the ideas they bring you
-*   Trust your preparation to help you run a creative, flexible game
-*   Ask the players to summarize the events of the previous game session
-*   Draw players into the story by asking them to describe killing blows, define monster characteristics, and describe interesting events during travel
-*   Imagine the world as a living place when building scenes and situations
-*   Let the world and the NPCs react to the characters' actions
-*   Use a mixture of combat styles, including theater of the mind, gridded maps, and abstract maps
-*   Maintain a good pace by staying close to the action
-*   Cycle between action and relaxation, and alternate upward and downward emotional beats
-*   Use specific hopeful or fearful beats to send the action in a specific direction
+*   リラックスする
+*   力強いスタートに集中する
+*   プレイヤーの意見に耳を傾け、彼らが持ってきたアイデアを基にゲームを進める。
+*   自分の準備を信じて、創造的で柔軟なゲームを運営する。
+*   プレイヤーに前回のゲームセッションの出来事を要約してもらう。
+*   プレイヤーにトドメの一撃、モンスターの特徴の定義、移動中の興味深い出来事の描写を求め、物語に引き込む。
+*   シーンやシチュエーションを構築する際に、世界を生きた場所として想像する。
+*   キャラクターの行動に世界やNPCが反応するようにする。
+*   マインドシアター、グリッドマップ、抽象的なマップなど、さまざまな戦闘スタイルを使い分ける
+*   アクションに集中することで、テンポの良さを維持する。
+*   アクションとリラクゼーションを繰り返し、上向きと下向きの感情の抑揚を繰り返す。
+*   特定の希望や恐怖のビートを使って、アクションを特定の方向に向かわせる。
 
-### Thinking About Your Game
+### あなたのゲームについて考える
 
-*   Prime your GM's brain with great books, movies, and TV shows
-*   Remind yourself of the player characters' names and backgrounds
-*   Ask what the villains and NPCs are doing right now
+*   素晴らしい本、映画、テレビ番組であなたのゲームマスター脳を活性化させる。
+*   プレイヤー・キャラクターの名前と背景を思い浮かべる。
+*   悪役やNPCが今何をしているのか聞いてみる。
 
-### Embrace the GM's Truths
+### GMの真理を受け入れる
 
-*   Players don't care as much as you think
-*   Players want to see their characters do awesome things
-*   The GM is not the enemy of the characters
-*   Be a fan of the characters
+*   プレイヤーは、あなたが思っているほど気にしていない。
+*   プレイヤーは、自分のキャラクターのすごいところが見たい。
+*   GMはキャラクターの敵ではない
+*   キャラクターのファンであれ
 
-### Lazy RPG Tricks
+### ラジーなロールプレイングゲームのコツ
 
-*   Award levels at key points in the story
-*   Improvise ability and skill checks
-*   Delegate certain tasks to the players
-*   Use static monster damage
+*   ストーリーの要所要所でレベルを上げる。
+*   能力判定やスキル判定を即興で行う。
+*   特定のタスクをプレイヤーに委ねる。
+*   モンスターがキャラクターに与えるダメージを固定値にする。
 
 <a id="strongstarts"></a>
 Example Strong Starts
