@@ -1326,32 +1326,32 @@ d20 | 行動 | 祖先
 19.  モニュメントを発見する
 20.  アーティファクトを発掘する
 
-### Locations, Monuments, and Items
+### 場所、モニュメント、アイテム
 
-The location of the quest might also contain specific monuments or items tied to the adventure's goals.
+クエストの場所には、冒険の目標に関連付けられた特定のモニュメントやアイテムが含まれる場合もあります。
 
-d20 | Location | Monument | Item
+d20 | 場所 | モニュメント | アイテム
 -- | -- | -- | --
-1 | Tower | Sarcophagus | Coin
-2 | Crypts | Obelisk | Figurine
-3 | Keep | Orb | Gemstone
-4 | Cairn | Bone pile | Amulet
-5 | Giant statue | Skull | Earring
-6 | Caves | Megalith | Bell
-7 | Sewers | Pillars | Bone
-8 | Temple | Throne | Bowl
-9 | Mines | Statues | Candle
-10 | Mansion | Well | Ring
-11 | Academy | Orrery | Circlet
-12 | Dungeon | Effigy | Bracelet
-13 | Barrow | Arcane circle | Dagger
-14 | Vault | Spire | Goblet
-15 | Tomb | Altar | Key
-16 | Warren | Pit | Lamp
-17 | Ship | Fountain | Brooch
-18 | Sanctum | Archway | Skull
-19 | Cove | Cage | Mask
-20 | Castle | Brazier | Necklace
+1 | 塔 | 石棺 | コイン
+2 | 地下室 | オベリスク | 置物
+3 | 砦 | オーブ | 宝石
+4 | ケルン | 骨の山 | アミュレット
+5 | 巨大な像 | 頭蓋骨 | イヤリング
+6 | 洞窟 | 巨石 | 鐘
+7 | 下水道 | 柱 | 骨
+8 | 寺院 | 玉座 | 鉢
+9 | 鉱山 | 彫像 | 蝋燭
+10 | 屋敷 | 井戸 | リング
+11 | 学園 | 宇宙儀 | サークレット
+12 | ダンジョン | 人形 | ブレスレット
+13 | 古墳 | 魔法陣 | ダガー
+14 | 保管庫 | 尖塔 | ゴブレット
+15 | 墓 | 祭壇 | 鍵
+16 | 狭いトンネル | 落とし穴 | ランプ
+17 | 船 | 噴水 | ブローチ
+18 | 聖域 | アーチ道 | 頭蓋骨
+19 | 入り江 | 檻 | マスク
+20 | 城 | 火鉢 | ネックレス
 
 ### Condition, Description, and Origin
 
