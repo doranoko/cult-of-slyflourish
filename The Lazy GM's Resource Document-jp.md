@@ -38,7 +38,7 @@ This document is a single self-contained HTML file. To save an offline local cop
 *   [Monster Difficulty Dials](#monsterdifficultydials)
 *   [Running Hordes](#runninghordes)
 *   [Stress Effects](#stresseffects)
-*   [Core Adventure Generators](#coreadventuregenerators)
+*   [コアアドベンチャージェネレータ](#coreadventuregenerators)
 *   [NPC Generator](#npcgenerator)
 *   [Treasure Generator](#treasuregenerator)
 *   [Random Traps](#randomtraps)
@@ -1265,66 +1265,66 @@ Be mindful to avoid terms such as "madness" or "crazy" to describe the long-term
 Special thanks to Dr. Megan Connell and Dr. Michael Mallen for their feedback on this section.
 
 <a id="coreadventuregenerators"></a>
-Core Adventure Generators
+コアアドベンチャージェネレータ
 -------------------------
 
-The tables in this section can help you generate a core fantasy adventure based on the traditional concept of getting hired by a patron or other NPC to take on a quest in a specific location. Often these adventures take place in small settlements surrounded by ancient ruins and monstrous lairs on the edge of civilization.
+このセクションの表は、パトロンや他の NPC に雇われて特定の場所でクエストを引き受けるという従来の概念に基づいて、中核となるファンタジー アドベンチャーを生成するのに役立ちます。多くの場合、これらの冒険は文明圏の端にある古代遺跡やモンスターのねぐらに囲まれた小さな集落で行われます。
 
-Use these tables together to generate and inspire full adventures, or use individual tables to fill in the details of other adventures you create or play. This generator (and specifically, the Dungeon Monsters table and the Treasure table) is set up for characters of 1st to 4th level, but can be easily modified for higher-level adventures.
+これらのテーブルを同時に使用して、完全なアドベンチャーを生成しインスピレーションを与えることも、個別のテーブルを使用し、作成またはプレイする他のアドベンチャーの詳細を記入することもできます。このジェネレーター (具体的には、ダンジョン・モンスター テーブルと宝物テーブル) は、1レベルから4レベルのキャラクター向けに設定されていますが、より高いレベルの冒険に合わせて簡単に変更できます。
 
-### Patrons and NPCs
+### パトロンとNPC
 
-Use these tables to generate a patron or NPC for your adventure, applying an NPC stat block to create villains, hirelings, rivals, or heralds.
+これらのテーブルを使用して冒険のためのパトロンまたは NPC を生成し、NPC 統計ブロックを適用して悪役、雇い人、ライバル、または使者を作成します。
 
-d20 | Behavior | Ancestry
+d20 | 行動 | 祖先
 -- | -- | --
-1 | Enthusiastic | Human
-2 | Flighty | Elf
-3 | Shifty | Dwarf
-4 | Optimistic | Halfling
-5 | Paranoid | Orc
-6 | Well spoken | Drow
-7 | Superior | Tiefling
-8 | Haughty | Dragonborn
-9 | Pessimistic | Fey
-10 | Suspicious | Goblin
-11 | Worried | Construct
-12 | Greedy | Celestial
-13 | Brave | Ghost
-14 | Stern | Wizard's familiar
-15 | Sly | Talking animal
-16 | Wise | Avian
-17 | Reserved | Lizardfolk
-18 | Cheery | Catfolk
-19 | Opportunistic | Lycanthrope
-20 | Soft spoken | Artifact
+1 | 熱狂的 | ヒューマン
+2 | 突飛 | エルフ
+3 | 狡い | ドワーフ
+4 | 楽観的 | ハーフリング
+5 | 妄想的 | オーク
+6 | 饒舌 | ドラウ
+7 | 目上 | ティーフリング
+8 | 高慢 | ドラゴンボーン
+9 | 悲観的 | フェイ
+10 | 疑り深い | ゴブリン
+11 | 心配性 | Construct
+12 | 強欲 | セレスチャル
+13 | 勇敢 | ゴースト
+14 | 厳しい | ウィザードのファミリア
+15 | ずるい | 言葉を話す動物
+16 | 賢い | 鳥類
+17 | 控え目 | リザードフォーク
+18 | 陽気 | キャットフォーク
+19 | ご都合主義 | ライカンスロープ
+20 | 穏やかな口調 | アーティファクト
 
-### Quests
+### クエスト
 
-Any quests the characters are asked to fulfill might be distilled down to one of the following starting points.
+キャラクターが遂行するよう求められるクエストは、次のいずれかの開始点にまで絞り込まれる可能性があります。
 
-### 1d20 Quests
+### 1d20 クエスト
 
-1.  Find an item
-2.  Kill a villain
-3.  Rescue an NPC
-4.  Uncover a secret
-5.  Clear out monsters
-6.  Protect a monument
-7.  Protect an NPC
-8.  Steal an item
-9.  Return an item
-10.  Close a gate
-11.  Open a gate
-12.  Activate a monument
-13.  Disable an artifact
-14.  Recover an item
-15.  Convince an NPC
-16.  Awaken a monster
-17.  Put a monster to sleep
-18.  Bury a secret
-19.  Discover a monument
-20.  Dig up an artifact
+1.  アイテムを探す
+2.  悪役を探す
+3.  NPCを救出する
+4.  秘密を暴く
+5.  モンスターを一層する
+6.  記念碑を守る
+7.  NPCを守る
+8.  アイテムを盗む
+9.  アイテムを返還する
+10.  ゲートを閉める
+11.  ゲートを開ける
+12.  モニュメントを起動させる
+13.  アーティファクトを鎮める
+14.  アイテムを修理する
+15.  NPCを説得する
+16.  モンスターを説得する
+17.  モンスターを眠らせる
+18.  秘密を埋める
+19.  モニュメントを発見する
+20.  アーティファクトを発掘する
 
 ### Locations, Monuments, and Items
 
@@ -2394,7 +2394,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 
 ### Monster List 5 (CR 3–4)
 
-1.  Doppelganger
+1.  ドッペルゲンガー
 2.  Giant scorpion
 3.  Green hag
 4.  Hell hound
