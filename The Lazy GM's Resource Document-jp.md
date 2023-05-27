@@ -5,15 +5,15 @@ The Lazy GM's Resource Document
 
 2023年5月8日更新
 
-This document includes resources and guidelines for preparing and running 5e and other fantasy roleplaying games taken from several books written by Michael E. Shea and available at [SlyFlourish.com](https://slyflourish.com). Much of this material is useful for any fantasy RPG but some is specific to the 5th edition of the world's most popular roleplaying game.
+この文書には、5eやその他のファンタジー・ロールプレイング・ゲームを準備・運営するためのリソースや ガイドラインについて、マイケル・E・シアが執筆し、[SlyFlourish.com](https://slyflourish.com)で入手できる複数の書籍から抜粋しています。この資料の多くはあらゆるファンタジーRPGに役立つものですが、一部は世界で最も人気のあるロールプレイングゲームの第5版に特化したものです。
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Please attribute Michael E. Shea of [SlyFlourish.com](https://slyflourish.com) in any works derived from this document.
+この作品は、[クリエイティブ・コモンズ・ライセンス(表示 4.0 国際)](http://creativecommons.org/licenses/by/4.0/)の下でライセンスされています。この文書から派生した作品については、クリエイティブ・コモンズ・ライセンス(表示 4.0 国際)に従い [SlyFlourish.com](https://slyflourish.com) のマイケル・E・シアが原著者であることを明記してください。
 
-This work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC and available at [https://dnd.wizards.com/resources/systems-reference-document](https://dnd.wizards.com/resources/systems-reference-document). The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode).
+この作品は、Wizards of the Coast LLCによるSystem Reference Document 5.1 ("SRD 5.1")[https://dnd.wizards.com/resources/systems-reference-document](https://dnd.wizards.com/resources/systems-reference-document) から引用されたドキュメントを含んでいます。SRD5.1はクリエイティブ・コモンズ・ライセンス(表示 4.0 国際) [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode) でライセンスされています。
 
-The publication and release of this document is made possible by [patrons of Sly Flourish](https://www.patreon.com/slyflourish). Thank you for your support!
+本書の発行・公開は、[Sly Flourishの後援者の方々](https://www.patreon.com/slyflourish)によって実現されています。皆様のご支援に感謝いたします！
 
-This document is a single self-contained HTML file. To save an offline local copy, "save as" either the page source or HTML in your browser. Use tools such as [Calibre](https://calibre-ebook.com) and [Pandoc](https://pandoc.org) to convert this document to markdown, PDF, ePub or another format of your choice. Use [Send to Kindle](https://www.amazon.com/sendtokindle) to send a version to your Kindle.
+このドキュメントは、1つの自己完結型のHTMLファイルです。オフラインのローカルコピーを保存するには、ブラウザでページソースまたはHTMLのどちらかを「名前を付けて保存」してください。 [Calibre](https://calibre-ebook.com) や [Pandoc](https://pandoc.org) 等のツールを使ってこのドキュメントをマークダウン形式テキスト、PDF、ePubなどのお好みのフォーマットに変換できます。また、[Kindleに送る](https://www.amazon.com/sendtokindle) を使ってあなたのKindleに送ることもできます。
 
 目次
 -----------------
