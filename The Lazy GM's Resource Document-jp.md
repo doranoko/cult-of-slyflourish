@@ -7,13 +7,13 @@ The Lazy GM's Resource Document
 
 この文書には、5eやその他のファンタジー・ロールプレイング・ゲームを準備・運営するためのリソースや ガイドラインについて、マイケル・E・シアが執筆し、[SlyFlourish.com](https://slyflourish.com)で入手できる複数の書籍から抜粋しています。この資料の多くはあらゆるファンタジーRPGに役立つものですが、一部は世界で最も人気のあるロールプレイングゲームの第5版に特化したものです。
 
-この作品は、[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)の下でライセンスされています。この文書から派生した作品については、[SlyFlourish.com](https://slyflourish.com) のマイケル・E・シアに帰属させてください。
+この作品は、[クリエイティブ・コモンズ・ライセンス(表示 4.0 国際)](http://creativecommons.org/licenses/by/4.0/)の下でライセンスされています。この文書から派生した作品については、クリエイティブ・コモンズ・ライセンス(表示 4.0 国際)に従い [SlyFlourish.com](https://slyflourish.com) のマイケル・E・シアが原著者であることを明記してください。
 
-この作品は、Wizards of the Coast LLCによるSystem Reference Document 5.1 ("SRD 5.1")[https://dnd.wizards.com/resources/systems-reference-document](https://dnd.wizards.com/resources/systems-reference-document) から引用されたドキュメントを含んでいます。SRD5.1はクリエイティブ・コモンズ4.0国際ライセンス [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode) でライセンスされています。
+この作品は、Wizards of the Coast LLCによるSystem Reference Document 5.1 ("SRD 5.1")[https://dnd.wizards.com/resources/systems-reference-document](https://dnd.wizards.com/resources/systems-reference-document) から引用されたドキュメントを含んでいます。SRD5.1はクリエイティブ・コモンズ・ライセンス(表示 4.0 国際) [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode) でライセンスされています。
 
-本書の発行・公開は、[patrons of Sly Flourish](https://www.patreon.com/slyflourish)によって実現されています。皆様のご支援に感謝いたします！
+本書の発行・公開は、[Sly Flourishの後援者の方々](https://www.patreon.com/slyflourish)によって実現されています。皆様のご支援に感謝いたします！
 
-このドキュメントは、1つの自己完結型のHTMLファイルです。オフラインのローカルコピーを保存するには、ブラウザでページソースまたはHTMLのどちらかを「名前を付けて保存」してください。 [Calibre](https://calibre-ebook.com) や [Pandoc](https://pandoc.org) 等のツールを使ってこのドキュメントをマークダウンしたり、PDF、ePubなどのお好みのツールに変換できます。また、[Kindleに送る](https://www.amazon.com/sendtokindle) を使ってあなたのKindleに送ることもできます。
+このドキュメントは、1つの自己完結型のHTMLファイルです。オフラインのローカルコピーを保存するには、ブラウザでページソースまたはHTMLのどちらかを「名前を付けて保存」してください。 [Calibre](https://calibre-ebook.com) や [Pandoc](https://pandoc.org) 等のツールを使ってこのドキュメントをマークダウン形式テキスト、PDF、ePubなどのお好みのフォーマットに変換できます。また、[Kindleに送る](https://www.amazon.com/sendtokindle) を使ってあなたのKindleに送ることもできます。
 
 目次
 -----------------
