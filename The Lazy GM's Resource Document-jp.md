@@ -38,7 +38,7 @@ This document is a single self-contained HTML file. To save an offline local cop
 *   [Monster Difficulty Dials](#monsterdifficultydials)
 *   [Running Hordes](#runninghordes)
 *   [Stress Effects](#stresseffects)
-*   [コアアドベンチャージェネレータ](#coreadventuregenerators)
+*   [コア・アドベンチャー・ジェネレーター](#coreadventuregenerators)
 *   [NPC Generator](#npcgenerator)
 *   [Treasure Generator](#treasuregenerator)
 *   [Random Traps](#randomtraps)
@@ -1265,7 +1265,7 @@ Be mindful to avoid terms such as "madness" or "crazy" to describe the long-term
 Special thanks to Dr. Megan Connell and Dr. Michael Mallen for their feedback on this section.
 
 <a id="coreadventuregenerators"></a>
-コアアドベンチャージェネレータ
+コア・アドベンチャー・ジェネレーター
 -------------------------
 
 このセクションの表は、パトロンや他の NPC に雇われて特定の場所でクエストを引き受けるという従来の概念に基づいて、中核となるファンタジー アドベンチャーを生成するのに役立ちます。多くの場合、これらの冒険は文明圏の端にある古代遺跡やモンスターのねぐらに囲まれた小さな集落で行われます。
