@@ -20,7 +20,7 @@ The Lazy GM's Resource Document
 
 *   [ラジーにRPGを準備するための８つのステップ](#eightsteps)
 *   [ラジーなロールプレイングゲームの準備](#prepprocess)
-*   [Example Strong Starts](#strongstarts)
+*   [強力なスタートの例](#strongstarts)
 *   [Creating Secrets and Clues](#creatingsecrets)
 *   [RPGグループの構築](#buildingagroup)
 *   [Session Zero Checklist](#sessionzerochecklist)
@@ -137,7 +137,7 @@ The Lazy GM's Resource Document
 *   キャラクターを中心としたスパイラルキャンペーンを展開する。
 *   1つの大きな目標に焦点を当てたキャンペーンフックを作る。
 *   キャンペーンの6つの真理を述べる。
-*   目標や厳しい前兆を盛り込んだ3つのフロントを定義する。
+*   目標や厳しい前兆を盛り込んだ3つのフロントを定義する。(訳注：ここで言う『フロント』は[ダンジョンワールド](https://dw.felis.jp/)で取り上げられている概念。詳細は[第8章:フロント](https://dw.felis.jp/chapter08)を参照してください) 
 *   キャラクターを作り上げ、結びつけるために、セッション・ゼロを実行する。
 
 ### ゲームを実行する
@@ -176,70 +176,70 @@ The Lazy GM's Resource Document
 *   モンスターがキャラクターに与えるダメージを固定値にする。
 
 <a id="strongstarts"></a>
-Example Strong Starts
+強力なスタートの例
 ---------------------
 
-A strong start kicks your game off in the middle of the action. It helps the players to let go of the real world and fall into the story unfolding at the table. Depending on where your adventure takes place, you can use any of the following strong starts in your own game, whether running a single-session adventure or a longer campaign.
+強力なスタートによって、ゲームはアクションの真っ只中に蹴り出されます。 プレイヤーは現実世界から離れ、テーブルで展開される物語に入り込むことができるようになります。1セッションのアドベンチャーであっても、長期にわたるキャンペーンであっても、冒険の舞台がどこであるかに応じて、以下の強力なスタートを自分のゲームに使うことができます。
 
-### Cities and Towns
+### 都市や町
 
-In a settlement, a strong start can make use of either combat or roleplaying.
+集落では、戦闘とロールプレイのどちらかを活用することで、強力なスタートを切ることができます。
 
-1.  The characters interrupt bandits breaking into a shop.
-2.  Something slithers out of a nearby sewer.
-3.  A noble lord bumps into one of the characters and threatens to have them arrested.
-4.  A group of cultists kindly ask for a sample of a character's blood.
-5.  A hooded patron visits the characters, asking the characters to kill them in two days.
-6.  A riot draws the local watch away, whereupon a squad of hired killers descends on the characters.
-7.  The campaign's main villain shows up and invites the characters for a drink.
-8.  A scarred explorer offers to sell one of the characters a map to a site of a lost or stolen ancestral heirloom.
-9.  A golem from a wizards' academy goes on a rampage.
-10.  The local monarch is assassinated and a villain takes over the government.
+1.  店に押し入る盗賊を迎え撃つ登場人物たち。
+2.  近くの下水道から何かがゾロゾロと出てきます。
+3.  高貴な貴族が登場人物の一人とぶつかり、彼らを逮捕させると脅すのです。
+4.  カルト集団がキャラクターの血液を採取してほしいと親切に頼んできます。
+5.  フードをかぶったパトロンが登場人物のもとを訪れ、彼らに向かって「2日以内に殺してほしい」と頼みます。
+6.  暴動に巻き込まれ、警備員も不在の中、殺し屋集団が主人公たちに襲いかかります。
+7.  キャンペーンの主役である悪役が現れ、キャラクターたちを飲みに誘います。
+8.  傷だらけの探検家が、登場人物の一人に、無くしたり盗まれたりした先祖の家宝がある場所への地図を売ろうと持ちかけます。
+9.  ウィザードアカデミーのゴーレムが暴走。
+10.  現地の君主が暗殺され、悪党が政府を乗っ取ります。
 
-### Sewers
+### 下水道
 
-A session that starts in a sewer can make use of numerous monsters and hazards.
+下水道で始まるセッションは、数多くのモンスターや危険なものを利用することができます。
 
-1.  A flood of poisonous water flows past the characters' position.
-2.  The sewer collapses into deeper tunnels sealed up for centuries.
-3.  A wererat approaches the characters, offering to sell valuable information.
-4.  A pack of ghouls chase a young couple reported missing days ago.
-5.  A legendary giant crocodile stealthily stalks the characters.
-6.  The characters find a powerful magical dagger sought by a guild of wraith assassins.
-7.  Swampy sewer gas gives one of the characters supernatural visions of the villain's master plan.
-8.  The characters meet an eccentric wizard farming mushrooms for spell components.
-9.  A wall collapses, revealing a hidden temple of the god of slimes and oozes.
-10.  A flood of water draws the characters into a dangerously large mechanical sluice system.
+1.  キャラクターたちのいる位置を、毒水の洪水が通り過ぎていきます。
+2.  下水道が崩壊し、何世紀にもわたって封印されてきた深い坑道が現れます。
+3.  ワーラットが登場人物に近づき、貴重な情報を売ると言ってきます。
+4.  数日前から行方不明となった若いカップルを追いかけるグールの群れ。
+5.  伝説の巨大ワニがキャラクターに忍び寄る。
+6.  キャラクターたちは、亡者の暗殺者ギルドが求める強力な魔法の短剣を見つけます。
+7.  下水道から発生するガスが、キャラクターの一人に悪党の計画を超自然的な形で見せます。
+8.  キャラクターたちは、呪文の材料となるキノコを栽培する風変わりなウィザードと出会います。
+9.  壁が崩れ、スライムやウーズの神の隠された寺院が現れます。
+10.  洪水のような水の流れで、キャラクターたちは危険な機械式水門に引き込まれます。
 
-### Wilderness
+### 荒野
 
-Wilderness locations can involve either action or mystery in a strong start.
+荒野というロケーションは、アクションとミステリーのどちらかを強い出だしで絡めることができます。
 
-1.  A nearby tree opens up, and a satyr steps through and says "Hi!"
-2.  A rampaging werebear storms through the area, mistaking the characters for the hunters who killed their mate.
-3.  Night falls, revealing an alien starscape above.
-4.  The characters see a tall humanoid with antlers stalking from the shadows, carrying a large scythe in one hand and three humanoid heads in the other.
-5.  The ground suddenly churns, bringing the body of a long-lost elf king to the surface. The king's eyes open.
-6.  The characters stumble upon a nest of skeletal pixies surrounding a desecrated fey gate.
-7.  A golden-antlered stag leaps into the characters' camp and asks to be defended from the hunters chasing it.
-8.  An old woman greets the characters, offering them candy and baked treats if they will come to her nearby cottage.
-9.  A skeleton hanging from a tree begs the characters to right the wrong it committed while alive.
-10.  A sinkhole opens up, revealing the tunnels of long-forgotten burial chambers.
+1.  近くの木が開き、サテュロスが踏み出してきて「やぁ！」と言っています。
+2.  キャラクターたちを仲間を殺したハンターと勘違いし、暴れまわるウェアベア。
+3.  夜になって、上空に異様な星空が広がります。
+4.  キャラクターたちは、角の生えた背の高いヒューマノイドが、片手に大きな鎌、片手に3つのヒューマノイドの頭部を持ち、物陰から歩いてくるのを見ます。
+5.  突然地面が揺れ、長い間行方不明だったエルフの王の遺体が浮かび上がってきました。王は目を見開きます。
+6.  荒らされたフェイゲートを囲む骸骨ピクシーの巣を発見したキャラクターたち。
+7.  主人公たちのキャンプに飛び込んできた金の角を持つ牡鹿が、牡鹿を追う狩人たちから守ってくれるように頼みます。
+8.  老婆は登場人物たちを出迎え、近くのコテージに来てくれるなら、キャンディや焼き菓子をあげると言います。
+9.  木に吊るされた骸骨が、生きている間に犯した過ちを正してほしいと登場人物に懇願します。
+10.  陥没した穴が開き、長い間忘れられていた埋葬室のトンネルが現れるのです。
 
-### Dungeons, Caves, and Caverns
+### ダンジョン、洞窟、洞穴
 
-Subterranean adventures lend themselves to the widest possible range of strong starts.
+地下の冒険は、ありとあらゆる強力なスタートダッシュを可能にします。
 
-1.  A vampire appears from a sudden rise of mist, introduces herself, and asks the characters for a favor.
-2.  An ancient statue turns its head toward the characters and whispers a valuable secret.
-3.  The floor collapses, revealing even deeper tunnels long forgotten.
-4.  Through a cracked wall, the characters spot a gateway flanked by two huge obsidian statues, and featuring a set of stairs leading down.
-5.  The characters come across two bands of goblins fighting each other for the favor of a hag named Auntie Chiptooth.
-6.  An eyestalk swells out from an oozy patch on the wall, beholds the characters, and then disappears back into the wall.
-7.  A wounded knight collapses near the characters, begging them to find her lost love before she dies.
-8.  The ground cracks open and a pillar of chipped obsidian juts out, projecting a prophecy in red Infernal glyphs on the walls of the chamber.
-9.  Stars swim in a moonlit well, then rise up to reveal themselves as will-o'-wisps.
-10.  A spectral hound guides the characters to the camp of a reclusive mage.
+1.  突然立ち込める霧の中から吸血鬼が現れ、自己紹介をして、登場人物に頼みごとをします。
+2.  古代の彫像が登場人物たちの方を向き、貴重な秘密をささやきます。
+3.  床が崩れ、長い間忘れられていた深い坑道が現れます。
+4.  ひび割れた壁の向こうに、黒曜石の巨像が2体並ぶ門があり、下に降りていく階段が見えます。
+5.  チップトゥースおばさんというハグの寵愛をめぐって、2つのゴブリン集団が争っているところに出くわします。
+6.  壁の滲んだ部分から目の玉が顔を出し、キャラクターを見た後、壁の中に消えていきます。
+7.  傷ついた騎士が登場人物たちのそばで倒れ、死ぬ前に失恋相手を見つけてほしいと懇願しています。
+8.  地面が割れ、黒曜石の柱が飛び出し、部屋の壁に赤い地獄語の文字で予言を投影します。
+9.  月明かりに照らされた井戸の中で星が泳ぎまわり、それがウィル・オ・ウィスプとしてその姿を現します。
+10.  スペクタル・ハウンドが隠遁した魔道士の家にキャラクターたちを案内してくれます。
 
 <a id="creatingsecrets"></a>
 Creating Secrets and Clues
