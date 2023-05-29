@@ -18,8 +18,8 @@ The Lazy GM's Resource Document
 目次
 -----------------
 
-*   [ズボラにRPGを準備するための８つのステップ](#eightsteps)
-*   [ズボラにＲＰＧに必要なツールを準備する](#prepprocess)
+*   [ラジーにRPGを準備するための８つのステップ](#eightsteps)
+*   [ラジーにＲＰＧに必要なツールを準備する](#prepprocess)
 *   [Example Strong Starts](#strongstarts)
 *   [Creating Secrets and Clues](#creatingsecrets)
 *   [RPGグループの構築](#buildingagroup)
@@ -49,10 +49,10 @@ The Lazy GM's Resource Document
 *   [怠惰なソロ5e](#lazysolo5e)
 
 <a id="eightsteps"></a>
-ズボラにＲＰＧを準備するための８つのステップ
+ラジーにＲＰＧを準備するための８つのステップ
 --------------------------------
 
-典型的なゲーム・セッションの場合、ズボラにRPGを準備するためのチェックリストは次のようになります
+典型的なゲーム・セッションの場合、ラジーにRPGを準備するためのチェックリストは次のようになります
 
 *   キャラクターを見直す
 *   強力なスタートを作る
