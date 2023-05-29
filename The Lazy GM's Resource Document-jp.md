@@ -37,7 +37,7 @@ The Lazy GM's Resource Document
 *   [ゾーンに基づく戦闘](#zonebasedcombat)
 *   [Monster Difficulty Dials](#monsterdifficultydials)
 *   [Running Hordes](#runninghordes)
-*   [Stress Effects](#stresseffects)
+*   [ストレス効果](#stresseffects)
 *   [コア・アドベンチャー・ジェネレーター](#coreadventuregenerators)
 *   [NPC Generator](#npcgenerator)
 *   [Treasure Generator](#treasuregenerator)
@@ -1187,82 +1187,82 @@ Adjudicate the number of creatures caught up in an area of effect based on the c
 *   As hordes diminish to a manageable level, return to tracking individual hit points, attacks, and saving throws normally.
 
 <a id="stresseffects"></a>
-Stress Effects
+ストレス効果
 --------------
 
-The guidelines in this section replace the madness rules found in other books. The concept of "madness" has long been used to malign and marginalize complex psychological symptoms and the individuals coping with them.
+このセクションのガイドラインは、他の書籍に記載されている狂気のルールに代わるものです。「狂気」の概念は、複雑な心理的症状やそれに対処する個人を中傷し、疎外するために長い間使用されてきました。
 
-This new approach works with explicitly supernatural hindrances to break away from those stereotypes.
+この新しいアプローチは、明らかに超自然的な障害を利用して、これらの固定観念から脱却するために機能します。
 
-These effects represent dire reactions to a character witnessing something so alien and horrific that it has a lasting effect. You can use these descriptions to replace the more general frightened, stunned, or incapacitated conditions as desired.
+これらの効果は、非常に異質で恐ろしいものを目撃したキャラクターに対する悲惨な反応を表しており、その影響は永続的に続きます。これらの説明を使用して、必要に応じて、より一般的な恐怖状態、朦朧状態、または無力状態を置き換えることができます。
 
-When amplifying a sense of stress or horror in a game, ensure that you have the players' permission ahead of time and that proper safety tools (referenced earlier in this document) are in place.
+ゲーム内でストレスや恐怖感を増幅させる場合は、事前にプレイヤーの許可を得て、適切な安全ツール (このドキュメントの前半で参照) が設置されていることを確認してください。
 
-### Using Stress Effects
+### ストレス効果の使用
 
-Some things are beyond the ability of the mortal mind to comprehend. When witnessing alien or horrific entities, locations, and events, even the most powerful heroes might find their ability to process what unfolds around them shut down, forcing them to make a stress check. Such a check might be warranted by any of the following situations:
+物事の中には、人間の知力では理解できないものもあります。異星人や恐ろしい存在、場所、出来事を目撃すると、最も強力なヒーローであっても、周囲で起こっていることを処理する能力が停止し、ストレスチェックを強いられることがあります。このようなチェックは、次のいずれかの状況で正当化される可能性があります。
 
-*   Witnessing a ghoul devouring a body
-*   Beholding a bloody sacrificial altar
-*   Watching the raising of the dead
-*   Witnessing a ritual sacrifice
-*   Hearing the sermon of a dark priest
-*   Reading words from a forbidden tome
-*   Reading glyphs describing an elder evil
-*   Seeing a parasite burst free from its host
-*   Beholding unholy primordial cave paintings
-*   Touching an unholy artifact
-*   Peering through a portal into the Nine Hells
-*   Staring into a scrying pool showing the Abyss
-*   Discovering the ruins of a sentient alien vessel
-*   Watching depraved acts of cannibalism
-*   Seeing the true form of an abomination
-*   Falling into the depths of the Astral Plane
-*   Staring into the tumultuous extents of Limbo
-*   Standing in the presence of a demon prince
-*   Beholding an alien city of elder evils
-*   Witnessing the death of a god
+*   グールが死体を食い荒らしているのを目撃
+*   血まみれの犠牲の祭壇を見て
+*   死者の蘇生を見守る
+*   儀式の犠牲を目撃する
+*   闇の司祭の説教を聞く
+*   禁断の書の言葉を読む
+*   古き邪悪を表す象形文字を読む
+*   寄生虫が宿主から這い出すのを見る
+*   不浄な原始の洞窟壁画を見る
+*   不浄なアーティファクトに触れる
+*   ポータルを通して九層地獄を覗き込む
+*   アビスを示す占術プールを見つめる
+*   知性を持った異星船の残骸を発見
+*   人食いという下劣な行為を観察する
+*   忌まわしいものの正体を見る
+*   アストラル界の深部に落ちていく
+*   リンボの騒々しい広がりを見つめる
+*   デーモン・プリンスの前に立つ
+*   古き邪悪の住む異国の都市を眺める
+*   神の死を目撃する
 
-### Stress Results
+### ストレスの結果
 
-Whenever a character witnesses a potential stress event, you can ask for a Charisma saving throw with a DC based on the severity of the event, from DC 10 (easy) to DC 20 (hard). On a failed save, the character suffers a roleplaying effect from the Stress Effects list. Make sure you review the effects on the table during session zero to ensure they don't cross any players' lines of comfort.
+キャラクターが潜在的なストレスを受ける事態を目撃するたびに、事態の重大度に基づいた DC10 (簡単) から DC 20 (難しい) までの DC で【魅力】セーヴィング・スローを要求できます。セーヴに失敗すると、キャラクターはストレス効果からの影響をロールプレイに被ります。プレイヤーの『地雷』をふまないように、セッション・ゼロの時にその効果を確認しましょう。
 
-### 1d20 Stress Results
+### 1d20 ストレスの結果
 
-1.  You slip into a mental vision of a restful place.
-2.  You whisper in a tongue no mortal understands.
-3.  Blood flows from your eyes.
-4.  You collapse as you lose all strength.
-5.  A screaming whine fills your hearing.
-6.  Your heart seems to stop in your chest.
-7.  The faces of your friends hideously contort.
-8.  Your heartbeat hammers in your ears.
-9.  You hear strange, discordant music.
-10.  You fall asleep and dream of darkness.
-11.  A terrible memory of your past comes to mind.
-12.  Physical pain and burning wracks your body.
-13.  You find yourself unable to move or speak.
-14.  Unbound shadows seem to crawl toward you.
-15.  You hear the echoing sound of children crying.
-16.  You lose control of your bodily functions.
-17.  Your vision fills with twisted geometric shapes.
-18.  You hear the whispers of an otherworldly being.
-19.  You scream as blood flows from your mouth.
-20.  You feel as though all your bones begin to crack.
+1.  あなたは安らかな場所の妄想へと逃避します。
+2.  あなたは定命の者には理解できない言葉をささやきます。
+3.  目から血が流れ出します。
+4.  全身の力が抜けて倒れてしまいます。
+5.  あなたの周りが叫び声で満たされます。
+6.  心臓が止まりそうになります。
+7.  友達の顔が恐ろしく歪みます。
+8.  あなたの鼓動が耳に響きます。
+9.  奇妙で不調和な音楽が聞こえます。
+10.  あなたは眠りに落ち、暗闇の夢を見ます。
+11.  過去の恐ろしい記憶が思い出されます。
+12.  肉体的な苦痛や灼熱感が体を蝕みます。
+13.  あなたは動くことも話すこともできないことに気づきます。
+14.  束縛されていない影があなたに向かって這い寄るように見えます。
+15.  子どもたちの泣き声が響き渡ります。
+16.  身体機能のコントロールを失います。
+17.  あなたの視界はねじれた幾何学的形状で満たされます。
+18.  異世界の存在のささやきが聞こえます。
+19.  口から血が流れ出しながら叫びます。
+20.  すべての骨がひび割れ始めたかのように感じます。
 
-You determine how long the effect lasts and can add mechanical hindrances inspired by the effect at your discretion. Alternatively, you can add the following mechanical effect:
+効果が持続する期間はあなたが決定し、あなたの裁量で効果に触発された機械的障害を追加することができます。あるいは、次の機械的効果を追加することもできます。
 
-On a failed save, the character becomes stunned for 1 minute. The character can repeat the saving throw at the end of each of their turns and whenever they take damage, ending the effect on themself on a success. If the character's saving throw is successful or if the effect ends for it, the character is immune to this effect for the next 24 hours. A character can also choose to break this effect at the start of their turn by taking 4 (1d8) psychic damage per two character levels. A _lesser restoration_ or equivalent effect likewise negates a stress effect.
+セーヴに失敗すると、キャラクターは 1 分間気絶します。キャラクターは各ターンの終了時とダメージを受けるたびにセーヴィング・スローを繰り返すことができ、成功すると自分自身への効果は終了します。キャラクターのセーヴィング・スローが成功した場合、またはその効果が終了した場合、キャラクターは次の 24 時間はこの効果の影響を受けません。キャラクターは、ターンの開始時に 2 キャラクター・レベルごとに 4 (1d8) の［精神］ダメージを受けることで、この効果を解除することも選択できます。レッサー・レストレーションまたは同等の効果も同様にストレス効果を打ち消します。
 
-(You can also apply this mechanism for breaking an effect by taking psychic damage to characters who are frightened, stunned, or incapacitated.)
+（このメカニズムを［精神］ダメージによる恐怖状態、朦朧状態、無料く状態のキャラクターへの効果を解除するために適用することもできます。）
 
-### Long-Term Effects
+### 長期の影響
 
-GMs and players can work together to determine whether stress effects have longer-term ramifications. Any such long-term results should reflect not just the character and the situation, but also the players' desires.
+GM とプレイヤーは協力して、ストレスの影響が長期的な影響を及ぼすかどうかを判断できます。このような長期的な結果には、キャラクターや状況だけでなく、プレイヤーの願望も反映されている必要があります。
 
-Be mindful to avoid terms such as "madness" or "crazy" to describe the long-term effects of stressful encounters. Consider instead the otherworldly nature of the situation and effect, and focus on how the character might respond to such a stressful experience.
+ストレスの多い出来事による長期的な影響を説明するために、「狂う」や「クレイジー」などの用語を避けるように注意してください。代わりに、状況と影響の別世界的な性質を考慮し、キャラクターがそのようなストレスの多い経験にどのように反応するかに焦点を当てます。
 
-Special thanks to Dr. Megan Connell and Dr. Michael Mallen for their feedback on this section.
+このセクションに関するフィードバックをくださった Megan Connell 博士と Michael Mallen 博士に心より感謝いたします。
 
 <a id="coreadventuregenerators"></a>
 コア・アドベンチャー・ジェネレーター
