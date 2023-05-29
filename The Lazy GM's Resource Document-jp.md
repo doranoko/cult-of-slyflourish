@@ -429,79 +429,79 @@ If desired, you can connect the characters together with individual relationship
 Once the characters are built and your players are ready, you can run a short adventure at the end of session zero to introduce the characters to the campaign in a fast and exciting way. You might choose to run a single combat encounter with some added negotiation and exploration, after which the characters advance to 2nd level and are ready to fully engage with the story of the campaign.
 
 <a id="safetytools"></a>
-Safety Tools
+セーフティ・ツール
 ------------
 
-Safety tools help ensure that you and your players are always comfortable with the subject matter of the games you run – especially when that subject matter involves potentially troubling tropes or themes. The safety tools presented in this section can be used individually or together to make sure that everyone is comfortable with the material in the game, even as that material evolves during play. You can choose which safety tools work well for you and your group, and discuss their use early in your game. Usually this means discussing safety tools during your campaign's session zero, or at the beginning of a single-session game.
+セーフティ・ツールは、あなたとあなたのプレイヤーが常に快適に過ごせるようにするために、特にその題材が潜在的に問題のある題材やテーマを含んでいる場合には有効なツールです。 このセクションで紹介するセーフティ・ツールは個別に使用することも一緒に使用することもでき、ゲーム中の題材がプレイ中に変化したとしても、全員がその題材に対して快適に過ごせるようにします。あなたやあなたのグループにとって効果的なセーフティ・ツールについて、キャンペーンのセッションゼロ、または単発セッションのゲームの最初に話し合うようにしましょう。
 
-### Potentially Sensitive Topics
+### 潜在的に敏感なトピック
 
-When you discuss safety tools, describe potentially sensitive topics that might come up in an adventure or campaign. The following list presents a number of topics that are good to talk about, but this is not an exhaustive list.
+安全ツールについて話し合うときは、アドベンチャーやキャンペーンで出てくる可能性のある敏感なトピックについて説明しましょう。以下のリストは話題になりやすいトピックの数々を紹介していますが、全てが網羅されているわけではない点に注意して下さい。
 
-*   Blood
-*   Body horror
-*   Burning
-*   Cancer
-*   Cannibalism
-*   Claustrophobia
-*   Death by exposure
-*   Freezing
-*   Gaslighting
-*   Genocide
-*   Gore
-*   Harm to animals
-*   Harm to children
-*   Homophobia
-*   Incest
-*   Insects
-*   Kidnapping
-*   Mental domination
-*   Murder
-*   Paralysis
-*   Physical restraint
-*   Racism
-*   Rats
-*   Real-world religion
-*   Ritual sacrifice
-*   Self-harm
-*   Sexism
-*   Sexual assault
-*   Sexual contact
-*   Slavery
-*   Spiders
-*   Starvation
-*   Terrorism
-*   Thirst
-*   Torture
-*   Transphobia
+*   血液
+*   身体にまつわる恐怖
+*   火傷
+*   癌
+*   カニバリズム
+*   閉所恐怖症
+*   爆死
+*   凍結
+*   ガスライティング
+*   ジェノサイド
+*   流血
+*   動物への危害
+*   子供への危害
+*   ホモフォビア
+*   近親相姦
+*   昆虫
+*   誘拐
+*   精神的支配
+*   殺人
+*   麻痺
+*   身体拘束
+*   人種差別
+*   ネズミ
+*   現実世界の宗教
+*   儀式的犠牲
+*   自傷行為
+*   性差別
+*   性的暴行
+*   性的接触
+*   奴隷制度
+*   蜘蛛
+*   飢餓
+*   テロリズム
+*   渇き
+*   拷問
+*   トランスフォビア
 
-Decide first what you are comfortable with as a GM before bringing a list of topics to your players. Add any topics you're not comfortable with to your own hard lines and off-screen content (see below).
+プレイヤーにトピックのリストを持ってくる前に、まずGMとして何が心地よいかを決めてください。苦手なトピックは、自分の**ハードライン**や**オフスクリーンコンテンツ（後述）** に追加してください。
 
-When describing these topics, ensure that the players are comfortable with them. But also ensure that you identify which topics they are not comfortable with, so you can omit that material from your game.
+これらのトピックを説明するときは、プレイヤーがそのトピックに慣れていることを確認します。そして同時にどのトピックが苦手なのかを確認し、そのトピックをゲームから除くこともできるようにしてください。
 
-### Hard Lines and Off-Screen Content
+### ハードラインとオフスクリーンコンテンツ
 
-The concept of hard lines and off-screen content allows you to set parameters for handling sensitive topics in your game. Once you've had a discussion with your players on those topics, talk about whether individual topics should be a hard line (material that should never come up) and which can be described vaguely and handled off-screen. For example, after discussion, you and your players might come up with something like the following:
+ハードラインとオフスクリーンコンテンツの概念により、ゲーム内でデリケートなトピックを扱うためのパラメータを設定することができます。これらのトピックについてプレイヤーと話し合った後、個々のトピックをハードライン（絶対に話題に出してはいけない内容）にするか、オフスクリーンコンテンツ（曖昧な表現にして画面の外で処理する内容）にするかについて話し合います。例えば、話し合いの結果、あなたとプレイヤーは次のようなことを思いつくかもしれません：
 
-**Hard Lines:** Sexual assault, non-consensual sexual contact or behavior, violence toward children, abuse toward children or animals, inter-character betrayal, character-driven torture, non-consensual violence or betrayal between characters
+**ハードライン:** 性的暴行、同意のない性的接触や行動、子供への暴力、子供や動物への虐待、キャラクター間の裏切り、キャラクター主導の拷問、キャラクター間の同意のない暴力や裏切り
 
-**Off-screen Content:** Consensual sex and sexual contact, torture, racism, slavery
+**オフスクリーンコンテンツ:** 同意の上でのセックスと性的接触、拷問、人種差別、奴隷制
 
-Discuss hard lines and off-screen content in an open, nonjudgmental conversation with your players, and capture each player's individual hard lines and off-screen content along with your own.
+ハードラインやオフスクリーンの内容については、選手とオープンで偏見のない会話で話し合い、各プレイヤーのそれぞれのハードラインやオフスクリーンの内容を、自分のものと一緒に把握します。
 
-### Pause for a Second
+### ちょっと待って！
 
-"Pause for a second" is a verbal cue that players and GMs can use to interrupt the current in-world scene, have everyone break character, and discuss the current situation as players. It's specifically designed to work well with both online and in-person games.
+"ちょっと待って "は、プレイヤーやGMが、現在のインワールドのシーンを中断し、全員がキャラクターを中断させ、プレイヤーとして現在の状況について話し合うために使用できる口頭の合図です。
 
-This safety tool can "pause" the game to discuss any issues out of character and ensures all the players are comfortable with shifts in the game's story. To use it, you or any other player can say, "Pause for a second" to interrupt the current state of play and break character.
+このセーフティツールは、ゲームを一時停止し、ロールプレイから一度離れてメタに問題について話し合うためのものです。ゲームのストーリーが変化しても、すべてのプレーヤーが納得できるようにすることができます。使い方は、あなたや他のプレイヤーが「ちょっと待って」というだけです。それと同時に、ゲームを一時停止し、ロールプレイを中断します。
 
-It can be used to edit content ("Pause for a second. I'm not comfortable beating a helpless character for information.") or to check in with the group ("Pause for a second. Are we okay making a deal with a vampire?").
+これは、コンテンツの修正（「ちょっと待って。無力なキャラクターを殴って情報を得るのは気が引ける」）、あるいはグループ内の相談（「ちょっと待って。 吸血鬼と取引して大丈夫なのか」）にも使えます。
 
-As the GM, think about using "pause for a second" regularly, so as to break the stigma of using it only for the most extreme circumstances – which might cause players to avoid using it at all.
+ＧＭとして「ちょっと待って」をできるだけ頻繁に使いましょう。そうすることでプレイヤーが「極端な状況でないと使えない」という先入観から利用を躊躇するのを防ぐことができます。
 
-### Other Resources
+### その他の参考資料
 
-The following resources offer further options for RPG safety tools, and influenced the tools described above.
+以下のリソースは、RPGのセーフティ・ツールのさらなる選択肢を提供し、上記のツールに影響を与えました。
 
 *   [The X-Card](http://tinyurl.com/x-card-rpg) by John Stavropoulos
 *   [Script Change](https://briebeau.com/scriptchange) by Beau Jágr Sheldon
