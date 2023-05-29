@@ -364,70 +364,69 @@ RPGグループを作るための最初のステップは、プレイヤーを�
 プレイヤーがセッションを欠席したとき、ゲーム内のキャラクターがどうなるかは気にしなくてよい。もし、そのキャラクターがストーリーから外れるための簡単な方法があれば、それを使ってください。そうでない場合は、そのキャラクターを背景としてフェードアウトさせればよいのです。プレイヤーは、あなたがなぜその世界でそのように自由な扱いを行うのか、そしてゲーム世界での一貫性は、現実世界の人々の生活ほど重要ではないことを理解するでしょう。
 
 <a id="sessionzerochecklist"></a>
-Session Zero Checklist
+セッション・ゼロのチェックリスト
 ----------------------
 
-Session zero is a vital tool for getting players and GMs on the same page about a new campaign. A session zero takes place before the first session of a campaign. This special session gives you time to ensure that the players are on board with the themes of the campaign, and that their characters will integrate well together and with the adventures to come.
+セッション・ゼロは、新しいキャンペーンについてプレイヤーとＧＭが同じ考えを持つようにするための重要なツールです。セッション・ゼロは、キャンペーンの最初のセッションの前に行われる特別なセッションで、プレイヤーがキャンペーンのテーマに賛同し、彼らのキャラクターがこれから始まる冒険とうまく融合することを確認する時間を提供します。
 
-The following guidelines take you step-by-step through a session zero.
+以下のガイドラインでは、セッションゼロをステップ・バイ・ステップで説明しています。
 
-### Write a One-Page Guide
+### １ページのガイドをまとめる。
 
-Before your session zero, write out and deliver a one-page campaign guide to your players. Include the following information:
+セッションゼロになる前に、以下のような内容を盛り込んだキャンペーンのガイドを１ページにまとめて書き出し、プレイヤーに提供してください。
 
-*   The campaign's theme and flavor. Sell the campaign's story to your players so they're excited for the campaign.
-*   What separates this campaign from others? What are the main things about this campaign that the characters would know going in? This might be the "six truths" that separate your campaign from all others.
-*   What characters work best in the campaign? Talk about specific character options that are a good fit for the campaign, including classes, backgrounds, heritage, skills, and so forth. Then discuss what kinds of motivations will help the characters best enjoy the campaign?
-*   What potentially troubling themes might this campaign include? Write out a list so the players know what they might be getting into and can talk to you about it as you discuss your game's safety tools.
-*   What group patrons might the players select as a group? Who might serve as their primary quest giver?
+* キャンペーンのテーマと雰囲気。プレイヤーのキャンペーンへの期待が高まるよう、そのストーリーを売り込んでください。
+* このキャンペーンを他のキャンペーンと区別するものは何ですか？このキャンペーンについて、キャラクターが事前に知っておくべき主なことは何でしょう？これはあなたのキャンペーンと他のキャンペーンを分ける「6つの真実」であるかもしれません。
+* キャンペーンに最適なキャラクターは？クラス、背景、遺産、スキルなど、キャンペーンに適した具体的なキャラクターの選択肢について話し合ってください。そして、どのような動機付けをすれば、キャラクターがキャンペーンを最も楽しむことができるかを話し合ってください。
+* このキャンペーンには、どのようなデリケートで厄介な問題を起こす可能性がありますか？それをリストに書き出すことで、プレイヤーは自分たちがどんなことに巻き込まれるかを知ることができ、ゲームの安全ツールについて話し合う際にＧＭに相談しやすくなります。
+* プレイヤーは、どのようなグループや派閥をパトロンとして選ぶでしょうか。彼らの主要なクエスト提供者は誰になりそうですか？
 
-Keep your campaign guide down to a single page so that the players can easily read and absorb it.
+プレイヤーが読みやすく理解しやすいように、キャンペーンガイドは1ページにまとめてください。
 
-### Describe the Theme
+### テーマを説明する
 
-Once you and your players are sitting around the table or gathered online for session zero, start by describing the theme of the campaign and going over the details of the one-page campaign guide. Use this time to get the players excited for the campaign.
+あなたとプレイヤーがテーブルを囲むか、オンラインでセッションゼロに集まったら、キャンペーンのテーマを説明し、1ページのキャンペーンガイドの詳細を確認することから始めます。この時間を使って、プレイヤーにキャンペーンへの期待を膨らませてください。
 
-### Discuss Safety Tools
+### セーフティ・ツールについて話し合う
 
-Discuss any potentially troubling themes of the campaign and its adventures, establishing hard lines and off-screen content you and your players have for the campaign. Write these things down. Discuss what tools you and your players can use to pause the game and break character whenever it becomes necessary to talk about the campaign's themes and content.
+キャンペーンやアドベンチャーで問題になりそうなテーマがあれば話し合い、キャンペーンに対してあなたとプレイヤーが持っている**ハードライン**や**オフスクリーンコンテンツ**を確立します。これらは書き留めておきましょう。キャンペーンのテーマや内容について話す必要が生じたときに、ゲームを一時停止したり、キャラクターを休ませるために、あなたとプレイヤーが使えるツールについて話し合います。
 
-### Decide on a Group Patron
+### グループのパトロンを決める
 
-A group patron is any NPC tied to all of the characters, and who can help propel the characters forward in an adventure or campaign. Describe potential group patrons that the players can choose from in your campaign, and let them discuss which ones they like. Work toward a consensus where all players are happy with the chosen patron. Don't let this choice alienate any players.
+グループパトロンとは、キャラクター全員と結びついているNPCで、アドベンチャーやキャンペーンでキャラクターを前進させるのに役立つ人物のことです。キャンペーンでプレイヤーが選択できるグループパトロンの候補を説明し、どのパトロンが好きか議論してもらいます。すべてのプレイヤーが選んだパトロンに満足するようなコンセンサスを目指してください。この選択によってプレイヤーが疎外されることのないようにしましょう。
 
-### Build Characters Together
+### 一緒にキャラクターを作る
 
-Work with the players to develop their characters, reinforcing the themes of the campaign and establishing the character motivations that will work best to fit the characters into the campaign. Mention if any skills or backgrounds are an especially good fit for the campaign. All this work is to ensure that the characters are motivated to adventure together to solve the campaign's goal.
+プレイヤーと共にキャラクターを育成し、キャンペーンのテーマを強化し、キャラクターをキャンペーンに適合させるために最も効果的なキャラクターの動機を確立します。特にキャンペーンに適したスキルや背景がある場合は、その旨を伝えてください。これらの作業は、キャラクターがキャンペーンの目標を解決するために一緒に冒険する動機付けになるようにするためのものです。
 
-If desired, you can connect the characters together with individual relationships. Allow the players to roll on the following list, or to use it as inspiration for a unique relationship of their own devising.
+必要であれば、キャラクター同士を個々の関係で結びつけることも可能です。以下のリストを参考に、プレイヤーにロールプレイをさせたり、インスピレーションで独自の人間関係を考案してもらったりしてください。
 
-### Relationships
+### 関係生
 
-1.  Adopted siblings
-2.  Mentor and student
-3.  Friendly rivals
-4.  Sage and scribe
-5.  Priest and acolyte
-6.  Fellow veterans
-7.  Ward and guardian
-8.  Spouses
-9.  Buddy cops
-10.  Childhood friends
-11.  Noble and bodyguard
-12.  Soul bound
-13.  Former prisoners
-14.  Former criminals
-15.  Hunted quarry
-16.  Pact bound
-17.  Apocalypse survivors
-18.  Savior and saved
-19.  Business partners
-20.  Master and servant
+1.  義理の兄弟（養子など）
+2.  師匠と生徒
+3.  友好的なライバル
+4.  賢者とその書記
+5.  司祭と侍祭
+6.  退役した軍の兵士仲間
+7.  保護者と被保護者
+8.  配偶者
+9.  警官の相棒（職務上のペア）
+10.  子供の頃の友達
+11.  貴族とそのボディガード
+12.  ソウルメイト
+13.  監獄での元同房
+14.  元犯罪者仲間
+15.  狩人とその獲物
+16.  契約を結んだ相手
+17.  破滅を生き延びたもの
+18.  命を救った者と救われた者
+19.  ビジネスパートナー
+20.  主人と召使い
 
-### Run a Short Adventure
+### 短い冒険をやってみる
 
-Once the characters are built and your players are ready, you can run a short adventure at the end of session zero to introduce the characters to the campaign in a fast and exciting way. You might choose to run a single combat encounter with some added negotiation and exploration, after which the characters advance to 2nd level and are ready to fully engage with the story of the campaign.
-
+キャラクターが出来上がりプレイヤーの準備が整ったら、セッションゼロの終わりに短いアドベンチャーを実行しましょう。交渉や探索を加えた戦闘遭遇を行い、キャラクターを2レベルに上げて、キャンペーンのストーリーに本格的に参加する準備が整えることで、キャラクターを素早く、エキサイティングにキャンペーンへ導入することができます。
 <a id="safetytools"></a>
 セーフティ・ツール
 ------------
