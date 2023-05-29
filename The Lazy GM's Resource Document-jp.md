@@ -242,78 +242,74 @@ The Lazy GM's Resource Document
 10.  スペクタル・ハウンドが隠遁した魔道士の家にキャラクターたちを案内してくれます。
 
 <a id="creatingsecrets"></a>
-Creating Secrets and Clues
+秘密と手がかりを定義する
 --------------------------
 
-Secrets and clues are short pieces of information the characters might discover during an adventure. Secrets and clues are initially written without regard to the method by which they might be discovered. Instead, we improvise their discovery as the characters engage with the adventure's locations and NPCs.
+秘密と手がかりは、キャラクターが冒険中に発見する可能性がある短い情報の断片です。秘密と手がかりは、当初はどのような方法で発見されるかを考えずに書きます。その代わりに、キャラクターたちが冒険の場所やNPCと関わりながら、即興で発見していくのです。
 
-The following prompts don't create specific secrets and clues. Rather, the questions they ask are meant to inspire the creation of your own secrets for your campaign. Keep in mind that secrets are meant to serve you. Don't overthink them or worry about making them perfect. There's no wrong way to use secrets and clues as long as they help you run your game.
+以下の問いかけは、具体的な秘密や手がかりを作るものではありません。 むしろ、これらの質問は、あなたのキャンペーン独自の秘密を作成するインスピレーションを与えることを意図しています。秘密はあなたを助けるためにあることを心に留めてください。 考えすぎたり、完璧にしようと悩んだりしないようにしましょう。秘密や 手がかりは、ゲームの運営に役立つのであれば、間違った使い方ではありません。
 
-### Character Secrets
+### キャラクターの秘密
 
-Use character secrets to tie the characters to the world around them. These sorts of secrets might be revealed by NPCs, old journals or letters, suddenly recalled memories, or prophetic dreams.
+キャラクターの秘密を使って、キャラクターを取り巻く世界と結びつけることができます。この種の秘密は、NPC、古い日記や手紙、突然思い出される記憶、予知夢などによって明らかにされるかもしれません。
 
-1.  What family history might be revealed?
-2.  What ties the character to this location?
-3.  What ghost or spirit haunts the character?
-4.  What dreams fill the character's rest?
-5.  What parasite secretly infests the character?
-6.  Which family member is involved in the adventure?
-7.  How is the villain related to the character?
-8.  What NPC who the character thinks is dead still lives?
-9.  What ritual was the character blessed with as a child?
-10.  What previous event ties the character to the story?
+1.  キャラクターの家族のどういった歴史が明らかになるのでしょうか？
+2.  キャラクターとこの場所を結びつけるものは何ですか？
+3.  キャラクターにはどんな幽霊や霊が憑いているのでしょうか？
+4.  キャラクターの安息を満たすのは、どんな夢なのでしょうか。
+5.  キャラクターに密かに宿る寄生虫とは？
+6.  キャラクターの家族の中で冒険に関わるのはだれですか？
+7.  キャラクターと悪役はどう関係しているのでしょうか？
+8.  キャラクターが死んだと思っているNPCで、まだ生きているのは？
+9.  キャラクターが幼少期の頃に"祝福"してもらった儀式は何ですか？
+10.  キャラクターと物語を結びつける過去の出来事とは？
 
-### Historical Secrets
+### 歴史的な秘密
 
-Use historical secrets to give the characters meaningful and useful information as they explore the setting of the campaign. Secrets of this kind should provide characters and players alike with bite-sized pieces of local or world history.
+歴史的な秘密は、キャラクターがキャンペーンの舞台を探索する際に役立つ有用な情報を与えるためのものです。この種の秘密は、キャラクターにもプレイヤーにも、地域や世界における歴史の断片を提供するものでなければなりません。
 
-Historical secrets might be found as mosaics in ancient tombs, statues in old ruins, dusty tomes in ancient libraries, markings on strange weapons, or tales shared among elderly villagers.
+1.  ここには、どんな死神がいるのでしょうか？
+2.  ここでは、どんな軍勢が戦ったのでしょうか？
+3.  ここでは、どんな残酷な領主が処刑されたのでしょうか？
+4.  ここには、どんな古代文明が栄えたのでしょうか？
+5.  ここには、どんな旧帝国の遺跡が眠っているのでしょうか。
+6.  ここには、どんな異質な生き物や力が隠されているのでしょうか。
+7.  ここでは、どんな反乱が起こったのでしょうか？
+8.  ここには、どんな太古の謎が埋まっているのでしょうか。
+9.  この場所は、かつてどのような目的で使われていたのでしょうか？
+10.  ここには、どのような恐ろしい怪物が棲息していたのでしょうか？
 
-1.  What dead god has a connection to the area?
-2.  What armies once battled here?
-3.  What cruel lord was slain in this place?
-4.  What ancient civilization once thrived here?
-5.  What old empire's settlements lie buried here?
-6.  What alien creature or power is hidden here?
-7.  What rebellion took place here?
-8.  What primeval mysteries lay buried here?
-9.  What was this location's former purpose?
-10.  What horrific monster once ruled here?
+### NPCと悪役の秘密
 
-### NPC and Villain Secrets
+NPCや悪役の秘密は、特に悪役がキャラクターと対面する前に紹介する手段として、これらのNPCに関する情報をキャラクターに公開するために使用します。
+キャラクターがNPCや悪役の秘密を知るには、悪役の前衛や相棒、地元のパブでの噂、回収した日記、手下の最後の言葉、捕らえた手紙、町の噂話などが考えられます。
 
-Use NPC and villain secrets to reveal information about these NPCs to the characters, especially as a means of introducing villains before they face the characters.
+1.  NPCにはどんな暗い過去があるのでしょうか？
+2.  NPCはなぜ自分が正しいと思うのでしょうか？
+3.  NPCの大きな功績は何だったのでしょうか？
+4.  NPCが倒した敵は何ですか？
+5.  NPCが政治的に手を出せない理由は何ですか？
+6.  NPCはどのような大きな力を持っているのでしょうか？
+7.  NPCは何を望んでいるのでしょうか？
+8.  NPCはどんな日常生活を送っているのでしょうか？
+9.  NPCが誰よりも愛しているのは誰ですか？
+10.  NPCはどんな秘密を隠しておきたいのでしょうか？
 
-Characters might learn NPC or villain secrets from a villain's herald or sidekick, rumors at a local pub, recovered journals, a minion's last words, captured letters, or town gossip.
+### プロットやストーリーの秘密
 
-1.  What dark history follows the NPC?
-2.  What makes the NPC think they're right?
-3.  What was the NPC's great accomplishment?
-4.  What foe did the NPC defeat?
-5.  What makes the NPC politically untouchable?
-6.  What great power does the NPC possess?
-7.  What does the NPC desire?
-8.  What regular routines does the NPC follow?
-9.  Who does the NPC love above all others?
-10.  What secret does the NPC want to keep hidden?
+プロットやストーリーの秘密は、世界で起こっている大きな出来事についてキャラクターに教え、キャンペーンのストーリーを前進させるために使用します。
+キャラクターは、クエストを与えるNPC、倒した敵のメモ、神々の夢や予兆、災害から逃げるNPC、オブジェクトからの不可解な反応、心霊現象などからこれらの秘密を学ぶことができます。
 
-### Plot and Story Secrets
-
-Use plot and story secrets to teach characters about the larger events going on in the world, and to move the characters forward in the story of your campaign.
-
-Characters might learn these secrets from quest-giving NPCs, notes found on defeated foes, dreams or portents from the gods, NPCs fleeing a disaster, arcane feedback from an object, or psychic projections.
-
-1.  What villainous event will soon come to pass?
-2.  What disaster is about to befall the land?
-3.  What royal figure was just assassinated?
-4.  What dungeon entrance just became revealed?
-5.  What monsters recently appeared in the realm?
-6.  What armies just invaded the realm?
-7.  What dark sign or portent just appeared?
-8.  What natural disaster has recently struck the area?
-9.  What unnatural being has appeared in the world?
-10.  What unusual creature was seen walking the wilds?
+1.  どんな悪役による事件がもうすぐ起こるのでしょうか？
+2.  どんな災難がこの地に降りかかろうとしているのでしょうか？
+3.  どんな王族・貴族が暗殺されたのでしょうか？
+4.  どんなダンジョンの入り口が明らかになったのでしょうか？
+5.  どんなモンスターが最近この地域に現れたのでしょうか？
+6.  どんな軍勢がこの地域に侵入してきたのでしょうか？
+7.  どんな暗い兆しや前兆が現れたのでしょうか？
+8.  どんな自然災害がこの地を襲ったのでしょうか？
+9.  どんな超自然的存在がこの世界に現れたのでしょうか？
+10.  どんな珍しい生き物が自然の中を歩いていたのでしょうか？
 
 <a id="buildingagroup"></a>
 RPGグループの構築
