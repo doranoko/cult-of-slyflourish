@@ -23,10 +23,10 @@ The Lazy GM's Resource Document
 *   [強力なスタートの例](#strongstarts)
 *   [Creating Secrets and Clues](#creatingsecrets)
 *   [RPGグループの構築](#buildingagroup)
-*   [Session Zero Checklist](#sessionzerochecklist)
-*   [Safety Tools](#safetytools)
-*   [Connecting Characters](#connectingcharacters)
-*   [Spiral Campaign Development](#spiralcampaigns)
+*   [セッション・ゼロのチェックリスト](#sessionzerochecklist)
+*   [セーフティ・ツール](#safetytools)
+*   [キャラクターたちをつなぐ](#connectingcharacters)
+*   [スパイラル・キャンペーンの開発](#spiralcampaigns)
 *   [Quest Templates](#questtemplates)
 *   [Tools for 5e Improvisation](#toolsforimprov)
 *   [Quick Tricks for Lazier 5e Games](#quicktricks)
@@ -46,7 +46,7 @@ The Lazy GM's Resource Document
 *   [Random Items](#randomitems)
 *   [Random Town Events](#randomtownevents)
 *   [Random Dungeon Monsters](#randomdungeonmonsters)
-*   [怠惰なソロ5e](#lazysolo5e)
+*   [ラジーなソロ5e](#lazysolo5e)
 
 <a id="eightsteps"></a>
 ラジーにＲＰＧを準備するための８つのステップ
@@ -401,7 +401,7 @@ RPGグループを作るための最初のステップは、プレイヤーを�
 
 必要であれば、キャラクター同士を個々の関係で結びつけることも可能です。以下のリストを参考に、プレイヤーにロールプレイをさせたり、インスピレーションで独自の人間関係を考案してもらったりしてください。
 
-### 関係生
+### 関係性
 
 1.  義理の兄弟（養子など）
 2.  師匠と生徒
@@ -507,175 +507,173 @@ RPGグループを作るための最初のステップは、プレイヤーを�
 *   [The TTRPG Safety Toolkit](https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj) by Kienna Shaw and Lauren Bryant-Monk
 
 <a id="connectingcharacters"></a>
-Connecting Characters
+キャラクターたちをつなぐ
 ---------------------
 
-During your session zero of a new campaign, or if you're running a single-session one-shot game, consider establishing connections between the characters to help build a cohesive bond between them before the game begins. This can help prevent ham-fisted and convoluted attempts to build a story that connects the characters, when all the players already know perfectly well that they're coming together simply for the adventure.
+新しいキャンペーンのセッションゼロで、あるいは1回のセッションで単発ゲームを行う場合、ゲーム開始前にキャラクター同士のつながりを確立し、結束力を高めることを検討してください。このようにすることで、プレイヤー全員が、単に冒険のために集まっていることを完全に理解しているにもかかわらず、キャラクター同士をつなぐストーリーを構築しようとする、回りくどい試みを防ぐことができます。
 
-This section presents two potential approaches to connecting characters. First, all the characters can be previously connected through a single organization, faction, or patron, using ideas from the Group Connections table. Alternatively, each character can establish a connection to one or more other characters through a personal relationship and history, using ideas from the Character Connections table. Players can work together to come up with these shared histories based on the overall themes of the campaign, or the group can randomly select potential relationships and tweak the results as desired.
+このセクションでは、キャラクターを接続するための2つの可能なアプローチを紹介します。まず、すべてのキャラクターを1つの組織、派閥、または後援者を通じて、「グループのつながり」テーブルのアイデアを使用して事前に関係を構築することができます。あるいは、各キャラクターが個人的な関係や歴史を通じて、他の1人または複数のキャラクターとのつながりを確立することもできます。プレイヤーは、キャンペーンの全体的なテーマに基づいて、これらの共有された歴史を一緒に考えることができますし、グループは潜在的な関係をランダムに選択し、必要に応じて結果を調整することもできます。
 
-For individual connections, each player can roll on the Character Connections table to establish a relationship with the character of the player on their right. Going once around the game table this way means that every character will have two relationships-one with the player on their right and one with the player on their left.
+個人的なつながりについては、各プレイヤーはキャラクターのつながりテーブルでダイスを振り、自分の右隣のプレイヤーのキャラクターと関係を築くことができます。この方法でゲームテーブルを1周すると、すべてのキャラクターが2つの関係を持つことになります。右隣のプレイヤーとの関係と、左隣のプレイヤーとの関係です。
 
-For single-session games, consider establishing a single group relationship for all the characters before the game begins. This relationship can directly tie into the story of the adventure, and will speed up the game by eliminating lengthy discussions about how the characters got together.
+シングルセッションのゲームでは、ゲームを始める前に、すべてのキャラクターについて1つのグループ関係を確立することを検討してください。この関係は、アドベンチャーのストーリーに直結するものであり、キャラクターがどのように集まったかについて長々と議論する必要がなくなるため、ゲームの進行が早くなります。
 
-### Group Connections
+### グループの関係性
 
-1.  Mercenary company
-2.  Self-employed investigators
-3.  Official investigators
-4.  Royal advisors
-5.  Thieves' guild
-6.  Secret society
-7.  Religious investigators
-8.  Adventuring company
-9.  Business investigators
-10.  Assassins' guild
-11.  Wizarding school
-12.  Monastic students
-13.  Gladiator school
-14.  Military specialists
-15.  Spy network
-16.  Constabulary
-17.  Magically bound servants
-18.  Divinely inspired
-19.  Protectors of the common folk
-20.  Seekers of vengeance
+1.  傭兵グループ
+2.  私的な調査員または組織
+3.  公的な調査員または組織
+4.  王室顧問
+5.  盗賊ギルド
+6.  秘密のソサエティ
+7.  宗教的な調査員または組織
+8.  冒険者のグループ
+9.  職業的な調査員または組織
+10.  暗殺者ギルド
+11.  ウィザード・スクール
+12.  修道院の修行者
+13.  グラディエイター・スクール
+14.  軍の専門家
+15.  スパイ組織
+16.  警察組織
+17.  魔法で従う召使
+18.  神聖なるお告げ
+19.  民衆の守り手
+20.  復讐を求めるもの
+### キャラクターの関係性
 
-### Character Connections
-
-1.  Sibling of
-2.  Saved by
-3.  Served with
-4.  Protected by
-5.  Adventured with
-6.  Friendly rival of
-7.  Childhood friend of
-8.  Magically bound to
-9.  Survived with
-10.  Escaped with
-11.  Apprentice of
-12.  Acolyte of
-13.  Idolizes
-14.  Drinking buddies with
-15.  Business associate of
-16.  Lost a bet to
-17.  Indebted to
-18.  Trained by
-19.  Dueling partner of
-20.  On the run with
+1.  ～の兄弟
+2.  ～に救われたことがある
+3.  ～に仕えている
+4.  ～に守られている
+5.  ～と冒険をしたことがある
+6.  ～との友好的なライバル
+7.  ～は子供の頃の友達
+8.  ～に魔法的に縛られている
+9.  ～と共に生き延びたことがある。
+10.  ～と一緒に逃げ延びた。
+11.  ～の弟子
+12.  ～の侍者
+13.  ～をアイドル視している
+14.  ～と飲み友達
+15.  ～とビジネスの同僚
+16.  ～に賭けで負けた
+17.  ～に恩がある
+18.  ～に訓練された
+19.  ～は戦闘訓練のパートナー
+20.  ～と一緒に逃げている
 
 <a id="spiralcampaigns"></a>
-Spiral Campaign Development
+スパイラル・キャンペーンの開発
 ---------------------------
 
-Spiral campaign development builds campaign worlds starting in the area immediately surrounding the characters, then spirals out, expanding the world as the characters experience it. This section offers suggestions and inspiration for building a spiral campaign.
+スパイラルキャンペーンは、キャラクターを取り囲むエリアからキャンペーンの世界を構築し、キャラクターが体験することで世界を広げていくというスパイラルな展開です。このセクションでは、スパイラル・キャンペーンを構築するための提案とインスピレーションを提供します。
 
-### Campaign Pitch
+### キャンペーンのピッチ
 
-Start off by describing the central theme of your campaign in a single sentence. This campaign pitch becomes the main focus of the campaign, and might be given to the players during your session zero so they can build their characters around it. Use the following campaign pitches as a starting point for a campaign, or as inspiration for pitches of your own.
+まず、キャンペーンの中心的なテーマを一文で説明することから始めます。このキャンペーンピッチはキャンペーンの主な焦点となり、セッションゼロの間にプレイヤーに渡され、プレイヤーはそれを中心にキャラクターを構築することができるかもしれません。以下のキャンペーンピッチは、キャンペーンの出発点として、またはあなた自身のピッチのインスピレーションとして使用してください。
 
-### Campaign Pitches
+### キャンペーン・ピッチの例
 
-1.  Prevent the summoning of the Dragon Queen
-2.  Prevent the coming of the Black Moon
-3.  End the dark reign of Elenda the lich queen
-4.  Break the political power of Vroth the death knight
-5.  Kill Veresyn the vampire lord and his horde
-6.  Restore light to the Vale of Nightmares
-7.  Restore the prison of Orlon the demon prince
-8.  Shatter the draconic Alliance of Five Claws
-9.  Save people from the blood feast of a gnoll war band
-10.  Restore light to the fallen celestial Ixyan
-11.  Dismantle the Empire of the White Blade
-12.  Find the seven keys to the gates of Ilumenia
-13.  Prevent the resurrection of the sorcerer king
-14.  Stop the cult of the Red Ocean
-15.  Save the heir of the sapphire throne
-16.  Find and seal the vault of the world serpent
-17.  Close the gateway to the Outside
-18.  Destroy the Sword of the Black Sun
-19.  Slay the ancient dragon Larthyx Flametongue
-20.  End the dark pact of Karthyn the archdevil
+1.  ドラゴンの女王の召喚を阻止せよ
+2.  ブラックムーンの到来を防ぐ
+3.  リッチの女王エレンダの暗黒の支配を終わらせよ
+4.  死の騎士ヴロスの政治力を断ち切れ
+5.  吸血鬼の王ヴェレシンとその軍勢を倒せ
+6.  悪夢の谷に光を取り戻せ
+7.  悪魔の王子オルロンの牢獄を修復せよ
+8.  ドラゴンの五爪同盟を打ち砕け
+9.  ノール軍団の血の饗宴から人々を救え
+10.  堕落したセレスチャル、イキシアンに光を取り戻せ
+11.  白刃の帝国を解体せよ
+12.  イルメニアの門を開く7つの鍵を探し出せ
+13.  魔術師の王の復活を阻止せよ
+14.  レッドオーシャンの教団を阻止せよ
+15.  サファイアの王位を継ぐ者を救え
+16.  ワールドサーペントの金庫を発見し、封印せよ
+17.  外界への入り口を塞げ
+18.  ブラックサンの剣を破壊せよ
+19.  古龍ラーシックス・フラメトングを退治せよ
+20.  大悪魔カーシンの暗黒の盟約を終結せよ
 
 ### Six Truths
 
-Once you have your pitch, identify six truths that set your campaign apart from others, then share them with your players. Here are six example truths for a campaign built around the coming of the Black Moon from above.
+ピッチが決まったら、他のキャンペーンとは違う6つの真実を特定し、それをプレイヤーに伝えます。ここでは、上空からの「黒い月」の到来をテーマにしたキャンペーンの6つの真理を例に挙げます。
 
-*   Sages and cultists describe the coming of the Black Moon – an elder evil that will swallow the world.
-*   Monsters have been sighted along what were once the safest roads. The populations of whole villages are disappearing without a trace.
-*   A floating obsidian citadel has appeared above the Cragteeth Mountains to the north.
-*   Folk once had to deal with the coming of the Black Moon, but their secrets for surviving it were lost.
-*   The evil King Trex uses the chaos created by the coming of the Black Moon to wage war across the land.
-*   Prophecy speaks of the return of the Knights of the White Sun, who will restore light to the land.
+* 賢者やカルト教団は、世界を飲み込むであろう太古の悪であるブラックムーンの到来を記述します。
+* かつて最も安全な道でモンスターが目撃され、また村人たちが跡形もなく消えています。
+* 北のクラグティース山脈の上に、浮遊する黒曜石の城塞が出現しました。
+* 民衆はかつてブラックムーンの到来に対処しなければなりませんでしたが、それから生き延びる方法は失われました。
+* 邪悪な王トレックスは、ブラックムーンの到来によって引き起こされた混乱を利用して、世界中に戦争を仕掛けています。
+* 予言は、世界に光を回復する白い太陽の騎士の帰還を語っています。
 
-### Starting Location
+### スタート地点
 
-Spiral campaigns begin in a central location, often a small settlement from which the characters set out to explore neighboring lands. A village always works well as a starting location, but there are many alternatives.
+スパイラル・キャンペーンは、中心的な場所、多くの場合、小さな集落から始まり、キャラクターはそこから近隣の土地を探検します。村は常にスタート地点として有効ですが、他の選択肢もたくさんあります。
 
-### 1d10 Starting Locations
+### スタート地点の例（1d10）
+1.  冒険家ギルド
+2.  鉱山の前哨基地
+3.  難破船
+4.  開拓の前線基地
+5.  聖なる寺院
+6.  難民キャンプ
+7.  包囲された要塞
+8.  大図書館
+9.  多層次元の中心地の街
+10.  崩壊した要塞
 
-1.  Adventurers' guild
-2.  Mining outpost
-3.  Recent shipwreck
-4.  Frontier outpost
-5.  Holy temple
-6.  Refugee camp
-7.  Fortress under siege
-8.  Great library
-9.  Planar hub city
-10.  Crumbling fortress
+### キャンペーンフロント
 
-### Campaign Fronts
+キャンペーンフロントは、キャンペーンにおける外的な動機付けです。戦線はバトルフロント（その名の由来）のように、キャンペーンの展開に伴って前進したり後退したりする対立点です。フロントは多くの場合悪役ですが、天災や悲運のような外的要因である可能性もあります。 キャンペーンには、以下のいずれかを含む最大3つのフロントが存在する可能性があります。
 
-Campaign fronts are the external motivators in a campaign. Like a battlefront (from which they're named), a front is a point of conflict that advances and retreats as the campaign develops. Fronts are often villains, but might also be external forces such as natural disasters or grim fate. Campaigns might have up to three fronts at any given time, including any of the following.
+### キャンペーンフロントの例（1d20)
 
-### 1d20 Campaign Fronts
-
-1.  Thieves' guild
-2.  Dark necromancer
-3.  Armageddon cult
-4.  Mercenary army
-5.  Forgotten machine
-6.  Evil construct
-7.  Demon prince
-8.  Archdevil
-9.  Corrupt noble lord
-10.  Rival adventurers
-11.  Mages' guild
-12.  Outlander horde
-13.  Meteor storm
-14.  Planar invaders
-15.  Powerful archmage
-16.  Ancient lich
-17.  Blood-raging cannibals
-18.  Unseelie fey lord
-19.  Draconic terror
-20.  Undead prince
+1.  盗賊ギルド
+2.  邪悪なネクロマンサー
+3.  破滅信仰のカルト
+4.  傭兵部隊
+5.  忘れ去られたマシン
+6.  邪悪な構築物
+7.  悪魔の王子
+8.  アーチデビル
+9.  堕落した貴公子
+10.  ライバル冒険者
+11.  魔道士ギルド
+12.  アウトランダーの群れ
+13.  流星雨
+14.  別な多層宇宙からの侵略者
+15.  強力な大魔法使い
+16.  太古のリッチ
+17.  血に飢えた食人族
+18.  不気味なフェイロード
+19.  ドラコンの恐怖
+20.  アンデッドプリンス
 
 ### Local Adventure Locations
 
-As the campaign spirals outward, the characters will become aware of local adventuring locations. Drop three such adventure locations into the areas close by the starting location. And if you need help filling out an adventure location, look to later sections of this document.
+キャンペーンが発展するにつれて、キャラクターは地元の冒険場所を知るようになります。そのような冒険の場所を、スタート地点に近いエリアに3つほど落とし込んでください。また、冒険の場所の記入に困ったら、本書の後段を参照してください。
 
-1.  Ancient crypt
-2.  Forgotten sewers
-3.  Haunted keep
-4.  Festering well
-5.  Rat-infested cellar
-6.  Unholy temple
-7.  Dangerous caves
-8.  Underground city
-9.  War-torn citadel
-10.  Fey glade
-11.  Abandoned dungeon
-12.  Ruined watchtower
-13.  Huge hollow statue
-14.  Sunken catacombs
-15.  Obsidian ziggurat
-16.  Haunted forest
-17.  Otherworldly rift
-18.  Submerged grotto
-19.  Dead hollow tree
-20.  Sundered shipwreck
+1.  古代の地下室
+2.  忘れ去られた下水道
+3.  幽霊の出る天守閣
+4.  朽ち果てた井戸
+5.  ネズミが棲む地下室
+6.  穢れた寺院
+7.  危険な洞窟
+8.  地下都市
+9.  戦争で破壊された城塞都市
+10.  フェイの巣窟
+11.  廃墟のダンジョン
+12.  廃墟と化した監視塔
+13.  巨大な空洞の像
+14.  沈んだカタコンベ
+15.  黒曜石のジッグラト
+16.  呪われた森
+17.  異世界の裂け目
+18.  水没した洞窟
+19.  枯れた空洞の木
+20.  沈んだ難破船
 
 <a id="questtemplates"></a>
 Quest Templates
@@ -2508,7 +2506,7 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 10.  Ancient red dragon
 
 <a id="lazysolo5e"></a>
-怠惰なソロ5e
+ラジーなソロ5e
 ------------
 
 このルールは、このドキュメントのリストを使用して、5eのソロゲームをプレイすることを可能にします。これらのガイドラインを使用すると、1人のキャラクターがクエストを完了するためにダンジョンを探索します。クエスト、場所、冒険のストーリーと詳細を埋める際に、想像力を発揮してください。
