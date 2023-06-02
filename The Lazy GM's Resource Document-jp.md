@@ -676,50 +676,50 @@ RPGグループを作るための最初のステップは、プレイヤーを�
 20.  沈んだ難破船
 
 <a id="questtemplates"></a>
-Quest Templates
+クエスト・テンプレート
 ---------------
 
-Quest templates are general-purpose designs around which you can build specific quests for your own game, using adventure archetypes that have been standard for more than forty years in RPGs. This section offers ten quest templates you can customize for your own adventures. If generating a random adventure, just roll a d10 to determine which quest template to use, then fill in the details of the quest with your own ideas or by making use of the adventure generators found later in this document.
+クエストテンプレートとは、RPGで40年以上前から定番となっている冒険の原型をもとに、自分のゲームのために特定のクエストを構築するための汎用的なデザインです。このセクションでは、あなたが自分の冒険のためにカスタマイズすることができる10のクエスト・テンプレートを提供します。ランダムなアドベンチャーを作成する場合、どのクエスト・テンプレートを使用するかを決めるためにd10を振るだけで、あとは自分のアイデアや本書の後半にあるアドベンチャー・ジェネレーターを利用して、クエストの詳細を埋めていきます。
 
-### 1\. Kill the Boss
+### 1\. 悪党を倒す
 
-In this simple quest design, the characters are hired or conscripted to hunt down a particular monster or villain in a location, then permanently end their threat. The boss might be protected by lieutenants or other minions.
+このシンプルなクエストデザインでは、キャラクターは、ある場所で特定のモンスターや悪役を追い詰め、その脅威を永久に終わらせるために雇われたり徴兵されたりします。ボスは、部下や手下によって守られているかもしれません。
 
-### 2\. Find Something
+### 2\. 何かを探し出す
 
-The characters are charged with finding an item, whether they have to steal it or hunt for it in a dangerous location. The item might be protected by a boss monster and could have many different purposes, such as opening a portal to another location, removing a curse, compelling servants to return it to its rightful owner, and so on. In a variant of this quest, the characters can be charged with returning an object to a location rather than seeking one.
+キャラクターは、アイテムを盗むか、危険な場所で狩りをするか、どちらかの方法でアイテムを見つけることが使命です。アイテムはボスモンスターに守られているかもしれませんし、別の場所へのポータルを開く、呪いを取り除く、使用人に正当な持ち主に返すよう強制するなど、さまざまな目的があるかもしれません。このクエストのバリエーションとして、キャラクターはアイテムを探すのではなく、ある場所に戻すことを任されることもあります。
 
-### 3\. Rescue Someone
+### 3\. 誰かを救出する
 
-In this common quest, the characters are sent to a location in order to rescue someone-a captured spy, a wayward prince, a missing child, and so forth. In a variant of this quest, the characters must escort someone to a location, defending them every step of the way.
+一般的なクエストは、捕らわれたスパイや逃亡した王子、行方不明の子供などを救出するために、キャラクターをある場所に向かわせるものです。このクエストの変形版として、キャラクターは誰かを護衛し、その道中を守る必要があります。
 
-### 4\. Kill the Lieutenants
+### 4\. 副官を倒す
 
-In this variant of the "Kill the Boss" quest, the characters hunt down multiple sub-bosses or lieutenants, either eliminating, capturing, or converting them as the story demands. Each of these lieutenants might reside in different parts of a single location (a dungeon, a headquarters, and so forth) or at multiple locations across the land. Dealing with an appropriate number of lieutenants might lead to a final "Kill the Boss" quest.
+『ボスを倒せ』というクエストの一種で、キャラクターは複数の副ボスや副官を追い詰め、ストーリーに沿って排除、捕獲、改心させることができます。これらの副官は、1つの場所（ダンジョンや本部など）の別の場所にいることもあれば、土地にある複数の場所にいることもあります。適切な数の副官を処理することで、最終的に「ボスを倒せ」というクエストが発生することもあります。
 
-### 5\. Destroy Something
+### 5\. 何かを破壊する
 
-With this variant of the "Find Something" quest, the characters enter a hostile location to destroy a particular object-an ancient evil obelisk, the catalyst of a dark ritual, a weapon of great power, and so forth.
+古代の邪悪なオベリスク、暗黒の儀式の触媒、強力な武器など、特定のオブジェクトを破壊するために敵地に入る「何かを探し出す」クエストの亜種です。
 
-### 6\. Steal Something
+### 6\. 何かを盗み出す
 
-The characters have to obtain an object from a location where the challenge is more about intrigue than the dangers of a "Find Something" quest. Players must first plan their approach, then engage in the heist. Stealth and subterfuge are often required, and you should be ready to let the characters "fail forward" so that a single bad ability check doesn't ruin the entire plan. Likewise, the location should have multiple entry and exit paths such as sewers and rooftops in addition to a main entrance.
+キャラクターは、『何かを探し出す』クエストの危険性よりも、陰謀に満ちた場所からオブジェクトを入手する必要があります。プレイヤーはまずアプローチを計画し、それから強盗に挑む必要があります。隠密性と裏技が要求されることが多いので、能力判定が1つでも悪いと計画全体が台無しにならないように、キャラクターが失敗した場合の準備もしておく必要があります。同様に、場所には正面玄関の他に、下水道や屋上など、複数の出入り口があることが望ましいです。
 
-### 7\. Clear the Dangers
+### 7\. 危険を取り除く
 
-In this simple quest template, the characters enter a hostile location and clear it of any dangers. A dwarf clan might need their ancestral mines emptied of monsters, a local lord might want to take over a haunted keep, and so forth. This quest focuses on the characters exploring an entire location to ensure that the danger has been dealt with, as opposed to taking on just a single known foe.
+このシンプルなクエストテンプレートでは、キャラクターは敵地に入り、その危険性を取り除くことになります。ドワーフの一族が先祖代々の鉱山からモンスターを一掃する必要があったり、地元の領主が呪われた天守閣を乗っ取ろうとしたり、といった具合です。このクエストでは、既知の敵1人を相手にするのではなく、キャラクターがその場所全体を探索し、危険の対処を確認することに重点を置いています。
 
-### 8\. Collect the Keys
+### 8\. カギを集める
 
-This quest template works for both small adventures and large campaigns, and sees the characters hunting for a number of keys before another group can get them first. This quest works best if it requires a majority of keys instead of all the keys. That way, no one side can thwart the other by possessing only one key. A setup where the characters search for three of five keys, four of seven keys, or five of nine keys works well. These keys might be hidden in a single dungeon for a small adventure, or spread across the entire multiverse for a huge campaign.
+このクエストは、小さな冒険でも大きなキャンペーンでも使えるテンプレートで、キャラクターが他のグループに先を越される前に、いくつもの鍵を探し求めるというものです。このクエストは、すべての鍵を必要とするのではなく、過半数の鍵を必要とする場合に最も効果的です。そうすれば、片方が1つしか鍵を持っていなくても、もう片方を妨害することはできません。5つの鍵のうち3つ、7つの鍵のうち4つ、9つの鍵のうち5つを探すという設定は効果的です。これらの鍵は、小さな冒険なら一つのダンジョンに隠されるかもしれませんし、大きなキャンペーンなら多元宇宙全体に広がるかもしれません。
 
-### 9\. Defend a Location
+### 9\. 場所を守る
 
-The characters must defend a location from oncoming enemies. As with the "Steal Something" quest, the players will spend time preparing for the quest, shoring up their defenses and perhaps positioning NPC groups to handle parts of the defense under their direction. Though it's tempting to run this sort of scenario as a large-scale mass battle, that kind of combat is best handled "off-screen" while you focus the spotlight on the characters and their individual roles in the defense.
+キャラクターは、迫り来る敵からある場所を守らなければなりません。何かを盗む」クエストと同様に、プレイヤーはクエストの準備に時間を費やし、防御を固め、おそらくNPCグループを配置して、自分の指示で防御の一部を処理することになるでしょう。このようなシナリオは、大規模な集団戦として実行したくなりますが、そのような戦闘は「画面の外」で行い、キャラクターと防衛における個々の役割にスポットライトを当てるのがベストです。
 
-### 10\. End the Ritual
+### 10\. 儀式を中断させる
 
-In this quest template, the characters must end an ongoing ritual. Doing so usually requires the disruption of multiple components, such as destroying glyph-marked pillars or corrupting magic pools. Suitable rituals might include those dedicated to opening or closing a gate, summoning a fiend, resurrecting a dead god, and so forth. In a variant of this quest template, the characters must defend those performing a ritual against other forces that seek to stop it.
+このクエストテンプレートでは、キャラクターは進行中の儀式を終わらせる必要があります。そのためには、グリフが刻まれた柱を破壊したり、マジックプールを腐敗させたりと、複数の要素を破壊することが必要です。儀式には、門の開閉、悪魔の召喚、死んだ神の復活などがあります。このクエストのテンプレートは、儀式を止めようとする他の勢力から儀式を行う者を守るもので、キャラクターはこのテンプレートを変形させたものです。
 
 <a id="toolsforimprov"></a>
 Tools for 5e Improvisation
