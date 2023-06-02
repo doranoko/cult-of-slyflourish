@@ -27,8 +27,8 @@ The Lazy GM's Resource Document
 *   [セーフティ・ツール](#safetytools)
 *   [キャラクターたちをつなぐ](#connectingcharacters)
 *   [スパイラル・キャンペーンの開発](#spiralcampaigns)
-*   [Quest Templates](#questtemplates)
-*   [Tools for 5e Improvisation](#toolsforimprov)
+*   [クエスト・テンプレート](#questtemplates)
+*   [５版で即興を行うためのツール](#toolsforimprov)
 *   [Quick Tricks for Lazier 5e Games](#quicktricks)
 *   [5e Quick Encounter Building](#quickencounterbuilding)
 *   [Lazy Combat Encounter Building for 5e](#lazycombatencounterbuilding)
@@ -722,63 +722,63 @@ RPGグループを作るための最初のステップは、プレイヤーを�
 このクエストテンプレートでは、キャラクターは進行中の儀式を終わらせる必要があります。そのためには、グリフが刻まれた柱を破壊したり、マジックプールを腐敗させたりと、複数の要素を破壊することが必要です。儀式には、門の開閉、悪魔の召喚、死んだ神の復活などがあります。このクエストのテンプレートは、儀式を止めようとする他の勢力から儀式を行う者を守るもので、キャラクターはこのテンプレートを変形させたものです。
 
 <a id="toolsforimprov"></a>
-Tools for 5e Improvisation
+５版で即興を行うためのツール
 --------------------------
 
-### Difficulty Checks
+### 難易度のチェック
 
-For any given task or challenge, ask yourself how hard it is to accomplish. Then assign a DC from 10 (easy) to 20 (very hard). If a task is trivial, don't bother asking for a roll. Rather, the characters automatically succeed. Likewise, reserve DCs above 20 for superhuman challenges.
+与えられたタスクや課題に対して、それを達成するのがどれくらい難しいかを自問自答してください。そして、10（簡単）から20（非常に難しい）までの難易度（DC）を割り当てます。些細なタスクであれば、わざわざロールを要求する必要はありません。むしろ、キャラクターは自動的に成功します。同様に、20を超えるDCは、超人的な挑戦のためにとっておきます。
 
-### Improvised Damage
+### 即興のダメージの目安
 
-Decide on a challenge rating (CR) for the source of the damage, from CR 1 (low challenge) to CR 20 (very high challenge). Then roll a number of damage dice of a particular kind, as follows:
+ダメージの発生源の脅威度（CR）を CR1（低い脅威度）から CR20（非常に高い脅威度）までで決定します。次に、以下のように特定の種類のダメージダイスを振ります：
 
-*   Single-Target Damage: 7 × CR (or 2d6 per CR)
-*   Multiple-Target Damage: 3 × CR (or 1d6 per CR)
+*   ターゲットが単体の場合のダメージ：7×CR（またはCRあたり2d6）
+*   ターゲットが複数の場合のダメージ：3×CR（またはCRあたり1d6）
 
-This challenge rating can be thought of as roughly equivalent to the average level of a group of characters. However, don't automatically choose a challenge rating based on the level of the characters. Rather, the level of the challenge might be higher or lower than the characters, depending on the situation.
+この脅威度のレーティングは、キャラクターグループの平均レベルにほぼ等しいと考えることができます。ただし、キャラクターのレベルに合わせて自動的に脅威度を選択するのはやめましょう。むしろ、状況に応じて、脅威度はキャラクターよりも高かったり低かったりします。
 
 ### Improvised Statistics
 
-Whenever you need to improvise Armor Class, attack modifiers, saving throw DCs, or other combat statistics for a creature, trap, object, or obstacle, use the following guidelines based on its challenge rating:
+クリーチャー、罠、オブジェクト、障害物のアーマークラス、攻撃修正、セービングスローDC、その他の戦闘統計を即興で作成する必要がある場合は、その脅威度(CR)に基づき、以下のガイドラインを使用します：
 
-*   AC = 12 + 1/2 CR
-*   DC = 12 + 1/2 CR
-*   Attack Bonus = 3 + 1/2 CR
-*   Damage = 7 × CR (or 2d6 per CR)
-*   Saving Throw with Proficiency = 3 + 1/2 CR
-*   Hit Points = 20 × CR
+*   アーマークラス（AC） = 12 + 1/2 CR
+*   難易度（DC） = 12 + 1/2 CR
+*   攻撃ボーナス = 3 + 1/2 CR
+*   ダメージ = 7 × CR (or 2d6 per CR)
+*   セービングスロー（習熟度加算済み）= 3 + 1/2 CR
+*   ヒットポイント = 20 × CR
 
-When improvising statistics for traps and other objects that deal damage and can be attacked to destroy them, estimate the object's CR by comparing it to various creatures that produce the same sorts of effects in combat.
+罠など、ダメージを与え、攻撃して破壊できるオブジェクトの統計を即興でとる場合は、戦闘で同じような効果を出す様々なクリーチャーと比較して、オブジェクトのCRを推定してください。
 
-### Other Improv Tricks
+### その他の即興のコツ
 
-The following tricks can also help make it easier for you to improvise during your game:
+また、以下のような工夫をすることで、ゲーム中にアドリブを入れやすくすることができます：
 
-*   Use the story the players give to you, rather than forcing the characters to stick to a path you set.
-*   Use static monster damage.
-*   In combat, go around the table by player instead of rolling for initiative.
-*   Use advantage and disadvantage to reward unique approaches or clarify poor choices.
-*   Improve pacing by changing monster hit points on the fly to speed up or prolong a fight.
-*   Let the characters stumble upon two weak monsters, then see whether the monsters and characters want to fight or simply have a conversation.
+* 　あなたが決めた物語の流れに固執するのではなく、プレイヤーが与えてくれるストーリーを使いましょう。
+* 　モンスターダメージに固定値を使用します。
+* 　戦闘では、イニシアチブのためにロールする代わりに、プレイヤーの着席順で進めましょう。
+* 　ダイスの有利、不利を、ユニークなアプローチに報いるため、あるいは悪い選択を明確にするために使いましょう。
+* 　モンスターのヒットポイントをその場で変えることによって、戦闘を早めたり長引かせたりするペース調整をしましょう。
+* 　キャラクターが2体の弱いモンスターに出くわしたような場合、モンスターとキャラクターが戦いたいのか、単に会話をしたいのかを確認しましょう。
 
 ### Deadly Encounter Benchmark
 
-Choose monsters that make sense for the location, the situation, and the story. Don't worry about whether an encounter is "balanced" – except to determine if it might be deadly. An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of the characters' levels if the characters are 5th level or higher.
+場所や状況、ストーリーに合ったモンスターを選びましょう。遭遇が「バランスが取れている」かどうかは、遭遇が致命的かどうかを判断する以外、気にする必要はありません。遭遇は、すべてのモンスターの脅威度の合計が、すべてのキャラクターのレベルの合計の4分の1、またはキャラクターが5レベル以上の場合はキャラクターのレベルの2分の1より大きい場合、致命的である可能性があります。
 
-If an encounter might be deadly, warn the players – and make sure the characters have a chance to escape. A more detailed version of the benchmark can be found in [Lazy Combat Encounter Building for 5e](#lazycombatencounterbuilding) later in this document.
+遭遇が致命的なものになりそうな場合は、プレイヤーに警告し、キャラクターが逃げるチャンスがあることを確認します。このベンチマークのより詳細なバージョンは、この文書の後半にある [Lazy Combat Encounter Building for 5e](#lazycombatencounterbuilding) で見ることができます。
 
-### Running Hordes
+### 大軍を動かす
 
-When running large numbers of creatures, instead of rolling independent attack rolls or saving throws, assume that one-quarter of those rolls succeed. Increase or decrease that number depending on the situation (for example, if many creatures in the horde have advantage or disadvantage). Additionally, instead of tracking individual hit points for a horde, you can tally the damage done to the entire horde when any of its creatures are hit. Every time the tally becomes equal to or higher than the hit points of any individual creature in the horde, remove a creature from the horde and reset the tally. Round monster hit points to the nearest 5 or 10 to make things easier. A more detailed version of these guidelines can be found in "[Running Hordes](#runninghordes)" later in this document.
+多数のクリーチャーを動かす場合、攻撃ロールやセービングスローを個別にロールするのではなく、それらのロールの4分の1が成功すると仮定します。この数値は状況に応じて増減します（例えば、大群の多くのクリーチャーが有利や不利を持っている場合など）。さらに、大群の個々のヒットポイントを追跡する代わりに、そのクリーチャーのいずれかがヒットしたときに大群全体に与えられるダメージを集計することができます。集計値がその種族内の個々のクリーチャーのヒットポイントと同じかそれ以上になるたびに、その種族からクリーチャーを1体削除し、集計値をリセットします。モンスターのヒットポイントを5や10に丸めるのは、物事を簡単にするためです。これらのガイドラインのより詳細なバージョンは、この文書の後半にある「【Running Hordes】(#runninghordes)」で見ることができます。
 
 ### Names
 
-You can never have enough names on hand while improvising your game. Here are a few you can use whenever an NPC, location, business, or other part of your game needs a name.
+ゲームのアドリブで使う名前には、十分なものがありません。ここでは、NPC、場所、ビジネス、その他ゲームの一部に名前が必要なときに使えるものをいくつか紹介します。
 
-First Names: Shum, Agtos, Edbert, Josiane, Olaugh, Rosaline, Pearson, Boyle, Typhon, Satyros, Ronald, Brice, Wilford, Circe, Surbag, Kayla, Latona, Cecily, Shuzug, Moth, Dolly, Minerva, Prutha, Esmour, Tristan, Lake, Stewart, Hebub, Lanos, Ingram, Orvist, Daud, Metope
+First Names: シャム、アグトス、エドバート、ジョシアン、オラフ、ロザリン、ピアソン、ボイル、ティフォン、サティロス、ロナルド、ブライス、ウィルフォード、シーリス、サーバグ、ケイラ、ラトナ、セシリー、シュズグ、モス、ドリー、ミネルヴァ、プルタ、エスモア、トリスタン、レイク、スチュアート、ヘブブ、ラノス、イングラム、オーヴィスト、ドード、メトーペ
 
-Last Names/Organization Names: Lionstone, Treeson, Oakhelm, Gentleheart, Whitesong, Starharp, Nightchaser, Shadowstinger, Catclaw, Faeriebound, Leafwing, Goldrock, Darkslicer, Gravewalker, Rainbright, Needleflinger, Goosechaser, Steelclaw, Scalerazor, Glasscutter, Ironhouse, Eboncloud. More names can be found in the "[NPC Generator](#npcgenerator)" section later in this document.
+Last Names/Organization Names: ライオンストーン、トレソン、オークヘルム、ジェントルハート、ホワイトソング、スターシャープ、ナイトチェイサー、シャドースティンガー、キャットクロー、フェアリーバウンド、リーフウィング、ゴールドロック、ダークスライサー、グレイブウォーカー、レインブライト、ニードルフリンガー、グースチェイサー、スチールクロー、スケーラゾー、グラスカッター、アイアンハウス、エボンクラウド。より多くの名前は、この文書の後半にある「[NPCジェネレーター](#npcgenerator)」のセクションで見つけることができます。
 
 <a id="quicktricks"></a>
 Quick Tricks for Lazier 5e Games
