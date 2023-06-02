@@ -29,14 +29,14 @@ The Lazy GM's Resource Document
 *   [スパイラル・キャンペーンの開発](#spiralcampaigns)
 *   [クエスト・テンプレート](#questtemplates)
 *   [５版で即興を行うためのツール](#toolsforimprov)
-*   [Quick Tricks for Lazier 5e Games](#quicktricks)
+*   [さらにラジーにゲームをするためのクイック・テクニック](#quicktricks)
 *   [5e Quick Encounter Building](#quickencounterbuilding)
-*   [Lazy Combat Encounter Building for 5e](#lazycombatencounterbuilding)
+*   [ラジーな戦闘遭遇ビルダー（５版向け）](#lazycombatencounterbuilding)
 *   [脳内劇場ガイドライン（拡張版）](#totmguidelines1)
 *   [脳内劇場ガイドライン（省略版）](#totm2)
 *   [ゾーンに基づく戦闘](#zonebasedcombat)
 *   [Monster Difficulty Dials](#monsterdifficultydials)
-*   [Running Hordes](#runninghordes)
+*   [大軍の動かし方](#runninghordes)
 *   [ストレス効果](#stresseffects)
 *   [コア・アドベンチャー・ジェネレーター](#coreadventuregenerators)
 *   [NPC Generator](#npcgenerator)
@@ -596,7 +596,7 @@ RPGグループを作るための最初のステップは、プレイヤーを�
 19.  古龍ラーシックス・フラメトングを退治せよ
 20.  大悪魔カーシンの暗黒の盟約を終結せよ
 
-### Six Truths
+### ６つの真実
 
 ピッチが決まったら、他のキャンペーンとは違う6つの真実を特定し、それをプレイヤーに伝えます。ここでは、上空からの「黒い月」の到来をテーマにしたキャンペーンの6つの真理を例に挙げます。
 
@@ -650,7 +650,7 @@ RPGグループを作るための最初のステップは、プレイヤーを�
 19.  ドラコンの恐怖
 20.  アンデッドプリンス
 
-### Local Adventure Locations
+### 探索する場所
 
 キャンペーンが発展するにつれて、キャラクターは地元の冒険場所を知るようになります。そのような冒険の場所を、スタート地点に近いエリアに3つほど落とし込んでください。また、冒険の場所の記入に困ったら、本書の後段を参照してください。
 
@@ -722,14 +722,14 @@ RPGグループを作るための最初のステップは、プレイヤーを�
 このクエストテンプレートでは、キャラクターは進行中の儀式を終わらせる必要があります。そのためには、グリフが刻まれた柱を破壊したり、マジックプールを腐敗させたりと、複数の要素を破壊することが必要です。儀式には、門の開閉、悪魔の召喚、死んだ神の復活などがあります。このクエストのテンプレートは、儀式を止めようとする他の勢力から儀式を行う者を守るもので、キャラクターはこのテンプレートを変形させたものです。
 
 <a id="toolsforimprov"></a>
-５版で即興を行うためのツール
+アドリブのためのツール（５版向け）
 --------------------------
 
 ### 難易度のチェック
 
 与えられたタスクや課題に対して、それを達成するのがどれくらい難しいかを自問自答してください。そして、10（簡単）から20（非常に難しい）までの難易度（DC）を割り当てます。些細なタスクであれば、わざわざロールを要求する必要はありません。むしろ、キャラクターは自動的に成功します。同様に、20を超えるDCは、超人的な挑戦のためにとっておきます。
 
-### 即興のダメージの目安
+### ダメージの目安をアドリブでチェックする
 
 ダメージの発生源の脅威度（CR）を CR1（低い脅威度）から CR20（非常に高い脅威度）までで決定します。次に、以下のように特定の種類のダメージダイスを振ります：
 
@@ -738,20 +738,20 @@ RPGグループを作るための最初のステップは、プレイヤーを�
 
 この脅威度のレーティングは、キャラクターグループの平均レベルにほぼ等しいと考えることができます。ただし、キャラクターのレベルに合わせて自動的に脅威度を選択するのはやめましょう。むしろ、状況に応じて、脅威度はキャラクターよりも高かったり低かったりします。
 
-### Improvised Statistics
+### データ・ブロックをアドリブで決定する
 
-クリーチャー、罠、オブジェクト、障害物のアーマークラス、攻撃修正、セービングスローDC、その他の戦闘統計を即興で作成する必要がある場合は、その脅威度(CR)に基づき、以下のガイドラインを使用します：
+クリーチャー、罠、オブジェクト、障害物のアーマークラス、攻撃修正、セービングスローDC、その他のデータ・ブロックをアドリブで作成する必要がある場合は、その脅威度(CR)に基づき、以下のガイドラインを使用します：
 
 *   アーマークラス（AC） = 12 + 1/2 CR
 *   難易度（DC） = 12 + 1/2 CR
 *   攻撃ボーナス = 3 + 1/2 CR
 *   ダメージ = 7 × CR (or 2d6 per CR)
-*   セービングスロー（習熟度加算済み）= 3 + 1/2 CR
+*   セービングスロー（習熟ボーナス加算済み）= 3 + 1/2 CR
 *   ヒットポイント = 20 × CR
 
-罠など、ダメージを与え、攻撃して破壊できるオブジェクトの統計を即興でとる場合は、戦闘で同じような効果を出す様々なクリーチャーと比較して、オブジェクトのCRを推定してください。
+罠など、ダメージを与え、攻撃して破壊できるオブジェクトのデータ・ブロックをアドリブで作成する場合は、戦闘で同じような効果を出す様々なクリーチャーと比較して、オブジェクトの脅威度を推定してください。
 
-### その他の即興のコツ
+### その他のアドリブのコツ
 
 また、以下のような工夫をすることで、ゲーム中にアドリブを入れやすくすることができます：
 
@@ -762,75 +762,75 @@ RPGグループを作るための最初のステップは、プレイヤーを�
 * 　モンスターのヒットポイントをその場で変えることによって、戦闘を早めたり長引かせたりするペース調整をしましょう。
 * 　キャラクターが2体の弱いモンスターに出くわしたような場合、モンスターとキャラクターが戦いたいのか、単に会話をしたいのかを確認しましょう。
 
-### Deadly Encounter Benchmark
+### 「死地」遭遇の判定
 
-場所や状況、ストーリーに合ったモンスターを選びましょう。遭遇が「バランスが取れている」かどうかは、遭遇が致命的かどうかを判断する以外、気にする必要はありません。遭遇は、すべてのモンスターの脅威度の合計が、すべてのキャラクターのレベルの合計の4分の1、またはキャラクターが5レベル以上の場合はキャラクターのレベルの2分の1より大きい場合、致命的である可能性があります。
+場所や状況、ストーリーに合ったモンスターを選びましょう。遭遇が「バランスが取れている」かどうかは、遭遇が「死地」かどうかを判断する以外、気にする必要はありません。遭遇は、すべてのモンスターの脅威度の合計が、すべてのキャラクターのレベルの合計の4分の1、またはキャラクターが5レベル以上の場合はキャラクターのレベルの2分の1より大きい場合、死地である可能性があります。
 
-遭遇が致命的なものになりそうな場合は、プレイヤーに警告し、キャラクターが逃げるチャンスがあることを確認します。このベンチマークのより詳細なバージョンは、この文書の後半にある [Lazy Combat Encounter Building for 5e](#lazycombatencounterbuilding) で見ることができます。
+遭遇が致命的なものになりそうな場合は、プレイヤーに警告し、キャラクターが逃げるチャンスがあることを確認します。この判定ののより詳細なバージョンは、この文書の後半にある [ラジーな戦闘遭遇ビルダー（５版向け）](#lazycombatencounterbuilding) で見ることができます。
 
 ### 大軍を動かす
 
-多数のクリーチャーを動かす場合、攻撃ロールやセービングスローを個別にロールするのではなく、それらのロールの4分の1が成功すると仮定します。この数値は状況に応じて増減します（例えば、大群の多くのクリーチャーが有利や不利を持っている場合など）。さらに、大群の個々のヒットポイントを追跡する代わりに、そのクリーチャーのいずれかがヒットしたときに大群全体に与えられるダメージを集計することができます。集計値がその種族内の個々のクリーチャーのヒットポイントと同じかそれ以上になるたびに、その種族からクリーチャーを1体削除し、集計値をリセットします。モンスターのヒットポイントを5や10に丸めるのは、物事を簡単にするためです。これらのガイドラインのより詳細なバージョンは、この文書の後半にある「【Running Hordes】(#runninghordes)」で見ることができます。
+多数のクリーチャーを動かす場合、攻撃ロールやセービングスローを個別にロールするのではなく、それらのロールの4分の1が成功すると仮定します。この数値は状況に応じて増減します（例えば、大群の多くのクリーチャーが有利や不利を持っている場合など）。さらに、大群の個々のヒットポイントを追跡する代わりに、そのクリーチャーのいずれかがヒットしたときに大群全体に与えられるダメージを集計することができます。集計値がその種族内の個々のクリーチャーのヒットポイントと同じかそれ以上になるたびに、その種族からクリーチャーを1体削除し、集計値をリセットします。モンスターのヒットポイントを5や10に丸めるのは、物事を簡単にするためです。これらのガイドラインのより詳細なバージョンは、この文書の後半にある「【大軍の動かし方】(#runninghordes)」で見ることができます。
 
-### Names
+### 名前をアドリブで決める
 
 ゲームのアドリブで使う名前には、十分なものがありません。ここでは、NPC、場所、ビジネス、その他ゲームの一部に名前が必要なときに使えるものをいくつか紹介します。
 
-First Names: シャム、アグトス、エドバート、ジョシアン、オラフ、ロザリン、ピアソン、ボイル、ティフォン、サティロス、ロナルド、ブライス、ウィルフォード、シーリス、サーバグ、ケイラ、ラトナ、セシリー、シュズグ、モス、ドリー、ミネルヴァ、プルタ、エスモア、トリスタン、レイク、スチュアート、ヘブブ、ラノス、イングラム、オーヴィスト、ドード、メトーペ
+個人名: シャム、アグトス、エドバート、ジョシアン、オラフ、ロザリン、ピアソン、ボイル、ティフォン、サティロス、ロナルド、ブライス、ウィルフォード、シーリス、サーバグ、ケイラ、ラトナ、セシリー、シュズグ、モス、ドリー、ミネルヴァ、プルタ、エスモア、トリスタン、レイク、スチュアート、ヘブブ、ラノス、イングラム、オーヴィスト、ドード、メトーペ
 
-Last Names/Organization Names: ライオンストーン、トレソン、オークヘルム、ジェントルハート、ホワイトソング、スターシャープ、ナイトチェイサー、シャドースティンガー、キャットクロー、フェアリーバウンド、リーフウィング、ゴールドロック、ダークスライサー、グレイブウォーカー、レインブライト、ニードルフリンガー、グースチェイサー、スチールクロー、スケーラゾー、グラスカッター、アイアンハウス、エボンクラウド。より多くの名前は、この文書の後半にある「[NPCジェネレーター](#npcgenerator)」のセクションで見つけることができます。
+家名・組織名: ライオンストーン、トレソン、オークヘルム、ジェントルハート、ホワイトソング、スターシャープ、ナイトチェイサー、シャドースティンガー、キャットクロー、フェアリーバウンド、リーフウィング、ゴールドロック、ダークスライサー、グレイブウォーカー、レインブライト、ニードルフリンガー、グースチェイサー、スチールクロー、スケーラゾー、グラスカッター、アイアンハウス、エボンクラウド。より多くの名前は、この文書の後半にある「[NPCジェネレーター](#npcgenerator)」のセクションで見つけることができます。
 
 <a id="quicktricks"></a>
-Quick Tricks for Lazier 5e Games
+さらにラジーにゲームをするためのクイック・テクニック
 --------------------------------
 
-### Start with Inspiration
+### インスピレーションを持ってスタートする
 
-Award inspiration to each character at the beginning of a session. This takes some of the weight off of needing to remember to reward inspiration during the game. You can still award it again during the game if players have used it.
+セッションの最初に、各キャラクターにインスピレーションを与えることができます。これにより、ゲーム中にインスピレーションを与えることを忘れないようにする必要がなくなります。また、ゲーム中にプレイヤーがインスピレーションを使用した場合でも、再度インスピレーションを与えることができます。
 
-### Use Index Cards for Initiative
+### イニシアチブ管理にインデックスカードを使う
 
-Index cards can be used to track initiative in two potential ways. First, fold them over into "table tents" and number them from 1 to 9. Then hand them out to the players in the order of their characters' initiative. Alternatively, write the characters' names on one side of the card and put character info useful for you on the other. Fold them over the top of your GM screen, then set them out in initiative order each time combat begins.
+インデックスカードは、2つの方法でイニシアチブを記録することができます。まず、インデックスカードを折りたたんで「テーブルテント」にし、1～9までの番号を付けます。そして、それをキャラクターのイニシアチブの順番にプレイヤーに配ります。あるいは、カードの片面にキャラクターの名前を書き、もう片面にあなたにとって有用なキャラクター情報を書きます。それをGM画面の上に折り畳み、戦闘が始まるたびにイニシアチブ順に並べます。
 
-### Average Handfuls of Dice
+### たくさんのダイスの平均値を利用する
 
-You can reduce the size of huge handfuls of dice by removing pairs of dice from the pile and adding their average as a static number. For every two dice you remove, just add the maximum value on a single die plus one to the static bonus. So 2d4 becomes 5, 2d6 becomes 7, 2d8 becomes 9, 2d10 becomes 11, and 2d12 becomes 13. This way, rolling 8d6 can instead become 2d6 + 21 or 8d8 can become 2d8 + 27.
+大量のダイスを同時に振る代わりに、ロールするダイスのペアを取り除き、その平均値を加えることで結果を出すことができます。2個のダイスの平均値は、1個のダイスの最大値に1を加えたものです（2d4は5、2d6は7、2d8は9、2d10は11、2d12は13）。ロールするダイスの数から2個をワンセットとしてこれを除き、平均値をボーナスとして加算します。例えば、8d6の場合、2d6の平均は7なので、8d6のうち6d6を7×（6÷2）=21と計算して2d6＋21をロールします。同様に8d8は2d8＋27でロールします。
 
-### Use Passive Scores
+### 受動数値を使う
 
-Continually calling for checks in the middle of the narrative can disrupt the flow of the story. Instead, keep the characters' passive Perception, passive Insight, and passive Investigation scores in front of you on a cheat sheet or on index cards. Then use those passive scores to describe what the characters see or experience while exploring the scene.
+物語の途中で判定を求め続けると、物語の流れが乱れてしまいます。その代わりに、キャラクターの知覚（Perception）、洞察（Insight）、捜査（Investigation）のパッシブスコアを、カンニングペーパーやインデックスカードに書いて、目の前に置いておきます。そして、それらのパッシブスコアを使って、キャラクターがシーンを探索中に見たもの、経験したものを記述します。
 
-### Campsite Stories
+### 休憩中の物語
 
-During rests, ask the players to tell a story of their character or describe how their character feels about what's been going on in the campaign. This can help players dig into their characters' thoughts and expose those thoughts to you and the other players. Players might want to describe their characters' conversations while on watch in the same manner.
+大休憩中に、プレイヤーに自分のキャラクターの物語を語ってもらったり、キャンペーンで起こっていることについて自分のキャラクターがどう感じているかを描写してもらったりしてください。これは、プレイヤーが自分のキャラクターの考えを掘り下げたり、その考えをあなたや他のプレイヤーにさらけ出すのに役立ちます。プレイヤーは、同じように見張り当番中のキャラクターの会話を描写するのもよいでしょう。
 
-### Passive Monster Initiative
+### モンスターのイニシアチブを簡単に決める
 
-For simple battles, use a passive initiative score for monsters, equal to 10 plus the monster's Dexterity bonus. This typically puts monsters in the middle of the initiative order, rather than risking them being too high or too low.
+単純な戦闘の場合、モンスターのイニシアチブスコアは、10にそのモンスターの敏捷力ボーナスを足したものを使用します。これにより、モンスターのイニシアチブが高すぎたり低すぎたりするリスクを回避し、通常、イニシアチブの順番の真ん中に配置されます。
 
-### Stars and Wishes
+### 星と願い
 
-Every few games, take time to ask each player for their "stars and wishes" – a concept described on the Gauntlet RPG blog. Ask each player two questions:
+数ゲームごとに、各プレイヤーに「星と願い」を尋ねる時間を取りましょう。これはガントレットＲＰＧのブログで紹介されている概念です。各プレイヤーに2つの質問をします：
 
-*   What have they enjoyed about the game so far?
-*   What do they want to see more of in future games?
+* これまでのゲームについて、どのような点を評価しましたか？
+* 今後のゲームに期待することは何ですか？
 
-The answers to these questions can help you understand exactly what your players are getting from the game, and can give you ideas for how the game might unfold in the future.
+これらの質問の答えは、プレイヤーがゲームから何を得ているかを正確に理解し、将来的にゲームがどのように展開するのかのアイデアを得るのに役立ちます。
 
-### Offer Cinematic Advantage
+### 映画的なアクションを奨励する
 
-Throughout the game, offer players advantage on checks or attacks if they're willing to undertake high-action moves. For example, a character might leap up and swing from a chandelier to stab at a foe down below. Call for an ability check, granting advantage on the character's next attack with a successful check. But on a failed check, the character's move goes awry and they fall. Most characters will focus on moves that use ability checks they're good at, making success more likely than failure. A slight chance of failure can make winning advantage feel that much sweeter, but keep failure conditions fairly minor so that going for cinematic advantage doesn't seem too risky to the players.
+ゲーム中、アクション性の高い動きをすると、判定や攻撃で有利になります。例えば、あるキャラクターがシャンデリアから飛び上がって振りかぶり、下にいる敵に刺すとします。能力判定を行い、判定に成功した場合、そのキャラクターの次の攻撃でアドバンテージを与えます。しかし、判定に失敗すると、そのキャラクターは移動に失敗し、落下します。ほとんどのキャラクターは、得意な能力判定を使った技に集中し、失敗するよりも成功する可能性の方が高くなります。失敗する可能性が少しでもあると、有利な状況で勝つことができるのですが、失敗の条件をかなり小さくして、映画的な有利さを追求することが、プレイヤーにとって危険だと思われないようにしましょう。
 
-### Other Quick Tricks
+### その他のクイック・テクニック
 
-The following tricks make excellent additions to every GM's toolbox:
+以下のテクニックは、すべてのＧＭの道具箱にいれておくとよいものばかりです。
 
-*   Keep a list of random names on hand to use for NPCs, villains, and monsters.
-*   Describe the world through the eyes of the characters, actively narrating what they see and know about the world around them.
-*   Don't ask for a d20 roll if there isn't a chance for failure, or if failure wouldn't be interesting. This can help you remember to never bury useful or vital information behind an ability check.
-*   Reskin bandit, thug, ogre, and giant stat blocks to make new hard-hitting monsters of all different sizes.
-*   Reveal monster ACs and the DCs for ability checks to the players, and help them calculate ahead of time what they'll need on their d20 roll to succeed. This lets the players focus on the excitement of the die roll rather than the math.
-*   When appropriate, roll on a character's behalf so the player doesn't know the result for something their character wouldn't know.
+* NPC、悪役、モンスターに使用するランダムな名前のリストを手元に置いてください。
+* キャラクターが見ているものや知っていることを積極的に語り、キャラクターの目を通して世界を描写してください。
+* 失敗する可能性がない場合、あるいは失敗しても面白くない場合は、d20ロールを求めないようにしましょう。これは、有用な情報や重要な情報を能力判定の後ろに埋もれさせないようにするために、覚えておくとよいでしょう。
+* 山賊、ならず者、オーガ、ジャイアントのデータ・ブロックを元にして、異なるサイズ毎に新しい強敵のモンスターを作りましょう。
+* モンスターのアーマークラス（AC）と能力判定の難易度（DC）をプレイヤーに公開し、成功するために必要なD20ロールを事前に計算できるようにします。これにより、プレイヤーは計算よりもダイスロールの興奮に集中することができます。
+* 必要に応じて、キャラクターの代わりにダイスを振ることで、キャラクターが知らないような結果をプレイヤーが知ることがないようにします。
 
 <a id="quickencounterbuilding"></a>
 5e Quick Encounter Building
