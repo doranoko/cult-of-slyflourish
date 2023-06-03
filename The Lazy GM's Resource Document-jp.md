@@ -39,7 +39,7 @@ The Lazy GM's Resource Document
 *   [大軍の動かし方](#runninghordes)
 *   [ストレス効果](#stresseffects)
 *   [コア・アドベンチャー・ジェネレーター](#coreadventuregenerators)
-*   [NPC Generator](#npcgenerator)
+*   [ノンプレイヤー・キャラクター・ジェネレーター](#npcgenerator)
 *   [Treasure Generator](#treasuregenerator)
 *   [Random Traps](#randomtraps)
 *   [Random Monuments](#randommonuments)
@@ -1538,114 +1538,114 @@ d20 | 状態 | 説明 | 起源
 20.  _フライ_
 
 <a id="npcgenerator"></a>
-NPC Generator
+ノンプレイヤー・キャラクター・ジェネレーター
 -------------
 
-NPCs bring our game worlds to life. You can use the generator in this section to quickly build NPCs to drop into your game, rolling on the tables below to generate baseline characteristics. To really bring the NPC to life, you can then model their personality and roleplaying off characters from your favorite books, TV shows, or movies, switching up gender and other traits to make them feel fresh.
+ノンプレイヤー・キャラクター（ＮＰＣ）は、ゲームの世界に命を吹き込みます。このセクションのジェネレーターを使えば、ゲームに登場させるＮＰＣを素早く作成することができます。以下の表でロールして基本特性を生成します。ＮＰＣに命を吹き込むために、好きな本やテレビ番組、映画などのキャラクターをモデルにして性別や特徴を変えて、性格やロールプレイングを変えてみると新鮮に感じられるでしょう。
 
-### Names
+### 名前の例
 
-Osborne, Halstein, Rycheld, Symond, Sysley, Tansa, Levi, Beneger, Hailey, Jayce, Vesta, Savannah, Avelin, Claudia, Sighard, Timothy, Somerhild, Radolf, Denston, Judithe, Nireus, Sulen, Teukros, Cullive, Arnald, Guinevere, Madison, Stella, Edmund, Goddard, Paul, Gerland, Eupalamos, Sebastian, Anthonette, Lowell, Dauid, Halia, Colton, Bellinda, Roger, Chase, Pulmia, Sadie, Leofwen, Hildegard, Thelexion, Latisha, Raffe, Sydnee, Nicholas, Lausus, Johannes, Derkos, Boyle, Hudson, Meryll, Peter, Godebert, Randwulf, Aegipan, Bryde, Josiah, Sabra, Hilda, Lapithes, Reothine, Jeger, Sybaris, Cared, Clifton, Annabel, Kaylee, Neale, Bayard, Albin, Maronne, Jocelyn, Isemeine, Toril, Aisa, Franny, Turstin, Chulisa, Samantha, Poine, Sanche, Maya, Nicholina, Margry, Drew, Parnell, Taran, Cunovin, Ryan, Caroline, Halisera, Florens, Tantalos, Wynefreede
+オズボーン、ハルシュタイン、ライチェルド、シモンド、シスレー、タンサ、レヴィ、ベネガー、ヘイリー、ジェイス、ベスタ、サバンナ、アヴェリン、クローディア、シガード、ティモシー、ソマーヒルト、ラドルフ、デンスティン、ジュディテ、ニレウス、スレン、テウクロス、カリブ、アーナルド、 ギネヴィア、マディソン、ステラ、エドマンド、ゴダード、ポール、ゲルランド、ユーパラモス、セバスチャン、アントネット、ローウェル、ダウード、ハリア、コルトン、ベリンダ、ロジャー、チェイス、プルミア、サディ、レオフウェン、ヒルデガード、テレクション、ラティーシャ、ラフー、 シドネ、ニコラス、ラウサス、ジョン、デルコス、ボイル、ハドソン、メリル、ピーター、ゴデバート、ランドウルフ、エーギパン、ブライド、ジョサイア、サブラ、ヒルダ、ラピス、レオチン、イエガー、シバリス、ケアード、クリフトン、アナベル、ケイリー、ニール、ベイヤード、 アルビン、マロンヌ、ジョセリン、イセミネ、トリル、アイサ、フラニー、タースチン、チュリサ、サマンサ、ポワン、サンチェ、マヤ、ニコリーナ、マーグリー、ドリュー、パーネル、タラン、クノビン、ライアン、カロリーネ、ハリセラ、フローレンス、タンタロス、ウィネフリーデ
 
-Brightwhisper, Redspur, Hollyfang, Goosewalker, Goldbane, Ebondazer, Emeraldstorm, Monsterthumb, Goblinchaser, Thornhelm, Lionfall, Swordbuckle, Earthdancer, Graywillow, Cloudlover, Sharpwhisker, Glasscleaver, Macebound, Icebrood, Fireheart, Angelbright, Anvilcloud, Heromaker, Lightblade, Shieldrazor, Whitetail, Spiderhunter, Shadowblood, Doombrissle, Bronzestone, Moongazer, Catfinger, Lawknocker, Rainsoother, Swiftcaller, Mudteeth, Wyrmriver, Dragonknee, Flamestar, Millhand
+ブライトウィスパー、レッドスパー、ホリーファング、グースウォーカー、ゴールドベイン、エボンデーザー、エメラルドストーム、モンスターサム、ゴブリンチェイサー、ソーンヘルム、ライオンフォール、ソードバックル、アースダンサー、グレーウィロー、クラウドラバー、シャープウィスカー、グラスクリーバー、メイスバウンド、アイスブルード、ファイアーハート エンジェルブライト、アンビルクラウド、ヘロマカー、ライトブレード、シールドレイザー、ホワイトテール、スパイダーハンター、シャドウブラッド、ドゥームブリスル、ブロンズストーン、ムーンゲイザー、キャットフィンガー、ローノッカー、レインソーザー、スウィフトコーラー、マッドティース、ウィルムリバー、ドラゴンニー、フレイムスター、ミルハンド
 
-### Ancestry
+### 種族
 
-Use the following table to choose a random ancestry for your NPC.
+次の表を使って、ＮＰＣの種族をランダムに選んでください。
 
-### 1d10 Ancestries
+### 1d10 種族
 
-1.  Human
-2.  Elf
-3.  Dwarf
-4.  Halfling
-5.  Goblin
-6.  Kobold
-7.  Gnome
-8.  Orc
-9.  Dragonborn
-10.  Tiefling
+1.  人間
+2.  エルフ
+3.  ドワーフ
+4.  ハーフリング
+5.  ゴブリン
+6.  コボルド
+7.  ノーム
+8.  オーク
+9.  ドラゴンボーン
+10.  ティーフリング
 
-### Worldview
+### 基本的な性格
 
-An NPC's worldview can help determine how they initially react to the characters, adjusted by how the characters approach them. Improvise DCs for social interaction ability checks based on that approach, with checks usually ranging between DC 10 (easy) and DC 20 (very hard). A default of DC 12 is usually a good choice.
+ＮＰＣの性格は、キャラクターに対する最初の反応を決定するのに役立ち、キャラクターが彼らにどのようにアプローチするかを調整することができます。そのアプローチに基づいて、社交的やりとりに関する能力判定の難易度を即興で設定します。デフォルトの難易度12は通常、良い選択です。
 
-### 1d20 Worldviews
+### 1d20 基本的な性格
 
-1.  Surly
-2.  Friendly
-3.  Brash
-4.  Elitist
-5.  Suspicious
-6.  Carefree
-7.  Loyal
-8.  Opportunistic
-9.  Wide-eyed
-10.  Humorous
-11.  Cautious
-12.  Roisterous
-13.  Optimistic
-14.  Ignorant
-15.  Selfless
-16.  Brazen
-17.  Loving
-18.  Ambitious
-19.  Greedy
-20.  Outgoing
+1.  無愛想
+2.  友好的
+3.  生意気、高飛車
+4.  エリート主義
+5.  疑い深い
+6.  おっちょこちょい
+7.  忠義心に厚い
+8.  日和見主義（利益優先で状況次第）
+9.  天真らんまん、うぶ
+10.  ユーモラスな
+11.  注意深い
+12.  威張り散らす
+13.  楽観的
+14.  無知・無教養・関心が薄い
+15.  自分勝手
+16.  厚かましい
+17.  愛情がある・恋に落ちている
+18.  野心的
+19.  強欲
+20.  外交的・社交的
 
-### Appearance and Mannerisms
+### 外見的特徴や態度
 
-NPCs will often be most easily remembered by the players based on some unique aspect of their appearance or manners.
+ＮＰＣは、外見や態度が特徴的であるほど、プレイヤーの記憶に残りやすくなります。
 
-### 1d20 Appearances and Mannerisms
+### 1d20 外見的特徴や態度
 
-1.  Wild hair
-2.  Scarred cheek
-3.  Body tattoos
-4.  Smokes a pipe
-5.  Golden teeth
-6.  Walks with a limp
-7.  Dashing clothes
-8.  Picks teeth
-9.  Missing eye
-10.  Multicolored eyes
-11.  Feathered earring
-12.  Missing hand
-13.  Spits a lot
-14.  Shifty eyes
-15.  Intense stare
-16.  Snorts often
-17.  Facial tattoos
-18.  Heavy beard
-19.  Missing fingers
-20.  Half-shaved head
+1.  ワイルドなヘアースタイル
+2.  頬に大きな傷跡
+3.  体にタトゥーがある
+4.  パイプを吸う
+5.  金歯
+6.  足を引きずって歩く
+7.  颯爽とした服装
+8.  爪楊枝をくわえている
+9.  目が失われている
+10.  左右の目の色が違う
+11.  羽のピアス
+12.  欠けた手
+13.  唾をよく吐く
+14.  目をギョロギョロさせる
+15.  強烈な視線
+16.  よく鼻を鳴らす
+17.  顔のタトゥー
+18.  髭が濃い
+19.  指の欠損
+20.  半分だけ剃った頭
 
-### Profession
+### 職業
 
-Assign a profession to your NPC to add color to their stat block. The commoner is the default stat block for NPCs of this type.
+ＮＰＣに職業を割り当てて、そのデータ・ブロックを元に特徴をつけます。一般人（commoner）はこのタイプのＮＰＣの標準的なデータブロックです。
 
-### 1d20 Professions
+### 1d20 職業
 
-1.  Farmer
-2.  Blacksmith
-3.  Clerk
-4.  Merchant
-5.  Apothecary
-6.  Bandit
-7.  Guide
-8.  Entertainer
-9.  Guard
-10.  Soldier
-11.  Acolyte
-12.  Sailor
-13.  Mercenary
-14.  Sage
-15.  Noble
-16.  Artisan
-17.  Priest
-18.  Veteran
-19.  Knight
-20.  Mage
+1.  農家
+2.  鍛冶屋
+3.  事務員
+4.  商人
+5.  薬屋
+6.  盗賊
+7.  ガイド
+8.  エンターテイナー
+9.  警備員
+10.  ソルジャー
+11.  従者
+12.  水兵
+13.  傭兵
+14.  賢者
+15.  貴族
+16.  職人
+17.  司祭
+18.  退役した兵士
+19.  騎士
+20.  魔道士
 
 <a id="treasuregenerator"></a>
 Treasure Generator
