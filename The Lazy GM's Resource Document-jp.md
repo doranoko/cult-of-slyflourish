@@ -30,8 +30,8 @@ The Lazy GM's Resource Document
 *   [クエスト・テンプレート](#questtemplates)
 *   [５版で即興を行うためのツール](#toolsforimprov)
 *   [さらにラジーにゲームをするためのクイック・テクニック](#quicktricks)
-*   [5e Quick Encounter Building](#quickencounterbuilding)
-*   [ラジーな戦闘遭遇ビルダー（５版向け）](#lazycombatencounterbuilding)
+*   [クイックな戦闘遭遇の作成（５版向け）](#quickencounterbuilding)
+*   [ラジーな戦闘遭遇の作成（５版向け）](#lazycombatencounterbuilding)
 *   [脳内劇場ガイドライン（拡張版）](#totmguidelines1)
 *   [脳内劇場ガイドライン（省略版）](#totm2)
 *   [ゾーンに基づく戦闘](#zonebasedcombat)
@@ -97,7 +97,7 @@ The Lazy GM's Resource Document
 
 キャラクターが最も直面しそうなモンスターは何か？特定の場所や状況で意味のあるモンスターとは？ここでは敵のＮＰＣから本当に怪物的なものまでを「モンスター」と称しています。どのような敵であっても、モンスターに関する資料を読むことで、状況に応じて適切なクリーチャーを選択するためのインスピレーションを得ることができます。
 
-また、モンスターの挑戦度とキャラクターのレベルの緩やかな関係を理解することで、戦闘がどのように進むかを理解することができます。ほとんどの場合、モンスターをリストアップし、アドベンチャーの中で起こっていることに基づいて、即興で遭遇を演出することができます。ボス戦の場合は、もっと手間をかける必要があるかもしれません。詳しくは [Lazy Combat Encounter Building](#lazycombatencounterbuilding) を参照して下さい。
+また、モンスターの挑戦度とキャラクターのレベルの緩やかな関係を理解することで、戦闘がどのように進むかを理解することができます。ほとんどの場合、モンスターをリストアップし、アドベンチャーの中で起こっていることに基づいて、即興で遭遇を演出することができます。ボス戦の場合は、もっと手間をかける必要があるかもしれません。詳しくは [ラジーな戦闘遭遇の作成（５版向け）](#lazycombatencounterbuilding) を参照して下さい。
 
 ### マジックアイテムの報酬を選択する
 
@@ -766,7 +766,7 @@ RPGグループを作るための最初のステップは、プレイヤーを�
 
 場所や状況、ストーリーに合ったモンスターを選びましょう。遭遇が「バランスが取れている」かどうかは、遭遇が「死地」かどうかを判断する以外、気にする必要はありません。遭遇は、すべてのモンスターの脅威度の合計が、すべてのキャラクターのレベルの合計の4分の1、またはキャラクターが5レベル以上の場合はキャラクターのレベルの2分の1より大きい場合、死地である可能性があります。
 
-遭遇が致命的なものになりそうな場合は、プレイヤーに警告し、キャラクターが逃げるチャンスがあることを確認します。この判定ののより詳細なバージョンは、この文書の後半にある [ラジーな戦闘遭遇ビルダー（５版向け）](#lazycombatencounterbuilding) で見ることができます。
+遭遇が致命的なものになりそうな場合は、プレイヤーに警告し、キャラクターが逃げるチャンスがあることを確認します。この判定ののより詳細なバージョンは、この文書の後半にある [ラジーな戦闘遭遇の作成（５版向け）](#lazycombatencounterbuilding) で見ることができます。
 
 ### 大群を動かす
 
@@ -833,91 +833,91 @@ RPGグループを作るための最初のステップは、プレイヤーを�
 * 必要に応じて、キャラクターの代わりにダイスを振ることで、キャラクターが知らないような結果をプレイヤーが知ることがないようにします。
 
 <a id="quickencounterbuilding"></a>
-5e Quick Encounter Building
+クイックな戦闘遭遇の作成（５版向け）
 ---------------------------
 
-When building encounters, start by choosing the type and number of monsters that make sense for the situation. Then use the following guidelines to compare the challenge rating of the monsters, the level of the characters, and the ratio of monsters to characters. If the quantity of monsters or their challenge rating is beyond the indicated guidelines, the encounter might be deadly. Be especially careful with potentially deadly encounters when the characters are 1st level.
+戦闘遭遇を作成する際には、まず状況に応じたモンスターの種類と数を選ぶことから始めます。そして、以下のガイドラインを参考に、モンスターの脅威度、キャラクターのレベル、モンスターとキャラクターの比率を比較します。モンスターの量や脅威度がガイドラインを越えている場合、その戦闘遭遇は致命的となる可能性があります。1レベルのキャラクターは死にやすいため、致命的な戦闘遭遇には特に注意が必要です。
 
-### For Characters of 1st Level
+### 1レベルキャラクター向け
 
-*   CR 0 to 1/4: One monster per character
-*   CR 1/2: One monster per two characters
-*   CR 1: One monster per four characters
+* CR 0～1/4：キャラクター1人につきモンスター1体
+* CR 1/2：キャラクター2人につきモンスター1体
+* CR 1： キャラクター4人につきモンスター1体
 
-### For Characters of 2nd to 4th Level
+### 2～4レベルキャラクター向け
 
-*   CR = 1/10 level: Two monsters per character
-*   CR = 1/4 level: One monster per character
-*   CR = 1/2 level: One monster per two characters
-*   CR = Level: One monster per four characters
+* CR = レベルの1/10： キャラクター1人につきモンスター2体
+* CR = レベルの1/4： キャラクター1人につきモンスター1体
+* CR = レベルの1/2： キャラクター2人につきモンスター1体
+* CR = レベル： キャラクター4人につきモンスター1体
 
-### For characters of 5th to 20th Level
+### 5～20レベルキャラクター向け
 
-*   CR = 1/10 level: Four monsters per character
-*   CR = 1/4 level: Two monsters per character
-*   CR = 1/2 level: One monster per character
-*   CR = 3/4 level: One monster per two characters
-*   CR = Level + 3: One monster per four characters
+* CR = レベルの1/10： キャラクター1人につきモンスター4体
+* CR = レベルの1/4： キャラクター1人につきモンスター2体
+* CR = レベルの1/2： キャラクター1人につきモンスター1体
+* CR = レベルの3/4： キャラクター2人につきモンスター1体
+* CR = レベル＋3： キャラクター4人につきモンスター1体
 
-Finally, tune encounters by adjusting the number of monsters, increasing or decreasing hit points, or making named or unique monsters more powerful.
+最後に、モンスターの数を調整したり、ヒットポイントを増減させたり、名前付きやユニークなモンスターをより強力にしたりして、戦闘遭遇を調整します。
 
-**Hit Points:** Standard monster hit points are an average of the monster's HD range. You can increase or decrease hit points within that range to model particularly weak or particularly strong monsters. To make a fight easier, you can also treat monsters as "instant minions," ignoring their usual hit points and letting a single attack kill them. Having a few enemies die quickly can turn the tide in favor of the characters and keep a battle from feeling stale.
+**ヒットポイント：** 標準的なモンスターのヒットポイントは、そのモンスターのヒットダイスの範囲の平均値です。その範囲内でヒットポイントを増減させることで、モンスターを特に弱くしたり、逆に特に強くしたりすることができます。また、戦闘を容易にするために、モンスターを「ザコ敵」として扱い、通常のヒットポイントを無視して1回の攻撃で死亡させることができます。数人の敵がすぐに死ぬことで、キャラクターが有利になり、戦闘がダレるのを防ぐことができます。
 
-**Named Monsters:** Adding an extra attack or maximizing damage can make a named monster or unique foe more challenging. Named monsters can also be given legendary actions or the Legendary Resistance feature to make the fight more interesting.
+**名前付きモンスター:** 追加攻撃の能力を与えたりダメージを最大化することで、名前付きやユニークなモンスターをより強敵にできます。また、名前付きモンスターに伝説的アクションや伝説的抵抗力を与えることで、戦闘をより面白くすることができます。
 
 <a id="lazycombatencounterbuilding"></a>
-Lazy Combat Encounter Building for 5e
+ラジーな戦闘遭遇の作成（５版向け）
 -------------------------------------
 
-This section helps you build and improvise dynamic combat encounters based on the fiction of the game.
+このセクションでは、ゲームのストーリーに基づいたダイナミックな戦闘遭遇を作成し、即興で行うことを支援します。
 
-### Start with the Story
+### ストーリーから始める
 
-Good combat encounters begin with the story. Instead of building combat encounters as fixed components of the game, let combat encounters evolve naturally from the story taking place at the table.
+優れた戦闘遭遇はストーリーから始まります。戦闘遭遇をゲームの固定要素として構築するのではなく、戦闘遭遇をテーブルで進行しているストーリーから自然に発展させるようにします。
 
-Begin by asking the following question: What monsters make sense given the current location and situation? Then let that question guide you in the creation of a list of monsters and NPCs that might show up at a given location, and in what quantity.
+次のような問いかけから始めましょう： 現在の場所と状況を考えると、どのようなモンスターが理にかなっているのか？そして、その場所に現れる可能性のあるモンスターやNPCのリストを作成し、最後に登場させるモンスター・NPCの数を決定するのです。
 
-Instead of predefining scenes as combat, roleplaying, or exploration, let the characters' approach determine what happens. Maybe they fight the guards at the gatehouse. Maybe they sneak past. Maybe they try to play the part of hired mercenaries. But let whatever happens come from the choices of the players.
+シーンを戦闘、ロールプレイ、探索のいずれかに予め分類するのではなく、キャラクターのアプローチによって何が起こるかを決定するようにします。門の前で警備員と戦うかもしれない。忍び足で通り過ぎるかもしれない。雇われ傭兵の役をやってみるのもいいでしょう。何が起こるにせよ、それはプレイヤーの選択の結果とするのです。
 
-### Average Character Hit Points
+### 平均的なキャラクターのヒットポイント
 
-Gauging the level of challenge in an encounter often comes down to comparing the amount of damage a monster can deal to the hit points of the characters. Hit points vary widely between classes, but you can use the following formula to estimate an average character's hit points at a given level: (Level × 7) + 3.
+遭遇の難易度を測るには、モンスターが与えるダメージの量とキャラクターのヒットポイントを比較することがよくあります。ヒットポイントはクラスによって大きく異なりますが、あるレベルの平均的なキャラクターのヒットポイントは、次の式で推定することができます：（レベル × 7）＋ 3。
 
-By giving you a rough estimation of how tough characters of a given level are, this formula can help you gauge how dangerous a specific monster will be, as well as judging the potential deadliness of traps, hazards, and other effects that deal damage.
+この式は、あるレベルのキャラクターがどの程度タフであるかを大まかに推定することで、特定のモンスターがどの程度危険であるかを判断したり、トラップやハザードなどダメージを与える効果がどれくらい致命的かを判断したりするのに役立ちます。
 
-### Potential Deadliness
+### 潜在的に致命的な戦闘遭遇
 
-Assuming that your chosen monsters aren't dealing damage that easily overwhelms the characters' hit points, you can usually not worry about an encounter's difficulty – unless the encounter is potentially deadly. You can gauge an encounter's potential deadliness with the following benchmark:
+A選んだモンスターがキャラクターのヒットポイントを簡単に超えるようなダメージを与えないのであれば、通常、戦闘遭遇の難易度について心配する必要はありません。ただし、その戦闘遭遇が潜在的に致命的なものでないかには注意する必要があります。遭遇が致命的である可能性は、次のような基準で判断することができます：
 
-An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of their levels if the characters are 5th level or higher.
+すべてのモンスターの脅威度の合計が、すべてのキャラクターのレベルの合計の4分の1より大きい場合、またはキャラクターが5レベル以上の場合はそのレベルの2分の1より大きい場合、その遭遇は潜在的に致命的である。
 
-To use this benchmark for characters of 1st through 4th level, add up the challenge ratings of all monsters in the encounter. Then add up the levels of all of the characters and divide that number by 4. If the challenge level summation is greater than the sum of character levels divided by 4, the encounter might be deadly. If the characters are above 5th level, use the same process but divide the total character levels by 2 instead of 4.
+レベル1～4のキャラクター向けにこの基準を使う場合、その遭遇に登場するすべてのモンスターの脅威度を合計します。脅威度の合計が、キャラクターレベルの合計を4で割った値より大きければ、その遭遇は致命的かもしれません。キャラクターが5レベル以上の場合、同じプロセスを使用しますが、キャラクターレベルの合計を4で割るのではなく、2で割ります。
 
-Each time the characters gain a new level, calculate this deadly benchmark score and jot it down in your preparation notes so you have it on hand. If you find that the characters in your game often have an easy time with potentially deadly encounters, treat the characters as though they are one or more levels higher. This will raise the benchmark at which an encounter might become deadly, making the calculation more accurate.
+キャラクターが新しいレベルになるたびに、この「死闘ベンチマーク」スコアを計算し、準備ノートに書き留め、手元に置いておきます。もし、あなたのゲームのキャラクターが、死に至る可能性のある遭遇を簡単に済ませてしまうことが多いようであれば、キャラクターを1レベル以上高いものとして扱います。そうすることで、エンカウントが致命的になる基準が高くなり、計算がより正確になります。
 
-This benchmark assumes multiple monsters, and doesn't work well for gauging combat against a single monster. For legendary monsters-those with legendary actions and possibly lair actions-an encounter is generally deadly if the monster's challenge rating is 5 or more higher than the characters' average level.
+このベンチマークは複数のモンスターとの戦闘を想定しており、1体のモンスターとの戦闘を計るのには適していません。伝説的アクションや、場合によっては住処アクションを持つ伝説的モンスターの場合、そのモンスターの脅威度がキャラクターの平均レベルより5以上高ければ、その遭遇は一般的に致命的となります。
 
-### Character Capabilities Vary
+### キャラクターの多様性
 
-No chart, table, or equation works perfectly to judge encounter balance at any given level, because no such system can take into account the wide range of options that can affect combat. Any individual character's effective power in a fight can go well beyond what's expected for their given level, especially at higher levels. And other factors that can affect a character's power might include any of the following:
+戦闘に影響を与える様々なオプションをすべて考慮することはできないため、どのようなレベルでも完璧に機能する戦闘遭遇のバランス判断に使える万能のチャート、テーブル、方程式はありません。特に高レベルの場合、個々のキャラクターが戦闘で発揮するパワーは、そのレベルの想定をはるかに超えることがあります。また、キャラクターのパワーに影響を与える他の要因としては、以下のようなものが考えられます：
 
-*   Player experience
-*   Class synergy between different characters in the party
-*   Magic items
-*   Environmental and situational circumstances
-*   Feats and multiclassing
-*   The total number of actions on either side
-*   How well rested the characters are
+* プレイヤーの経験値
+* パーティ内のキャラクター同士のクラスのシナジー効果
+* マジックアイテム
+* 環境および状況
+* 特技とマルチクラス
+* 敵味方の行動回数の合計
+* キャラクターがどれだけ休んでいるか
 
-So use the benchmarks for determining whether an encounter might be deadly as a starting point. Then trust that you'll be better able to gauge what your characters can handle in combat the more you see them in action during the game.
+というわけで、死闘ベンチマークは、ある遭遇が致命的かどうかを判断するための出発点として使ってください。そして、ゲーム中のキャラクターたちの行動を繰り返し観察することで、キャラクターたちが戦闘をどれだけ巧みに対処できるか判断する目を養いましょう。
 
-### Scaling for Higher Levels
+### 高レベルキャラクター向けの調整
 
-As characters reach 11th level and higher, the deadly encounter benchmark becomes less useful for accurately representing a deadly encounter. Depending on the capabilities of those higher-level characters, monsters might pose even less of a threat than their challenge rating denotes. As such, you can further adjust the deadly encounter benchmark to account for this power with the following optional guideline:
+キャラクターが11レベル以上になると、高レベルのキャラクターの能力によってはモンスターの実際の脅威が脅威度に比べてさらに小さくなる可能性があるため、「死闘ベンチマーク」は死闘を正確に表現するのにあまり役に立たなくなります。このような高レベルキャラクター向けには、以下のオプションのガイドラインを使用して、死闘ベンチマークをさらに調整することができます：
 
-At 11th level and higher, an encounter might be deadly if the total of all the monsters' challenge ratings is greater than three quarters of the total of all the characters' levels, or if it is equal to the total of their levels if the characters are 17th level or higher.
+11レベル以上の場合、モンスターの脅威度の合計が全キャラクターのレベルの合計の4分の3より大きい場合、または17レベル以上の場合、そのレベルの合計と等しい場合、その遭遇は潜在的に致命的である。
 
-This sets up encounters of a much greater challenge than the baseline benchmark, but it might work more accurately for higher-powered characters.
+この調整によって、通常よりもはるかに手強い戦闘遭遇になりますが、より強大なパワーを持つキャラクターにとってはより正確に機能するかもしれません。
 
 <a id="totmguidelines1"></a>
 脳内劇場ガイドライン（拡張版）
