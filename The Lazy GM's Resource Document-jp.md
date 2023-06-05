@@ -41,8 +41,8 @@ The Lazy GM's Resource Document
 *   [コア・アドベンチャー・ジェネレーター](#coreadventuregenerators)
 *   [ノンプレイヤー・キャラクター・ジェネレーター](#npcgenerator)
 *   [トレジャー・ジェネレーター](#treasuregenerator)
-*   [Random Traps](#randomtraps)
-*   [Random Monuments](#randommonuments)
+*   [ランダムな罠](#randomtraps)
+*   [ランダムな構築物](#randommonuments)
 *   [Random Items](#randomitems)
 *   [Random Town Events](#randomtownevents)
 *   [Random Dungeon Monsters](#randomdungeonmonsters)
@@ -1735,226 +1735,226 @@ d20 | 状態 | 説明 | 起源
 40.  _ワンド・オヴ・ウェブ(Wand of web)_
 
 <a id="randomtraps"></a>
-Random Traps
+ランダムな罠
 ------------
 
-Use these lists to generate simple or complex traps, incorporating multiple features, plus energy damage or conditions.
+これらのリストを使って、複数の特徴やエネルギーダメージ、条件などを盛り込んだシンプルな罠や複雑な罠を作成することができます。
 
-To generate a simple trap, just roll on the Type list and the Trigger table. For a more dangerous trap, add an effect from the Flavor table to put a unique twist on the damage or impose a debilitating condition. For a really devious trap, you can roll on the Flavor table and Type table twice, combining features into deadly combinations such as 'sleep-inducing bolos and thunderous crushing pillars, triggered by an onyx demon's skull.'
+単純な罠を作るには、罠のタイプリストとトリガー表でロールするだけです。より危険な罠を作るには、フレーバー表から効果を追加し、ダメージに独自の工夫を施したり、衰弱させる条件を課したりします。本当に狡猾な罠を作るには、フレーバー表とタイプ表を2回ロールして、「オニキスの悪魔の頭蓋骨で発動する、眠りを誘うボロと雷鳴の破砕柱」のような致命的な組み合わせに機能を組み合わせることができます。
 
-### 1d20 Flavors
+### 1d20 フレーバー
 
-1.  Fiery
-2.  Freezing
-3.  Necrotic
-4.  Poisonous
-5.  Acidic
-6.  Thunderous
-7.  Lightning
-8.  Forceful
-9.  Diseased
-10.  Stunning
-11.  Blinding
-12.  Deafening
-13.  Weakening
-14.  Draining
-15.  Sleep-inducing
-16.  Binding
-17.  Dominating
-18.  Psychic
-19.  Maddening
-20.  Confusing
+1.  炎の
+2.  凍るような
+3.  死霊の
+4.  毒性の
+5.  酸性の
+6.  雷鳴の
+7.  電撃の
+8.  力場の
+9.  病気になる
+10.  朦朧とする
+11.  目が見えなくなる
+12.  耳が聞こえなくなる
+13.  弱体化する
+14.  （生命力などを）吸引する
+15.  眠りを誘う
+16.  拘束する
+17.  支配する
+18.  精神に対する
+19.  狂気に陥らせる
+20.  混乱させる
 
-### 1d20 Types
+### 1d20 罠の種類
 
-1.  Bolts
-2.  Spears
-3.  Scythes
-4.  Bolos
-5.  Spiked chains
-6.  Pit
-7.  Rolling ball
-8.  Crushing pillars
-9.  Darts
-10.  Glyphs
-11.  Swords
-12.  Axes
-13.  Tendrils
-14.  Whips
-15.  Nets
-16.  Bear traps
-17.  Cages
-18.  Beams
-19.  Hammers
-20.  Shurikens
+1.  矢弾
+2.  槍
+3.  鎌
+4.  なた
+5.  トゲの突いた鎖
+6.  落とし穴
+7.  転がる玉
+8.  破砕柱
+9.  ダーツ
+10.  グリフ
+11.  剣
+12.  斧
+13.  触手
+14.  ムチ
+15.  網
+16.  トラバサミ
+17.  檻
+18.  光線
+19.  ハンマー
+20.  手裏剣
 
-### 1d20 Triggers
+### 1d20 トリガー
 
-1.  Door
-2.  Floor plate
-3.  Tripwire
-4.  Throne
-5.  Corpse
-6.  Chest
-7.  Old book
-8.  Child's toy
-9.  Jeweled skull
-10.  Beams of light
-11.  Golden angelic statue
-12.  Crystal goblet on pedestal
-13.  Onyx demonic skull
-14.  Jeweled pillar
-15.  Steep stair
-16.  Jeweled crown
-17.  Gilded sarcophagus
-18.  Bound prisoner
-19.  Weapon on an altar
-20.  Idol on pedestal
+1.  ドア
+2.  床板
+3.  ワイヤー
+4.  玉座
+5.  死体
+6.  宝箱
+7.  古い書物
+8.  子供のおもちゃ
+9.  宝石でできた髑髏
+10.  光のビーム
+11.  黄金の天使像
+12.  台座に置かれた水晶のゴブレット
+13.  オニキスのデーモンの頭蓋骨
+14.  宝石で飾られた柱
+15.  急な階段
+16.  宝石で飾られた王冠
+17.  金ピカの石棺
+18.  縛られた囚人
+19.  祭壇に置かれた武器
+20.  台座の上の偶像
 
-### Damage Severity by Level
+### レベルと深刻さ毎のダメージ
 
-Character Level | Setback | Dangerous | Deadly
+キャラクターのレベル | 妨害 | 危険 | 致命
 -- | -- | -- | --
-1st - 4th | 5 (1d10) | 11 (2d10) | 22 (4d10)
-5th - 10th | 11 (2d10) | 22 (4d10) | 55 (10d10)
-11-16th | 22 (4d10) | 55 (10d10) | 99 (18d10)
-17th - 20th | 55 (10d10) | 99 (18d10) | 132 (24d10)
+1 - 4 | 5 (1d10) | 11 (2d10) | 22 (4d10)
+5 - 10 | 11 (2d10) | 22 (4d10) | 55 (10d10)
+11 - 16 | 22 (4d10) | 55 (10d10) | 99 (18d10)
+17 - 20 | 55 (10d10) | 99 (18d10) | 132 (24d10)
 
-### Trap Save DCs and Attack Bonuses
+### 罠のセーヴ難易度と攻撃ボーナス
 
-Trap Danger | Save DC | Attack Bonus
+罠の深刻さ | セーヴ難易度 | 攻撃ボーナス
 -- | -- | --
-Setback | 10 - 11 | +3 to +5
-Dangerous | 12 - 15 | +6 to +8
-Deadly | 16 - 20 | +9 to +12
+妨害 | 10 - 11 | +3 to +5
+危険 | 12 - 15 | +6 to +8
+致命 | 16 - 20 | +9 to +12
 
 <a id="randommonuments"></a>
-Random Monuments
+ランダムな構築物
 ----------------
 
-Filling the various chambers and locations in your game with interesting features is always a challenge – and can be even more difficult to improvise. The following four "Monuments" lists can help you generate fantastic features with a number of potential effects. You don't need to roll on every table each time you want to generate a feature. Sometimes, just establishing the condition and the type of a feature is enough to give you a starting point. Then you can let the story or even the background of one of the characters guide the feature's additional elements.
+ゲーム内の様々な部屋や場所を面白い機能で満たすことは常に挑戦であり、即興で作るのはさらに難しいかもしれません。以下の4つの「モニュメント」リストは、様々な効果が期待できる素晴らしい特徴を生み出すのに役立ちます。特徴を生み出すために、毎回すべてのテーブルでロールする必要はありません。時には、フィーチャーの条件と種類を設定するだけで、スタート地点に立つことができます。そして、ストーリーや登場人物の背景から、そのフィーチャーの追加要素を導き出すことができます。
 
-### 1d20 Origins
+### 1d20 起源
 
-1.  Draconic
-2.  Dwarven
-3.  Elven
-4.  Primeval
-5.  Divine
-6.  Unholy
-7.  Abyssal
-8.  Otherworldly
-9.  Orcish
-10.  Undead
-11.  Goblinoid
-12.  Ghoulish
-13.  Vampiric
-14.  Dark elven
-15.  Astral
-16.  Ethereal
-17.  Hellish
-18.  Demonic
-19.  Elemental
-20.  Gnomish
+1.  ドラゴンの
+2.  ドワーフの
+3.  エルフの
+4.  太古からの
+5.  神聖なるもの
+6.  不浄なるもの
+7.  奈落の
+8.  異界的な
+9.  オークの
+10.  不死なるものの
+11.  ゴブリンの
+12.  グールの
+13.  ヴァンパイアの
+14.  ダークエルフの
+15.  アストラル（霊体）
+16.  エーテル界の
+17.  九層地獄の
+18.  デーモンの
+19.  エレメンタルの
+20.  ノームの
 
-### 1d20 Conditions
+### 1d20 状態
 
-1.  Crumbling
-2.  Sunken
-3.  Pristine
-4.  Excavated
-5.  Vine-covered
-6.  Ruined
-7.  Cracked
-8.  Shattered
-9.  Buried
-10.  Gore-covered
-11.  Bloody
-12.  Glyph-marked
-13.  Rune-scribed
-14.  Obsidian
-15.  Metallic
-16.  Ornate
-17.  Desecrated
-18.  Ancient
-19.  Decorated
-20.  Floating
+1.  崩れた
+2.  沈んでいる
+3.  原型をとどめない
+4.  発掘されたもの
+5.  ツタに覆われた
+6.  廃墟
+7.  ひび割れた
+8.  粉々の
+9.  埋もれた
+10.  血と肉片にまみれた
+11.  血みどろ
+12.  グリフが描かれた
+13.  ルーンが彫られた
+14.  黒曜石
+15.  メタリック
+16.  華やかな
+17.  冒涜的な
+18.  古代の
+19.  飾られた
+20.  浮遊している
 
-### 1d20 Unusual Effects
+### 1d20 通常ではない効果
 
-1.  Undeath
-2.  Fire
-3.  Madness
-4.  Water
-5.  Radiance
-6.  Arcane
-7.  Poison
-8.  Acid
-9.  Disease
-10.  Psionics
-11.  Frost
-12.  Lightning
-13.  Antimagic
-14.  Ooze
-15.  Charming
-16.  Fear
-17.  Domination
-18.  Sleep
-19.  Thunder
-20.  Tentacles
+1.  不死
+2.  火
+3.  狂気
+4.  水
+5.  放射
+6.  秘術
+7.  毒
+8.  酸
+9.  病気
+10.  精神（精神ダメージ）
+11.  冷凍
+12.  電撃
+13.  アンチマジック
+14.  ネバネバ
+15.  魅了される
+16.  恐怖
+17.  支配
+18.  眠り
+19.  雷鳴
+20.  触手
 
-### 50 Monument Structures
+### 50 構築物の構造
 
-1.  Sarcophagus
-2.  Banner
-3.  Standing stone
-4.  Machine
-5.  Construct
-6.  Keep
-7.  Sundial
-8.  Mirror
-9.  Spire
-10.  Bridge
-11.  Sinkhole
-12.  Effigy
-13.  Gallows
-14.  Ziggurat
-15.  Crystal
-16.  Idol
-17.  Obelisk
-18.  Pillar
-19.  Tomb
-20.  Monolith
-21.  Ruin
-22.  Mosaic
-23.  Ship
-24.  Altar
-25.  Shrine
-26.  Tree
-27.  Statue
-28.  Stone circle
-29.  Throne
-30.  Podium
-31.  Rock
-32.  Fossil
-33.  Fountain
-34.  Mausoleum
-35.  Gravestone
-36.  Cairn
-37.  Geode
-38.  Skull
-39.  Barrow
-40.  Well
-41.  Meteorite
-42.  Archway
-43.  Battlefield
-44.  Charnel pit
-45.  Slaughter field
-46.  Siege engine
-47.  Tower
-48.  Lectern
-49.  Pool
-50.  Orb
+1.  石棺
+2.  旗印
+3.  立石
+4.  機械
+5.  建造物
+6.  城砦
+7.  日時計
+8.  鏡
+9.  尖塔
+10.  橋
+11.  陥没穴
+12.  遺影
+13.  絞首台
+14.  聖塔
+15.  水晶
+16.  偶像
+17.  オベリスク
+18.  柱
+19.  墓
+20.  モノリス
+21.  廃墟
+22.  モザイク
+23.  船
+24.  祭壇
+25.  神社
+26.  樹木
+27.  彫像
+28.  ストーンサークル
+29.  玉座
+30.  演台
+31.  岩盤
+32.  化石
+33.  噴水
+34.  霊廟
+35.  墓石
+36.  石塚
+37.  晶洞
+38.  髑髏
+39.  古墳
+40.  井戸
+41.  隕石
+42.  アーチ道
+43.  戦場
+44.  納骨堂
+45.  屠殺場
+46.  攻城兵器
+47.  タワー
+48.  書見台
+49.  プール
+50.  オーブ
 
 <a id="randomitems"></a>
 Random Items
