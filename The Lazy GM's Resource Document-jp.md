@@ -40,7 +40,7 @@ The Lazy GM's Resource Document
 *   [ストレス効果](#stresseffects)
 *   [コア・アドベンチャー・ジェネレーター](#coreadventuregenerators)
 *   [ノンプレイヤー・キャラクター・ジェネレーター](#npcgenerator)
-*   [Treasure Generator](#treasuregenerator)
+*   [トレジャー・ジェネレーター](#treasuregenerator)
 *   [Random Traps](#randomtraps)
 *   [Random Monuments](#randommonuments)
 *   [Random Items](#randomitems)
@@ -1648,91 +1648,91 @@ d20 | 状態 | 説明 | 起源
 20.  魔道士
 
 <a id="treasuregenerator"></a>
-Treasure Generator
+トレジャー・ジェネレーター
 ------------------
 
-Piles of coins, shining gems, and powerful relics hidden away in the depths of the world await adventurers brave enough to seek them. This section offers a simple set of tables and guidelines that let you quickly reward treasure for your fantasy RPG, and which work well alongside the more detailed treasure rules of the game.
+世界の奥深くに隠されたコイン、輝く宝石、強力な遺物の山が、勇敢な冒険者を待っています。このセクションでは、ファンタジーRPGの宝物ルールと並行して、宝物への報酬を簡単に設定できるテーブルとガイドラインを提供します。
 
-### Gold Per Level
+### レベルごとの金貨
 
-Use the following gold parcels to quickly reward adventuring groups based on the characters' average level. Reward four such parcels each level, or add parcels together to create larger rewards.
+以下の表により、キャラクターの平均レベルに応じて、金貨の入った袋にいくら入っているかを決定して冒険者グループに素早く報酬を与えるために使用します。レベルごとに4回、または複数個を組み合わせて、より大きな報酬を与えることもできます。
 
-Level | Gold per Parcel
+レベル | 袋ひとつ当たりのゴールド
 -- | --
-1st - 4th | 100 gp (3d6 × 10 gp)
-5th - 10th | 1,300 gp (3d8 × 100 gp)
-11th - 16th | 7,000 gp (2d6 × 1,000 gp)
-17th - 20th | 70,000 gp (2d6 × 10,000 gp)
+1 - 4 | 100 gp (3d6 × 10 gp)
+5 - 10 | 1,300 gp (3d8 × 100 gp)
+11 - 16 | 7,000 gp (2d6 × 1,000 gp)
+17 - 20 | 70,000 gp (2d6 × 10,000 gp)
 
-This earned wealth can take the form of coins, gemstones, jewelry, and art objects as desired. You can also adjust the numbers slightly to keep hoards from looking too uniform. For example, you might turn two 1,300 gp parcels into 1,145 gp and 1,422 gp.
 
-### Consumable Treasure
 
-As desired, you can augment monetary treasure with consumable magic items from the following table.
+### 消耗品の宝物
 
-### 1d12 Consumable Treasure
+必要に応じて、次の表から消耗品である魔法アイテムで金銭的な宝物を補強することができます。
 
-1.  _Potion of healing_
-2.  _Potion of greater healing_
-3.  _Oil of slipperiness_
-4.  _Potion of animal friendship_
-5.  _Potion of climbing_
-6.  _Potion of growth_
-7.  _Potion of mind reading_
-8.  _Potion of poison_
-9.  _Potion of resistance_
-10.  _Potion of water breathing_
-11.  _Dust of disappearance_
-12.  _Dust of dryness_
+### 1d12 消耗品アイテム
 
-Rather than standard consumable items, you can also award powerful single-use magic items generated using the Spells table from the "Core Adventure Generator" included in this document. You can also use the Condition, Description, and Origin table in that section to give an item a unique flavor.
+1.  _ポーション・オヴ・ヒーリング（Potion of healing）_
+2.  _ポーション・オヴ・グレーター・ヒーリング（Potion of greater healing)_
+3.  _オイル・オヴ・スリッパリネス(Oil of slipperiness)_
+4.  _ポーション・オヴ・アニマル・フレンドシップ(Potion of animal friendship)_
+5.  _ポーション・オヴ・クライミング(Potion of climbing)_
+6.  _ポーション・オヴ・グロウス(Potion of growth)_
+7.  _ポーション・オヴ・マインド・リーディング(Potion of mind reading)_
+8.  _ポーション・オヴ・ポイズン(Potion of poison)_
+9.  _ポーション・オヴ・レジスタンス(Potion of resistance)_
+10.  _ポーション・オヴ・ウォーター・ブリージング(Potion of water breathing)_
+11.  _ダスト・オヴ・ディサピアランス(Dust of disappearance)_
+12.  _ダスト・オヴ・ドライネス(Dust of dryness)_
 
-### Magical Treasure
+標準的な消耗品ではなく、本書に収録されている『コア・アドベンチャー・ジェネレーター』の「呪文」テーブルを使って生成した強力な単発魔法アイテムを授与することも可能です。また、その中にある「状態、説明、および起源」表を使って、アイテムに独自の味付けをすることができます。
 
-Permanent magic items can be included with treasure as desired, with the uncommon items on the following table suitable for characters of all levels. Choose specific weapons and armor that fit the proficiencies and desires of the characters. You can use the Condition, Description, and Origin table from the core adventure generator to give such items additional flavor.
+### 魔法の宝物
 
-### 40 Magical Treasures
+永久魔法アイテムは、希望に応じて宝物に含めることができ、次の表のアンコモンアイテムは、すべてのレベルのキャラクターに適合します。キャラクターの熟練度や希望に合わせて、特定の武器や防具を選びます。このようなアイテムには、『コア・アドベンチャー』ジェネレーターの「状態、説明、および起源」表を使って、さらなる味付けをすることができます。
 
-1.  _Weapon +1_
-2.  _Armor +1_
-3.  _Ammunition +1_
-4.  _Amulet of proof against detection and location_
-5.  _Bag of holding_
-6.  _Bag of tricks_
-7.  _Boots of elvenkind_
-8.  _Boots of striding and springing_
-9.  _Boots of the winterlands_
-10.  _Bracers of archery_
-11.  _Brooch of shielding_
-12.  _Broom of flying_
-13.  _Circlet of blasting_
-14.  _Cloak of elvenkind_
-15.  _Cloak of protection_
-16.  _Cloak of the manta ray_
-17.  _Eversmoking bottle_
-18.  _Eyes of charming_
-19.  _Eyes of the eagle_
-20.  _Figurine of wondrous power (silver raven)_
-21.  _Gauntlets of ogre power_
-22.  _Gloves of missile snaring_
-23.  _Gloves of swimming and climbing_
-24.  _Goggles of night_
-25.  _Hat of disguise_
-26.  _Headband of intellect_
-27.  _Helm of comprehending languages_
-28.  _Helm of telepathy_
-29.  _Immovable rod_
-30.  _Javelin of lightning_
-31.  _Lantern of revealing_
-32.  _Medallion of thoughts_
-33.  _Necklace of adaptation_
-34.  _Pearl of power_
-35.  _Ring of mind shielding_
-36.  _Rope of climbing_
-37.  _Slippers of spider climbing_
-38.  _Stone of good luck_
-39.  _Wand of magic missiles_
-40.  _Wand of web_
+### 40の魔法の宝物
+
+1.  _武器 +1(Weapon +1)_
+2.  _防具 +1(Armor +1)_
+3.  _矢弾 +1(Ammunition +1)_
+4.  _アミュレット・オヴ・プルーフ・アゲンスト・ディテクション・アンド・ロケーション(Amulet of proof against detection and location)_
+5.  _バッグ・オヴ・ホールディング(Bag of holding)_
+6.  _バッグ・オヴ・トリックス(Bag of tricks)_
+7.  _ブーツ・オヴ・エルヴンカインド(Boots of elvenkind)_
+8.  _ブーツ・オヴ・ストライディング・アンド・スプリンギング(Boots of striding and springing)_
+9.  _ブーツ・オヴ・ザ・ウィンターランズ(Boots of the winterlands)_
+10.  _ブレイサーズ・オヴ・アーチェリー(Bracers of archery)_
+11.  _ブローチ・オヴ・シールディング(Brooch of shielding)_
+12.  _ブルーム・オヴ・フライング(Broom of flying)_
+13.  _サークレット・オヴ・ブラスティング(Circlet of blasting)_
+14.  _クローク・オヴ・エルヴンカインド(Cloak of elvenkind)_
+15.  _クローク・オヴ・プロテクション(Cloak of protection)_
+16.  _クローク・オヴ・ザ・マンタ・レイ(Cloak of the manta ray)_
+17.  _エヴァースモーキング・ボトル(Eversmoking bottle)_
+18.  _アイズ・オヴ・チャーミング(Eyes of charming)_
+19.  _アイズ・オヴ・ジ・イーグル(Eyes of the eagle)_
+20.  _フィギュリーン・オヴ・ワンドラス・パワー(シルヴァー・レイヴン)(Figurine of wondrous power (silver raven))_
+21.  _ガントレッツ・オヴ・オーガ・パワー(Gauntlets of ogre power)_
+22.  _グラヴズ・オヴ・ミサイル・スネアリング(Gloves of missile snaring)_
+23.  _グラヴズ・オヴ・スイミング・アンド・クライミング(Gloves of swimming and climbing)_
+24.  _ゴーグルズ・オヴ・ナイト(Goggles of night)_
+25.  _ハット・オヴ・ディスガイズ(Hat of disguise)_
+26.  _ヘッドバンド・オヴ・インテレクト(Headband of intellect)_
+27.  _ヘルム・オヴ・コンプリヘンディング・ランゲージズ(Helm of comprehending languages)_
+28.  _ヘルム・オヴ・テレパシー(Helm of telepathy)_
+29.  _イムーヴァブル・ロッド(Immovable rod)_
+30.  _ジャヴェリン・オヴ・ライトニング(Javelin of lightning)_
+31.  _ランタン・オヴ・リヴィーリング(Lantern of revealing)_
+32.  _メダリオン・オヴ・ソウツ(Medallion of thoughts)_
+33.  _ネックレス・オヴ・アダプテイション(Necklace of adaptation)_
+34.  _パール・オヴ・パワー(Pearl of power)_
+35.  _リング・オヴ・マインド・シールディング(Ring of mind shielding)_
+36.  _ロープ・オヴ・クライミング(Rope of climbing)_
+37.  _スリッパーズ・オヴ・スパイダー・クライミング(Slippers of spider climbing)_
+38.  _ストーン・オヴ・グッド・ラック（ラックストーン）(Stone of good luck)_
+39.  _ワンド・オヴ・マジック・ミサイルズ(Wand of magic missiles)_
+40.  _ワンド・オヴ・ウェブ(Wand of web)_
 
 <a id="randomtraps"></a>
 Random Traps
