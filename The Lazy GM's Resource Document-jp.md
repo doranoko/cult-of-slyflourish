@@ -36,7 +36,7 @@ The Lazy GM's Resource Document
 *   [脳内劇場ガイドライン（省略版）](#totm2)
 *   [ゾーンに基づく戦闘](#zonebasedcombat)
 *   [モンスター難易度ダイヤル](#monsterdifficultydials)
-*   [大軍の動かし方](#runninghordes)
+*   [大群の動かし方](#runninghordes)
 *   [ストレス効果](#stresseffects)
 *   [コア・アドベンチャー・ジェネレーター](#coreadventuregenerators)
 *   [ノンプレイヤー・キャラクター・ジェネレーター](#npcgenerator)
@@ -1127,57 +1127,57 @@ GMは現在の状況に応じて、これらの数字を裁定・調整するこ
 いくつかのダイヤルを一緒に回すと、戦闘が大きく変化し、新鮮さを保つことができます。例えば、飢えたオーガの集団は、弱体化（ヒットポイントのダイヤルを下げる）しているが、戦闘では狂乱している（攻撃のダイヤルを上げる）かもしれません。エンカウンターをデザインするときやゲーム中にこれらのダイヤルを調整することで、戦闘のテンポをエキサイティングで楽しいものに保つことができます。
 
 <a id="runninghordes"></a>
-Running Hordes
+大群の動かし方
 --------------
 
-This section helps you more easily run battles in which the characters face large numbers of monsters.
+このセクションでは、キャラクターが大量のモンスターと対峙する戦闘を、より簡単に実行できるようにします。
 
-To accommodate running horde combat, we change the rules for running monsters in two ways: adjusting how we track damage done to monsters in a horde, and how we adjudicate attack rolls and saving throws for the horde. You can use these approaches individually or together when running large numbers of monsters.
+大群の戦闘に対応するために、モンスターを動かすためのルールを、大群のモンスターに与えたダメージの追跡方法の調整と、大群の攻撃ロールとセービングスローを判定する方法の調整という2つの方法で変更します。大群のモンスターを動かす際には、これらの方法を単独で、または組み合わせて使用することができます。
 
-### Pooling Damage
+### プールダメージ
 
-Pooling damage means that instead of tracking the damage dealt to individual monsters, you track damage dealt to the horde as a whole. Add up the damage of each attack, regardless of which monster in the horde is hit. Then every time the total of damage taken is higher than the hit points of a single monster in the horde, remove the last monster hit and reset the damage dealt to zero.
+プールダメージとは、個々のモンスターに与えるダメージを追跡する代わりに、大群全体に与えるダメージを追跡することを意味します。大群内のどのモンスターが攻撃されたかに関わらず、各攻撃のダメージを合計します。そして、受けたダメージの合計が大群内の1体のモンスターのヒットポイントを上回るたびに、最後に攻撃がヒットしたモンスターを取り除き、与えたダメージをゼロにリセットします。
 
-If enough damage is dealt with a single attack to kill multiple monsters, remove that number of monsters, subtracting their hit points from the damage dealt until there isn't enough damage remaining to kill another monster.
+1回の攻撃で複数のモンスターを殺すのに十分なダメージが与えられたら、その数だけモンスターを取り除き、与えたダメージからヒットポイントを引きます。これを他のモンスターを殺すのに十分なダメージが残らなくなるまで繰り返します。
 
-To make this math even easier, you can round each monster's hit points to the nearest 5 or 10.
+この計算をより簡単にするために、各モンスターのヒットポイントを最も近い５の倍数の値に四捨五入することができます。
 
-If the horde is hit by a damage-dealing area effect (including spells), remove any creatures that took damage equal to or greater than their hit points after determining their saving throw results. If the damage isn't enough to kill a single monster, tally up the total damage done and remove monsters one at a time, subtracting their hit points from the damage until all damage is accounted for.
+大群がダメージを与える効果範囲（呪文を含む）のヒットを受けた場合、セーヴィング・スローの結果を決定した後に、自らのヒットポイントと同じかそれ以上のダメージを受けたクリーチャーを取り除きます。ダメージが1体のモンスターを殺すのに十分でない場合は、個々のモンスターに与えたダメージを合計ます。そして合計したダメージからモンスターのヒットポイントを差し引きながら1体ずつ取り除いていきます。
 
-For even easier adjudication, you can simply remove any monsters that fail their saving throws, without worrying about their hit points.
+さらに簡単な判定としては、ヒットポイントを気にせず、セーヴに失敗したモンスターを単純に取り除くというやり方もできます。
 
-### Determine Targets
+### ターゲットの決定
 
-The circumstances of the encounter dictate how many members of the horde can attack the characters. Unless the circumstances dictate otherwise, assume the horde evenly spreads its attacks across all characters. If certain characters step ahead of the rest of the party or block choke points that prevent the horde from reaching other characters, you can redirect the horde's attacks to the characters stepping forward.
+遭遇の状況に応じて、大群の何人がキャラクターを攻撃できるかを決定します。特別な理由がない場合、大群はすべてのキャラクターに均等に攻撃を加えるものとします。特定のキャラクターがパーティーの残りのキャラクターより前に出たり、大群が他のキャラクターに到達するのを妨げる隘路を塞いだりした場合は、大群の攻撃を前に出たキャラクターに向けることができます。
 
-### Adjudicating Attacks and Saving Throws
+### 攻撃ロールとセーヴィング・スローの判定
 
-Whenever rolling individual attacks or saving throws would be a burden, assume that one quarter of attacks or saving throws rolled by the horde succeed. Round up or down depending on the circumstances, such as when determining how many attacks succeed against characters with wildly different ACs.
+攻撃ロールやセーヴィング・スローを個別に行うことが負担になる場合は、大群が行った攻撃やセーヴの4分の1が成功すると仮定します。ACが大きく異なるキャラクターに対して何回攻撃が成功するかを決める場合など、状況に応じて割合を切り上げたり切り下げたりします。
 
-If all the creatures in a horde have advantage on an attack or saving throw, increase the number of successful attacks or saving throws to one half. If the horde has disadvantage, reduce the number to one in ten.
+大群のすべてのクリーチャーが攻撃やセーヴで有利を得ている場合、攻撃やセーヴの成功回数を2分の1に増やします。大群が不利を得ている場合、その数を10分の1にします。
 
-If any member of the horde is affected by an effect that leaves them incapacitated, remove them from play.
+大群のメンバーのいずれかが無力状態になる効果を受けた場合、そのメンバーを戦闘から取り除きます。
 
-If you prefer to roll dice, roll twice when a group of monsters all make attacks or saving throws. On each success, one quarter of the monster attacks or saving throws succeed. If both rolls fail, no attacks or saving throws succeed.
+あなたがサイコロを振るのが好きなら、モンスターの集団全員が攻撃やセーヴを行う際に2回振ります。1回成功するごとに、モンスターの4分の1の攻撃やセーヴが成功したと判定します。両方の出目が失敗した場合、すべての攻撃やセーヴは失敗したと判定します。
 
-### Adjudicating Areas of Effect
+### 効果範囲の判定
 
-Adjudicate the number of creatures caught up in an area of effect based on the circumstances, but leaning toward more creatures rather than fewer. You can use the following as a baseline for the number of tightly packed creatures in a horde that are affected in a given area:
+効果範囲に巻き込まれるクリーチャーの数は状況に応じて判断しますが、可能な限りたくさんのクリーチャーを範囲に含めるように裁定しましょう。ある領域で効果を受ける、大群の中の密集したクリーチャーの数の基準として、以下を使用することができます：
 
-*   **Tiny Area (5-foot radius):** Two creatures
-*   **Small Area (10- to 15-foot radius):** Four creatures
-*   **Large Area (20-foot radius):** Sixteen creatures
-*   **Huge Area (30-foot radius or more):** Thirty-two or more creatures
-*   **Short Line (60 feet):** Six creatures
-*   **Long Line (120 feet):** Eight creatures
+* **非常に小さな領域(半径5フィート):**クリーチャー2体
+* **小さな領域（半径10～15フィート）:**クリーチャー4体
+* **大きな領域(半径20フィート):** 16体のクリーチャー
+* **巨大な領域(半径30フィート以上):** 32体以上のクリーチャー
+* **短い直線(60フィート):** 6体のクリーチャー
+* **長い直線(120フィート):** 8体のクリーチャー
 
-### Tips and Tricks
+### ヒントとコツ
 
-*   Describe these horde combat rules to the players so everyone understands how they work. Always adjudicate combat to the characters' benefit, and help the players achieve their goals.
-*   Use evocative descriptions to flavor a horde. Worry less about the mechanics and more about the feeling involved in fighting a huge horde of monsters.
-*   Avoid using hordes with monsters of different types in a single battle. Instead, use a single stat block and describe any physical differences between monsters narratively.
-*   Augment a horde with a handful of more powerful monsters when desired. Track the hit points and attacks of these powerful monsters normally.
-*   As hordes diminish to a manageable level, return to tracking individual hit points, attacks, and saving throws normally.
+* この大群との戦闘ルールをプレイヤーに説明し、全員がその仕組みを理解できるようにする。常にキャラクターの有利になるように戦闘を裁定し、プレイヤーの目標達成を支援しましょう。
+* 生き生きとした描写でモンスターの大群を描写しましょう。大群との戦闘では、細かい戦闘のルール裁定よりも、モンスターの大群と戦っていると印象づけることを大切にしましょう。
+* 一つの戦闘で異なるタイプのモンスターがいる大群を使うのは避けましょう。代わりに、単一のステータスブロックを使用し、モンスター間の物理的な違いは物語的に説明しましょう。
+* 戦闘シーンがより面白くなりそうなら、少数のより強力なモンスターで大群を補強しましょう。これらの強力なモンスターのヒットポイントや攻撃は通常通り個別に管理します。
+* 大群を構成するクリーチャーの数が管理可能なレベルまで減少したら、個々のヒットポイント、攻撃、セーヴィング・スローを通常通りの個別管理に戻します。
 
 <a id="stresseffects"></a>
 ストレス効果
