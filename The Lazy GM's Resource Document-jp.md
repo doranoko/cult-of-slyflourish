@@ -2265,20 +2265,20 @@ Whenever the characters enter a new town or start a new session there, adding so
 20.  The world of shadow bleeds over into the material realm
 
 <a id="randomdungeonmonsters"></a>
-Random Dungeon Monsters
+ランダム・ダンジョン・モンスター
 -----------------------
 
-The following tables let you randomly select monsters based on "dungeon level." Although these charts are built for old-school dungeon delving, you can use them to generate randomly encountered monsters in just about any setting - a ruin, an old church, caves, catacombs, an old wizard's tower, or some other forgotten lair.
+以下の表を用いて、ダンジョンのレベル（階層）に基づいてモンスターをランダムに選択することができます。これらの表は、昔ながらのダンジョン探索のために作られたものですが、廃墟、古い教会、洞窟、地下墓地、古い魔法使いの塔、その他忘れられた隠れ家など、あらゆる舞台でランダムに遭遇するモンスターを生成するために使用することができます。
 
-To use these tables, first decide what dungeon level the characters are on. This might correspond to the level of the characters but it doesn't have to. If 2nd-level characters decide to descend to dungeon level 5, so be it.
+このテーブルを使うには、まず、キャラクターが挑むダンジョン・レベルを決めます。これはキャラクターのレベルと一致するかもしれませんが、必ずしもそうである必要はありません。もし、2レベルのキャラクターがダンジョンレベル5に降臨することになったとしても、それはそれで構いません。
 
-Once you have a dungeon level selected, roll a d20 and look across to see which monster table you should use. For example, if the characters are on dungeon level 4 and you roll a 12, you'll use monster table 3. Then go to the indicated monster table and roll a d20 again, to determine which monster might show up. Using the above example, consulting monster table 3 and rolling a 3 gives a result of 'Ghoul.' Instead of using dungeon levels, you can just jump to whichever monster table feels right for the circumstances. If you know you're looking for a monster with a challenge rating of 4 or 5, just roll on Monster Table 6. You can also use these tables to quickly look up monsters at particular challenge ratings. Even if you absolutely hate random encounters, you can use the tables to generate encounter ideas you might never think of otherwise.
+ダンジョンレベルが決まったら、D20を振って、どのモンスター・リストを使うべきかを確認します。例えば、ダンジョンレベル4にいるキャラクターが12を出した場合、モンスター・リスト3を使うことになります。次に、指示されたモンスター・リストを見て、再びD20を振り、どのモンスターが現れるか判断します。上記の例では、モンスター・リスト3を参照し、3を出すと「グール」という結果が出ます。ダンジョン・レベルを使わずに、状況に応じて適切と思われるモンスター・リストを直接使用しても構いません。脅威度4や5のモンスターを探していることが分かっていれば、モンスター・リスト6をロールすれば良いでしょう。また、これらのリストを使えば、特定の脅威度のモンスターをすぐに調べることができます。ランダムエンカウントが大嫌いな人でも、この表を使えば、他の方法では思いつかないようなエンカウントアイデアを生み出すことができます。
 
-There are a few ways to choose the number of monsters in an encounter. First, think about what makes sense. Ghouls travel in packs, but a rug of smothering is probably found alone. You might roll dice to determine the number of monsters-for example, 3d6 ghouls. You might also choose to have one monster leading others-a pack of ghouls led by a ghast, for example.
+エンカウントに登場するモンスターの数を決めるには、いくつかの方法があります。まず、何が理にかなっているかを考える。グールは群れで移動しますが、ラグ・オヴ・スマザリングはおそらく単独で発見されることでしょう。サイコロを振ってモンスターの数を決めてもよいでしょう。例えばグールの数を決めるのに3d6など。また、グールの群れを率いる1体のガスト、のように、1体のモンスターが他のモンスターを率いるようにすることもできます。
 
-Before the number of monsters is set, you can gauge whether your intended encounter is deadly or not by using the "[5e Quick Encounter Building](#quickencounterbuilding)" section of this document.
+モンスターの数を決める前に、この文書の「[クイックな戦闘遭遇の作成（５版向け）](#quickencounterbuilding)」の項を利用して、あなたが構想している戦闘遭遇が致命的か否かを判断することができます。
 
-| ↓Dungeon Level/Monster List→ | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| ↓ダンジョン・レベル/モンスター・リスト→ | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | 1 | 1–16 | 17–19 | 20 | – | – | – | – | – | – | |
 | 2 | 1–12 | 13–16 | 17–18 | 19 | 20 | – | – | – | – | |
@@ -2294,217 +2294,217 @@ Before the number of monsters is set, you can gauge whether your intended encoun
 | 14–15 | 1 | 2 | 3 | 4 | 5 | 6 | 7–8 | 9–11 | 12–17 | 18–20 |
 | 16+ | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8–10 | 11–16 | 17–20 |
 
-### Monster List 1 (CR 1/8–1/4)
+### モンスター・リスト 1 (CR 1/8–1/4)
 
-1.  Bandit
-2.  Cultist
-3.  Flying snake
-4.  Giant crab
-5.  Giant rat
-6.  Kobold
-7.  Poisonous snake
-8.  Stirge
-9.  Tribal warrior
-10.  Axe beak
-11.  Blink dog
-12.  Dretch
-13.  Drow
-14.  Giant bat
-15.  Giant frog
-16.  Giant wolf spider
-17.  Goblin
-18.  Skeleton
-19.  Swarm of bats
-20.  Swarm of rats
+1.  山賊(Bandit)
+2.  カルト教団員(Cultist)
+3.  フライング・スネーク(Flying snake)
+4.  ジャイアント・クラブ(Giant crab)
+5.  ジャイアント・ラット(Giant rat)
+6.  コボルド(Kobold)
+7.  ポイズナス・スネーク(Poisonous snake)
+8.  スタージ(Stirge)
+9.  部族の戦士(Tribal warrior)
+10.  アックス・ビーク(Axe beak)
+11.  ブリンク・ドッグ(Blink dog)
+12.  ドレッチ(Dretch)
+13.  ドラウ(Drow)
+14.  ジャイアント・バット(Giant bat)
+15.  ジャイアント・フロッグ(Giant frog)
+16.  ジャイアント・ウルフ・スパイダー(Giant wolf spider)
+17.  ゴブリン(Goblin)
+18.  スケルトン(Skeleton)
+19.  スウォーム・オヴ・バッツ(Swarm of bats)
+20.  スウォーム・オヴ・ラッツ(Swarm of rats)
 
-### Monster List 2 (CR 1/4–1)
+### モンスター・リスト 2 (CR 1/4–1)
 
-1.  Wolf
-2.  Zombie
-3.  Cockatrice
-4.  Darkmantle
-5.  Gnoll
-6.  Gray ooze
-7.  Hobgoblin
-8.  Lizardfolk
-9.  Magmin
-10.  Orc
-11.  Rust monster
-12.  Sahuagin
-13.  Scout
-14.  Shadow
-15.  Swarm of insects
-16.  Thug
-17.  Worg
-18.  Animated armor
-19.  Bugbear
-20.  Death dog
+1.  ウルフ(Wolf)
+2.  ゾンビ(Zombie)
+3.  コッカトリス(Cockatrice)
+4.  ダークマントル(Darkmantle)
+5.  ノール(Gnoll)
+6.  グレイ・ウーズ(Gray ooze)
+7.  ホブゴブリン(Hobgoblin)
+8.  リザードフォーク(Lizardfolk)
+9.  マグミン(Magmin)
+10.  オーク(Orc)
+11.  ラスト・モンスター(Rust monster)
+12.  サフアグン(Sahuagin)
+13.  斥候、スカウト(Scout)
+14.  シャドウ(Shadow)
+15.  スウォーム・オヴ・インセクツ(Swarm of insects)
+16.  ならず者(Thug)
+17.  ウォーグ(Worg)
+18.  アニメイテッド・アーマー(Animated armor)
+19.  バグベア(Bugbear)
+20.  デス・ドッグ(Death dog)
 
-### Monster List 3 (CR 1–2)
+### モンスター・リスト 3 (CR 1–2)
 
-1.  Dire wolf
-2.  Duergar
-3.  Ghoul
-4.  Giant spider
-5.  Giant toad
-6.  Harpy
-7.  Imp
-8.  Specter
-9.  Spy
-10.  Ankheg
-11.  Bandit captain
-12.  Berserker
-13.  Black dragon wyrmling
-14.  Cult fanatic
-15.  Ettercap
-16.  Gargoyle
-17.  Gelatinous cube
-18.  Ghast
-19.  Giant constrictor snake
-20.  Gibbering mouther
+1.  ダイア・ウルフ(Dire wolf)
+2.  ドゥエルガル(Duergar)
+3.  グール(Ghoul)
+4.  ジャイアント・スパイダー(Giant spider)
+5.  ジャイアント・トード(Giant toad)
+6.  ハーピー(Harpy)
+7.  インプ(Imp)
+8.  スペクター(Specter)
+9.  密偵、スパイ(Spy)
+10.  アンケグ(Ankheg)
+11.  山賊の頭目(Bandit captain)
+12.  狂戦士(Berserker)
+13.  ブラック・ドラゴン・ワームリング(Black dragon wyrmling)
+14.  カルトの狂信者(Cult fanatic)
+15.  エターキャップ(Ettercap)
+16.  ガーゴイル(Gargoyle)
+17.  ゼラチナス・キューブ(Gelatinous cube)
+18.  ガスト(Ghast)
+19.  ジャイアント・コンストリクター・スネーク(Giant constrictor snake)
+20.  ジバリング・マウザー(Gibbering mouther)
 
-### Monster List 4 (CR 2–3)
+### モンスター・リスト 4 (CR 2–3)
 
-1.  Azer
-2.  Green dragon wyrmling
-3.  Grick
-4.  Griffon
-5.  Merrow
-6.  Mimic
-7.  Minotaur skeleton
-8.  Ochre jelly
-9.  Ogre
-10.  Ogre zombie
-11.  Priest
-12.  Rug of smothering
-13.  Sea hag
-14.  Swarm of poisonous snakes
-15.  Wererat
-16.  White dragon wyrmling
-17.  Will-o'-wisp
-18.  Basilisk
-19.  Bearded devil
-20.  Blue dragon wyrmling
+1.  エイザー(Azer)
+2.  グリーン・ドラゴン・ワームリング(Green dragon wyrmling)
+3.  グリック(Grick)
+4.  グリフィン(Griffon)
+5.  メロウ(Merrow)
+6.  ミミック(Mimic)
+7.  ミノタウロス・スケルトン(Minotaur skeleton)
+8.  オーカー・ジェリー(Ochre jelly)
+9.  オーガ(Ogre)
+10.  オーガ・ゾンビ(Ogre zombie)
+11.  司祭、プリースト(Priest)
+12.  ラグ・オヴ・スマザリング(Rug of smothering)
+13.  シー・ハグ(Sea hag)
+14.  スウォーム・オヴ・ポイズナス・スネークス(Swarm of poisonous snakes)
+15.  ワーラット(Wererat)
+16.  ホワイト・ドラゴン・ワームリング(White dragon wyrmling)
+17.  ウィル・オ・ウィスプ(Will-o'-wisp)
+18.  バジリスク(Basilisk)
+19.  ビアデッド・デヴィル(Bearded devil)
+20.  ブルー・ドラゴン・ワームリング(Blue dragon wyrmling)
 
-### Monster List 5 (CR 3–4)
+### モンスター・リスト 5 (CR 3–4)
 
-1.  ドッペルゲンガー
-2.  Giant scorpion
-3.  Green hag
-4.  Hell hound
-5.  Knight
-6.  Manticore
-7.  Minotaur
-8.  Mummy
-9.  Nightmare
-10.  Owlbear
-11.  Phase spider
-12.  Veteran
-13.  Werewolf
-14.  Wight
-15.  Winter wolf
-16.  Black pudding
-17.  Chuul
-18.  Couatl
-19.  Ettin
-20.  Ghost
+1.  ドッペルゲンガー(Doppelganger)
+2.  ジャイアント・スコーピオン(Giant scorpion)
+3.  グリーン・ハグ(Green hag)
+4.  ヘル・ハウンド(Hell hound)
+5.  騎士、ナイト(Knight)
+6.  マンティコア(Manticore)
+7.  ミノタウロス(Minotaur)
+8.  マミー(Mummy)
+9.  ナイトメア(Nightmare)
+10.  アウルベア(Owlbear)
+11.  フェイズ・スパイダー(Phase spider)
+12.  古強者(Veteran)
+13.  ワーウルフ(Werewolf)
+14.  ワイト(Wight)
+15.  ウィンター・ウルフ(Winter wolf)
+16.  ブラック・プディング(Black pudding)
+17.  チュール(Chuul)
+18.  コアトル(Couatl)
+19.  エティン(Ettin)
+20.  ゴースト(Ghost)
 
-### Monster List 6 (CR 4–5)
+### モンスター・リスト 6 (CR 4–5)
 
-1.  Lamia
-2.  Red dragon wyrmling
-3.  Succubus/incubus
-4.  Wereboar
-5.  Air elemental
-6.  Barbed devil
-7.  Bulette
-8.  Earth elemental
-9.  Fire elemental
-10.  Flesh golem
-11.  Giant crocodile
-12.  Gladiator
-13.  Gorgon
-14.  Half-red dragon veteran
-15.  Hill giant
-16.  Night hag
-17.  Otyugh
-18.  Roper
-19.  Shambling mound
-20.  Troll
+1.  ラミア(Lamia)
+2.  レッド・ドラゴン・ワームリング(Red dragon wyrmling)
+3.  サキュバス／インキュバス(Succubus/incubus)
+4.  ワーボア(Wereboar)
+5.  エア・エレメンタル(Air elemental)
+6.  バーブド・デヴィル(Barbed devil)
+7.  ブレイ(Bulette)
+8.  アース・エレメンタル(Earth elemental)
+9.  ファイアー・エレメンタル(Fire elemental)
+10.  フレッシュ・ゴーレム(Flesh golem)
+11.  ジャイアント・クロコダイル(Giant crocodile)
+12.  剣闘士(Gladiator)
+13.  ゴーゴン(Gorgon)
+14.  ハーフレッド・ドラゴンの古強者(Half-red dragon veteran)
+15.  ヒル・ジャイアント(Hill giant)
+16.  ナイト・ハグ(Night hag)
+17.  アティアグ(Otyugh)
+18.  ローパー(Roper)
+19.  シャンブリング・マウンド(Shambling mound)
+20.  トロール(Troll)
 
-### Monster List 7 (CR 5–8)
+### モンスター・リスト 7 (CR 5–8)
 
-1.  Salamander
-2.  Vampire spawn
-3.  Water elemental
-4.  Wraith
-5.  Xorn
-6.  Chimera
-7.  Drider
-8.  Invisible stalker
-9.  Mage
-10.  Medusa
-11.  Vrock
-12.  Wyvern
-13.  Young white dragon
-14.  Oni
-15.  Shield guardian
-16.  Stone giant
-17.  Young black dragon
-18.  Assassin
-19.  Chain devil
-20.  Cloaker
+1.  サラマンダー(Salamander)
+2.  ヴァンパイア・スポーン(Vampire spawn)
+3.  ウォーター・エレメンタル(Water elemental)
+4.  レイス(Wraith)
+5.  ゾーン(Xorn)
+6.  キマイラ(Chimera)
+7.  ドライダー(Drider)
+8.  インヴィジブル・ストーカー(Invisible stalker)
+9.  魔道士(Mage)
+10.  メドゥサ(Medusa)
+11.  ヴロック(Vrock)
+12.  ワイヴァーン(Wyvern)
+13.  ヤング・ホワイト・ドラゴン(Young white dragon)
+14.  オニ(Oni)
+15.  シールド・ガーディアン(Shield guardian)
+16.  ストーン・ジャイアント(Stone giant)
+17.  ヤング・ブラック・ドラゴン(Young black dragon)
+18.  暗殺者(Assassin)
+19.  チェイン・デヴィル(Chain devil)
+20.  クローカー(Cloaker)
 
-### Monster List 8 (CR 8–12)
+### モンスター・リスト 8 (CR 8–12)
 
-1.  Frost giant
-2.  Hezrou
-3.  Hydra
-4.  Spirit naga
-5.  Young green dragon
-6.  Bone devil
-7.  Clay golem
-8.  Cloud giant
-9.  Fire giant
-10.  Glabrezu
-11.  Young blue dragon
-12.  Aboleth
-13.  Guardian naga
-14.  Stone golem
-15.  Young red dragon
-16.  Behir
-17.  Ereeti
-18.  Horned devil
-19.  Remorhaz
-20.  Archmage
+1.  フロスト・ジャイアント(Frost giant)
+2.  ヘズロウ(Hezrou)
+3.  ヒュドラ(Hydra)
+4.  スピリット・ナーガ(Spirit naga)
+5.  ヤング・グリーン・ドラゴン(Young green dragon)
+6.  ボーン・デヴィル(Bone devil)
+7.  クレイ・ゴーレム(Clay golem)
+8.  クラウド・ジャイアント(Cloud giant)
+9.  ファイアー・ジャイアント(Fire giant)
+10.  グラブレズゥ(Glabrezu)
+11.  ヤング・ブルー・ドラゴン(Young blue dragon)
+12.  アボレス(Aboleth)
+13.  ガーディアン・ナーガ(Guardian naga)
+14.  ストーン・ゴーレム(Stone golem)
+15.  ヤング・レッド・ドラゴン(Young red dragon)
+16.  ビーヒア(Behir)
+17.  イフリート(efreeti)(訳注：原文は"ereeti"だったがおそらく"efreeti"のタイポと思われる)
+18.  ホーンド・デヴィル(Horned Devil)
+19.  ルモアハズ(Remorhaz)
+20.  大魔道士(Archmage)
 
-### Monster List 9 (CR 12–16)
+### モンスター・リスト 9 (CR 12–16)
 
-1.  Erinyes
-2.  Adult white dragon
-3.  Nalfeshnee
-4.  Rakshasa
-5.  Storm giant
-6.  Vampire
-7.  Adult black dragon
-8.  Ice devil
-9.  Adult green dragon
-10.  Mummy lord
-11.  Purple worm
-12.  Adult blue dragon
+1.  エリニュス(Erinyes)
+2.  アダルト・ホワイト・ドラゴン(Adult white dragon)
+3.  ナルフェシュネー(Nalfeshnee)
+4.  ラークシャサ(Rakshasa)
+5.  ストーム・ジャイアント(Storm giant)
+6.  ヴァンパイア(Vampire)
+7.  アダルト・ブラック・ドラゴン(Adult black dragon)
+8.  アイス・デヴィル(Ice dragon)
+9.  アダルト・グリーン・ドラゴン(Adult green dragon)
+10.  マミー・ロード(Mummy lord)
+11.  パープル・ワーム(Purple Worm)
+12.  アダルト・ブルー・ドラゴン(Adult blue dragon)
 
-### Monster List 10 (CR 16–24)
+### モンスター・リスト 10 (CR 16–24)
 
-1.  Iron golem
-2.  Marilith
-3.  Adult red dragon
-4.  Balor
-5.  Ancient white dragon
-6.  Pit fiend
-7.  Anclent black dragon
-8.  Lich
-9.  Ancient blue dragon
-10.  Ancient red dragon
+1.  アイアン・ゴーレム(Iron golem)
+2.  マリリス(Marilith)
+3.  アダルト・レッド・ドラゴン(Adult red dragon)
+4.  バロール(Balor)
+5.  エインシャント・ホワイト・ドラゴン(Ancient white dragon)
+6.  ピット・フィーンド(Pit Fiend)
+7.  エインシャント・ブラック・ドラゴン(Ancient black dragon)
+8.  リッチ(Lich)
+9.  エインシャント・ブルー・ドラゴン(Ancient blue dragon)
+10.  エインシャント・レッド・ドラゴン(Ancient red dragon)
 
 <a id="lazysolo5e"></a>
 ラジーなソロ5e
