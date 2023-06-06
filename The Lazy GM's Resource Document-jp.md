@@ -21,7 +21,7 @@ The Lazy GM's Resource Document
 *   [ラジーにRPGを準備するための８つのステップ](#eightsteps)
 *   [ラジーにＲＰＧに必要なツールを準備する](#prepprocess)
 *   [強力なスタートの例](#strongstarts)
-*   [Creating Secrets and Clues](#creatingsecrets)
+*   [秘密と手がかりを定義する](#creatingsecrets)
 *   [RPGグループの構築](#buildingagroup)
 *   [セッション・ゼロのチェックリスト](#sessionzerochecklist)
 *   [セーフティ・ツール](#safetytools)
@@ -45,7 +45,7 @@ The Lazy GM's Resource Document
 *   [ランダムな構築物](#randommonuments)
 *   [Random Items](#randomitems)
 *   [Random Town Events](#randomtownevents)
-*   [Random Dungeon Monsters](#randomdungeonmonsters)
+*   [ランダム・ダンジョン・モンスター](#randomdungeonmonsters)
 *   [ラジーなソロ5e](#lazysolo5e)
 
 <a id="eightsteps"></a>
