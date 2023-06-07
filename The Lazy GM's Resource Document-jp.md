@@ -1271,7 +1271,7 @@ GM とプレイヤーは協力して、ストレスの影響が長期的な影�
 これらのテーブルを使用して冒険のためのパトロンまたは NPC を生成し、NPC 統計ブロックを適用して悪役、雇い人、ライバル、または使者を作成します。
 
 d20 | 行動 | 祖先
--- | -- | --
+:--: | :--: | :--:
 1 | 熱狂的 | ヒューマン
 2 | 突飛 | エルフ
 3 | 狡い | ドワーフ
@@ -1325,7 +1325,7 @@ d20 | 行動 | 祖先
 クエストの場所には、冒険の目標に関連付けられた特定のモニュメントやアイテムが含まれる場合もあります。
 
 d20 | 場所 | モニュメント | アイテム
--- | -- | -- | --
+:--: | :--: | :--: | :--:
 1 | 塔 | 石棺 | コイン
 2 | 地下室 | オベリスク | 置物
 3 | 砦 | オーブ | 宝石
@@ -1352,7 +1352,7 @@ d20 | 場所 | モニュメント | アイテム
 場所、モニュメント、アイテムは、その状態、説明、起源を決定することによって味付けすることができます。
 
 d20 | 状態 | 説明 | 起源
--- | -- | -- | --
+:--: | :--: | :--: | :--:
 1 | 煙い | 破滅した | ヒューマン
 2 | 酸っぱい | 朽ち果てた | エルフ
 3 | 血まみれの | 黒曜石のような | ドワーフ
@@ -1659,7 +1659,7 @@ d20 | 状態 | 説明 | 起源
 以下の表により、キャラクターの平均レベルに応じて、金貨の入った袋にいくら入っているかを決定して冒険者グループに素早く報酬を与えるために使用します。レベルごとに4回、または複数個を組み合わせて、より大きな報酬を与えることもできます。
 
 レベル | 袋ひとつ当たりのゴールド
--- | --
+:--: | :--:
 1 - 4 | 100 gp (3d6 × 10 gp)
 5 - 10 | 1,300 gp (3d8 × 100 gp)
 11 - 16 | 7,000 gp (2d6 × 1,000 gp)
@@ -1815,7 +1815,7 @@ d20 | 状態 | 説明 | 起源
 ### レベルと深刻さ毎のダメージ
 
 キャラクターのレベル | 妨害 | 危険 | 致命
--- | -- | -- | --
+:--: | :--: | :--: | :--:
 1 - 4 | 5 (1d10) | 11 (2d10) | 22 (4d10)
 5 - 10 | 11 (2d10) | 22 (4d10) | 55 (10d10)
 11 - 16 | 22 (4d10) | 55 (10d10) | 99 (18d10)
@@ -1958,62 +1958,62 @@ d20 | 状態 | 説明 | 起源
 50.  オーブ
 
 <a id="randomitems"></a>
-Random Items
+ランダムなアイテム
 ------------
 
-The following lists allow you to generate useful relics and objects, from mundane discoveries to powerful magical artifacts. If you want to come up with an interesting magic weapon, for example, you might roll on the Item Condition, Item Origin, Weapon, and Spell Effect tables. If you just want a weird mundane item, roll on the Item Condition, Item Origin, and Mundane Item tables without adding any effect.
+以下のリストでは、ありふれた発見物から強力な魔法のアーティファクトまで、有用な遺物やオブジェクトを生成することができます。例えば、面白い魔法の武器を作りたい場合、アイテム条件、アイテムの起源、武器、呪文効果の表でロールします。ただ単に奇妙な平凡なアイテムが欲しい場合は、何の効果も加えず、アイテムの状態、アイテムの由来、平凡なアイテムのテーブルでロールします。
 
-Some strange relics might allow a single use of a powerful magical spell. Roll on the Item Condition, Item Origin, Mundane Item, and Spell Effect table to generate a unique single-use magical relic.
+奇妙な遺物には、強力な魔法の呪文を1回だけ使用できるものもあります。アイテム条件表、アイテム由来表、平凡アイテム表、呪文効果表でロールして、ユニークな一回使用可能な魔法の遺物を生成します。
 
-Also included is a table noting the four types of _healing potions_ and how many hit points each potion restores.
+また、4種類の「ヒーリングポーション」と、それぞれのポーションが回復するヒットポイントを記した表も掲載されています。
 
-### 1d20 Weapon Types
+### 1d20 武器のタイプ
 
-1.  Dagger
-2.  Mace
-3.  Quarterstaff
-4.  Spear
-5.  Light crossbow
-6.  Shortbow
-7.  Battleaxe
-8.  Flail
-9.  Glaive
-10.  Greataxe
-11.  Greatsword
-12.  Longsword
-13.  Maul
-14.  Morningstar
-15.  Rapier
-16.  Scimitar
-17.  Shortsword
-18.  Warhammer
-19.  Heavy crossbow
-20.  Longbow
+1.  ダガー
+2.  メイス
+3.  クォータースタッフ
+4.  スピア
+5.  ライトクロスボウ
+6.  ショートボウ
+7.  バトルアックス
+8.  フレイル
+9.  グレイヴ
+10.  グレートアックス
+11.  グレートソード
+12.  ロングソード
+13.  モール
+14.  モーニングスター
+15.  レイピア
+16.  シミター
+17.  ショートソード
+18.  ウォーハンマー
+19.  ヘビークロスボウ
+20.  ロングボウ
 
-### 1d20 Item Origins
+### 1d20 アイテムの起源
 
-1.  Draconic
-2.  Dwarven
-3.  Elven
-4.  Primeval
-5.  Divine
-6.  Unholy
-7.  Abyssal
-8.  Otherworldly
-9.  Orcish
-10.  Undead
-11.  Goblinoid
-12.  Ghoulish
-13.  Vampiric
-14.  Dark elven
-15.  Astral
-16.  Ethereal
-17.  Hellish
-18.  Demonic
-19.  Elemental
-20.  Gnomish
+1.  ドラゴンの
+2.  ドワーフの
+3.  エルフの
+4.  太古からの
+5.  神聖なるもの
+6.  不浄なるもの
+7.  奈落の
+8.  異界的な
+9.  オークの
+10.  不死なるものの
+11.  ゴブリンの
+12.  グールの
+13.  ヴァンパイアの
+14.  ダークエルフの
+15.  アストラル（霊体）
+16.  エーテル界の
+17.  九層地獄の
+18.  デーモンの
+19.  エレメンタルの
+20.  ノームの
 
-### 1d20 Item Conditions
+### 1d20 アイテムの状態
 
 1.  Grimy
 2.  Chipped
@@ -2036,73 +2036,73 @@ Also included is a table noting the four types of _healing potions_ and how many
 19.  Shining
 20.  Smoldering
 
-### 1d12 Armor Types
+### 1d12 鎧のタイプ
 
-1.  Leather
-2.  Studded leather
-3.  Hide
-4.  Chain shirt
-5.  Scale mail
-6.  Breastplate
-7.  Half plate
-8.  Ring mail
-9.  Chain mail
-10.  Splint
-11.  Plate
-12.  Shield
+1.  皮革
+2.  スタデッド・レザー
+3.  ハイド
+4.  チェーンシャツ
+5.  スケールメイル
+6.  ブレストプレート
+7.  ハーフプレート
+8.  リングメール
+9.  チェーンメイル
+10.  スプリント
+11.  プレート
+12.  シールド
 
-### 50 Mundane Items
+### 50 ありふれたアイテム
 
-1.  Amulet
-2.  Arrowhead
-3.  Bell
-4.  Bird skull
-5.  Bone
-6.  Bowl
-7.  Box
-8.  Bracelet
-9.  Brooch
-10.  Buckle
-11.  Candle
-12.  Coin
-13.  Crown
-14.  Cup
-15.  Dagger
-16.  Disc
-17.  Earring
-18.  Figurine
-19.  Finger bone
-20.  Flute
-21.  Forked rod
-22.  Gemstone
-23.  Glove
-24.  Goblet
-25.  Hammer
-26.  Idol
-27.  Jewelry box
-28.  Key
-29.  Lamp
-30.  Mask
-31.  Medallion
-32.  Mirror
-33.  Necklace
-34.  Opal
-35.  Orb
-36.  Pipe
-37.  Quill
-38.  Ring
-39.  Rod
-40.  Skull
-41.  Sphere
-42.  Spike
-43.  Statue
-44.  Stone
-45.  String of beads
-46.  Symbol
-47.  Tiara
-48.  Tooth
-49.  Vial
-50.  Wand
+1.  アミュレット（護符）
+2.  矢尻
+3.  ベル
+4.  鳥の頭骨
+5.  骨
+6.  ボウル
+7.  箱
+8.  ブレスレット
+9.  ブローチ
+10.  バックル
+11.  ろうそく
+12.  コイン
+13.  王冠
+14.  カップ
+15.  短剣
+16.  円盤
+17.  イヤリング
+18.  フィギュア
+19.  指の骨
+20.  フルート
+21.  フォーク型ロッド
+22.  宝石
+23.  グローブ
+24.  ゴブレット
+25.  ハンマー
+26.  偶像
+27.  宝石箱
+28.  鍵
+29.  ランプ
+30.  マスク
+31.  メダリオン
+32.  鏡
+33.  ネックレス
+34.  オパール
+35.  オーブ
+36.  パイプ
+37.  クイル（羽ペン）
+38.  リング
+39.  ロッド
+40.  スカル
+41.  球体
+42.  スパイク
+43.  彫像
+44.  石
+45.  数珠つなぎ
+46.  シンボル
+47.  ティアラ
+48.  歯
+49.  バイアル
+50.  ワンド
 
 ### 50 Spell Effect
 
@@ -2157,14 +2157,14 @@ Also included is a table noting the four types of _healing potions_ and how many
 49.  _True strike_
 50.  _Web_
 
-### Potions of Healing
+### ポーション・オブ・ヒーリング
 
-| d20 | Potion of | Rarity | HP Regained |
-| -- | -- | -- | -- |
-| 1 - 12 | Healing | Common | 2d4 + 2 |
-| 13 - 16 | Greater healing | Uncommon | 4d4 + 4 |
-| 17 - 19 | Superior healing | Rare | 8d4 + 8 |
-| 20 | Supreme healing | Very rare | 10d4 + 20 |
+| d20 | Potion of | レアリティ | HPの回復 |
+| :--: | :--: | :--: | :--: |
+| 1 - 12 | ヒーリング | コモン | 2d4 + 2 |
+| 13 - 16 | グレーター・ヒーリング | アンコモン | 4d4 + 4 |
+| 17 - 19 | スーペリアー・ヒーリング | レア | 8d4 + 8 |
+| 20 | スプリーム・ヒーリング | ヴェリーレア | 10d4 + 20 |
 
 <a id="randomtownevents"></a>
 Random Town Events
