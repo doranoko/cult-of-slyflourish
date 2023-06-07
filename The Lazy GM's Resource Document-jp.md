@@ -43,7 +43,7 @@ The Lazy GM's Resource Document
 *   [トレジャー・ジェネレーター](#treasuregenerator)
 *   [ランダムな罠](#randomtraps)
 *   [ランダムな構築物](#randommonuments)
-*   [Random Items](#randomitems)
+*   [ランダムなアイテム](#randomitems)
 *   [ランダムな町の出来事](#randomtownevents)
 *   [ランダムなダンジョン・モンスター](#randomdungeonmonsters)
 *   [ラジーなソロ5e](#lazysolo5e)
@@ -2015,30 +2015,30 @@ d20 | 状態 | 説明 | 起源
 
 ### 1d20 アイテムの状態
 
-1.  Grimy
-2.  Chipped
-3.  Rough
-4.  Smooth
-5.  Ancient
-6.  Crumbling
-7.  Pristine
-8.  Cool
-9.  Ornate
-10.  Plain
-11.  Rune-scribed
-12.  Carved
-13.  Decorated
-14.  Delicate
-15.  Burned
-16.  Oily
-17.  Pulsing
-18.  Glowing
-19.  Shining
-20.  Smoldering
+1.  ほこりだらけ
+2.  欠けた
+3.  粗い
+4.  滑らかさな
+5.  古代の
+6.  崩れやすい
+7.  無垢の
+8.  冷たい
+9.  華やか
+10.  飾り気のない
+11.  ルーン模様
+12.  彫りの入った
+13.  装飾された
+14.  繊細な
+15.  燃やされたような
+16.  油っぽい
+17.  脈打つような
+18.  光っている
+19.  輝いている
+20.  くすぶっている
 
 ### 1d12 鎧のタイプ
 
-1.  皮革
+1.  レザー
 2.  スタデッド・レザー
 3.  ハイド
 4.  チェーンシャツ
@@ -2083,7 +2083,7 @@ d20 | 状態 | 説明 | 起源
 28.  鍵
 29.  ランプ
 30.  マスク
-31.  メダリオン
+31.  メダル
 32.  鏡
 33.  ネックレス
 34.  オパール
@@ -2097,65 +2097,65 @@ d20 | 状態 | 説明 | 起源
 42.  スパイク
 43.  彫像
 44.  石
-45.  数珠つなぎ
+45.  数珠
 46.  シンボル
 47.  ティアラ
 48.  歯
-49.  バイアル
+49.  瓶
 50.  ワンド
 
 ### 50 Spell Effect
 
-1.  _Acid arrow_
-2.  _Acid splash_
-3.  _Bane_
-4.  _Banishment_
-5.  _Bestow curse_
-6.  _Black tentacles_
-7.  _Bless_
-8.  _Blight_
-9.  _Blindness/ deafness_
-10.  _Burning hands_
-11.  _Charm person_
-12.  _Cloudkill_
-13.  _Color spray_
-14.  _Comprehend languages_
-15.  _Cone of cold_
-16.  _Cure wounds_
-17.  _Detect evil and good_
-18.  _Detect magic_
-19.  _Disintegrate_
-20.  _Dispel magic_
-21.  _Fear_
-22.  _Fire shield_
-23.  _Firebolt_
-24.  _Flame strike_
-25.  _Fly_
-26.  _Fog cloud_
-27.  _Gaseous form_
-28.  _Guiding bolt_
-29.  _Haste_
-30.  _Ice storm_
-31.  _Inflict wounds_
-32.  _Insect plague_
-33.  _Invisibility_
-34.  _Jump_
-35.  _Light_
-36.  _Lightning bolt_
-37.  _Misty step_
-38.  _Ray of enfeeblement_
-39.  _Scorching ray_
-40.  _Shatter_
-41.  _Shield of faith_
-42.  _Shocking grasp_
-43.  _Silence_
-44.  _Sleep_
-45.  _Slow_
-46.  _Stinking cloud_
-47.  _Stoneskin_
-48.  _Thunderwave_
-49.  _True strike_
-50.  _Web_
+1.  _アシッド・アロー_
+2.  _アシッド・スプラッシュ_
+3.  _ベイン_
+4.  _バニッシュメント_
+5.  _ビストウ・カース_
+6.  _ブラック・テンタクルズ_
+7.  _ブレス_
+8.  _ブライト_
+9.  _ブラインドネス/デフネス_
+10.  _バーニング・ハンズ_
+11.  _チャーム・パーソン_
+12.  _クラウドキル_
+13.  _カラー・スプレー_
+14.  _コンプリヘンド・ランゲージズ_
+15.  _コーン・オヴ・コールド_
+16.  _キュア・ウーンズ_
+17.  _ディテクト・イーヴル・アンド・グッド_
+18.  _ディテクト・マジック_
+19.  _ディスインテグレイト_
+20.  _ディスペル・マジック_
+21.  _フィアー_
+22.  _ファイアー・シールド_
+23.  _ファイアー・ボルト_
+24.  _フレイム・ストライク_
+25.  _フライ_
+26.  _フォッグ・クラウド_
+27.  _ガシアス・フォーム_
+28.  _ガイディング・ボルト_
+29.  _ヘイスト_
+30.  _アイス・ストーム_
+31.  _インフリクト・ウーンズ_
+32.  _インセクト・プレイグ_
+33.  _インヴィジビリティ_
+34.  _ジャンプ_
+35.  _ライト_
+36.  _ライトニング・ボルト_
+37.  _ミスティ・ステップ_
+38.  _レイ・オヴ・エンフィーブルメント_
+39.  _スコーチング・レイ_
+40.  _シャター_
+41.  _シールド・オヴ・フェイス_
+42.  _ショッキング・グラスプ_
+43.  _サイレンス_
+44.  _スリープ_
+45.  _スロー_
+46.  _スティンキング・クラウド_
+47.  _ストーンスキン_
+48.  _サンダーウェイヴ_
+49.  _トゥルー・ストライク_
+50.  _ウェブ_
 
 ### ポーション・オブ・ヒーリング
 
