@@ -44,8 +44,8 @@ The Lazy GM's Resource Document
 *   [ランダムな罠](#randomtraps)
 *   [ランダムな構築物](#randommonuments)
 *   [Random Items](#randomitems)
-*   [Random Town Events](#randomtownevents)
-*   [ランダム・ダンジョン・モンスター](#randomdungeonmonsters)
+*   [ランダムな町の出来事](#randomtownevents)
+*   [ランダムなダンジョン・モンスター](#randomdungeonmonsters)
 *   [ラジーなソロ5e](#lazysolo5e)
 
 <a id="eightsteps"></a>
@@ -2167,105 +2167,105 @@ d20 | 状態 | 説明 | 起源
 | 20 | スプリーム・ヒーリング | ヴェリーレア | 10d4 + 20 |
 
 <a id="randomtownevents"></a>
-Random Town Events
+ランダムな町の出来事
 ------------------
 
-Whenever the characters enter a new town or start a new session there, adding some detail and context to the setting can help bring things to life. These "Town Events" lists help determine what might be going on in a town, how the townsfolk are currently feeling, what the weather is, and what mundane or fantastic event might be taking place.
+キャラクターが新しい町に入るとき、あるいはそこで新しいセッションを始めるとき、設定に詳細と文脈を加えることで、物事を生き生きとさせることができます。この「町の出来事」リストは、町で何が起こっているのか、町民は今どんな気持ちなのか、天気はどうなのか、平凡な出来事や幻想的な出来事が起こっているのか、などを判断するのに役立ちます。
 
-### 1d20 Town Sentiments
+### 1d20 町の雰囲気
 
-1.  Happy
-2.  Elated
-3.  Uncaring
-4.  Joyful
-5.  Optimistic
-6.  Pessimistic
-7.  Downtrodden
-8.  Frightened
-9.  Horrified
-10.  Concerned
-11.  Unconcerned
-12.  Harried
-13.  Sleep-deprived
-14.  Dazed
-15.  Hyperactive
-16.  Purposeful
-17.  Lazy
-18.  Melancholy
-19.  Busy
-20.  Suspicious
+1.  幸福に満ち溢れている
+2.  意気揚々としている
+3.  他人に無関心
+4.  喜びに満ちている
+5.  楽観的
+6.  悲観的
+7.  落ち込んでいる
+8.  ぎょっとして怯えている
+9.  恐怖に襲われている
+10.  心配事がある
+11.  心配事がない、のんきな
+12.  侵略された
+13.  寝不足である
+14.  呆けている
+15.  極度に活動的な
+16.  てきぱきしている、目標を持っている
+17.  けだるい・怠けている
+18.  塞ぎ込んでいる
+19.  忙しそう
+20.  疑心暗鬼
 
-### 1d20 Mundane Events
+### 1d20 ありふれた出来事
 
-1.  Wedding
-2.  Funeral
-3.  Preparing for war
-4.  Seasonal celebration
-5.  Burning of an effigy
-6.  Death of a noble lord
-7.  Day of drunkenness
-8.  Celebration of lovers
-9.  Great feast
-10.  Execution
-11.  Market day
-12.  Parade of vanquished foes
-13.  Celebration of the dead
-14.  Religious holiday
-15.  Wild boar hat festival
-16.  Robbery
-17.  Brawl
-18.  Visit by the circus
-19.  Wrangling of rampaging beasts
-20.  Festival of kites
+1.  結婚式
+2.  葬式
+3.  戦争への備え
+4.  季節のお祝い
+5.  等身大の人形の焼却
+6.  高貴な君主の死
+7.  酩酊の日
+8.  恋人たちの祝賀会
+9.  大宴会
+10.  処刑
+11.  市場の日
+12.  征服された敵のパレード
+13.  死者への祝賀
+14.  宗教的な休日
+15.  イノシシ帽子祭り
+16.  強盗
+17.  乱闘
+18.  サーカスの訪問
+19.  暴れる獣の取っ組み合い
+20.  凧の祭典
 
-### 1d20 Notable Weather Condtions
+### 1d20 注目すべき気象条件
 
-1.  Fog
-2.  Heavy mist
-3.  New moon
-4.  Full moon
-5.  Hot day
-6.  Chilly day
-7.  Light rain
-8.  Moderate rain
-9.  Heavy rain
-10.  Windstorm
-11.  Hailstorm
-12.  Ice storm
-13.  Cloudy day
-14.  Sunny day
-15.  Humid day
-16.  Dry day
-17.  Windy day
-18.  Light snowfall
-19.  Moderate snowfall
-20.  Snowstorm
+1.  霧(Fog)
+2.  濃い霧(Heavy mist)
+3.  新月
+4.  満月
+5.  暑い日
+6.  肌寒い日
+7.  小雨
+8.  中程度の雨
+9.  激しい雨
+10.  暴風雨
+11.  雹(ひょう)
+12.  氷雨
+13.  曇りの日
+14.  晴れの日
+15.  湿度の高い日
+16.  乾燥した日
+17.  風の強い日
+18.  小雪が降った日
+19.  中程度の降雪
+20.  吹雪
 
-### 1d20 Fantastic Events
+### 1d20 ファンタスティックな出来事
 
-1.  The stars have disappeared from the sky
-2.  An unexpected solar eclipse
-3.  The blood moon rises
-4.  Swarms of stinging insects descend
-5.  Acidic fog rolls in
-6.  A second sun appears in the sky
-7.  A storm of arcane energy
-8.  The arrival of a servant of a god
-9.  Meteor shower
-10.  A cyclopean behemoth rises
-11.  Swarms of mischievous devils
-12.  Tentacles appear in the sky
-13.  The dancing dead come to life
-14.  Volcanic eruption
-15.  Collapsing sinkhole reveals ancient ruins below
-16.  The sun does not rise
-17.  A great floating tower appears
-18.  The lord's castle disappears
-19.  The border to the fey realm grows thin
-20.  The world of shadow bleeds over into the material realm
+1.  空から星が消えた
+2.  予期せぬ日食が起こる
+3.  ブラッドムーン(皆既月蝕中の赤みがかった月)が昇る
+4.  刺咬昆虫 (刺す虫)の大群が降ってくる
+5.  酸性の霧が立ちこめる
+6.  空に第二の太陽が現れる
+7.  魔法的なエネルギーの嵐
+8.  神のしもべの登場
+9.  流星雨
+10.  一つ目の巨大な怪物が聳え立つ
+11.  いたずら好きな悪魔の群れ
+12.  空中に触手が出現する
+13.  踊る死者が生き返る
+14.  火山が噴火する
+15.  崩壊した陥没穴が地下の古代遺跡を現出させる
+16.  太陽が昇らない
+17.  巨大な浮遊塔が出現する
+18.  領主の城が消える
+19.  妖精界との境界が薄くなる
+20.  影の世界が物質界に滲み出る
 
 <a id="randomdungeonmonsters"></a>
-ランダム・ダンジョン・モンスター
+ランダムなダンジョン・モンスター
 -----------------------
 
 以下の表を用いて、ダンジョンのレベル（階層）に基づいてモンスターをランダムに選択することができます。これらの表は、昔ながらのダンジョン探索のために作られたものですが、廃墟、古い教会、洞窟、地下墓地、古い魔法使いの塔、その他忘れられた隠れ家など、あらゆる舞台でランダムに遭遇するモンスターを生成するために使用することができます。
