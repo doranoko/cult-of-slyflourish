@@ -1,5 +1,9 @@
-The Lazy GM's Resource Document
+The Lazy GM's Resource Document(日本語版)
 ===============================
+
+この文書は、[SlyFlourish.com](https://slyflourish.com)を運営されているマイケル・E・シア(Michael E. Shea)さんが公開された『The Lazy GM's Resource Document(https://slyflourish.com/lazy_gm_resource_document.html)』をmayosuke/ひで/MightyGON/mashの4名で分担して和訳したものです。オリジナルの文書と同様、この日本語版にも[クリエイティブ・コモンズ・ライセンス(表示 4.0 国際)](http://creativecommons.org/licenses/by/4.0/)を適用します。
+
+---
 
 マイケル・E・シア(Michael E. Shea), [SlyFlourish.com](https://slyflourish.com).
 
